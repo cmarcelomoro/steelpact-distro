@@ -1,185 +1,186 @@
-﻿{
-    "version":  "1.0.0",
-    "rss":  "",
-    "servers":  [
-                    {
-                        "id":  "SteelPact-1.7.10",
-                        "name":  "SteelPact Oficial",
-                        "description":  "Servidor Oficial SteelPact - Soberania e Guerra (Minecraft 1.7.10)",
-                        "version":  "1.0.0",
-                        "address":  "151.247.155.22:25705",
-                        "minecraftVersion":  "1.7.10",
-                        "discord":  {
-                                        "shortId":  "SteelPact",
-                                        "largeImageKey":  "default",
-                                        "largeImageText":  "SteelPact Online"
-                                    },
-                        "mainServer":  true,
-                        "autoconnect":  true,
-                        "modules":  [
-                                        {
-                                            "id":  "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10:universal",
-                                            "name":  "Minecraft Forge 10.13.4.1614",
-                                            "type":  "ForgeHosted",
-                                            "artifact":  {
-                                                             "size":  3971917,
-                                                             "url":  "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "+unimixins-all-1.7.10-0.3.1.jar",
-                                            "name":  "+unimixins-all-1.7.10-0.3.1.jar",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  5519796,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/mods/%2Bunimixins-all-1.7.10-0.3.1.jar",
-                                                             "MD5":  "4bedf439dc134e0065aaca457cd19bf8",
-                                                             "path":  "mods/+unimixins-all-1.7.10-0.3.1.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "baris-mod-remaster-0.0.3-shortnames-and-armor-display.jar",
-                                            "name":  "baris-mod-remaster-0.0.3-shortnames-and-armor-display.jar",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  5134273,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/mods/baris-mod-remaster-0.0.3-shortnames-and-armor-display.jar",
-                                                             "MD5":  "e4e0af07eaf5a0a24f2d8f6697b30afa",
-                                                             "path":  "mods/baris-mod-remaster-0.0.3-shortnames-and-armor-display.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "Flans Mod - CORE  STPT EDITION BETA 1.1.jar",
-                                            "name":  "Flans Mod - CORE  STPT EDITION BETA 1.1.jar",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  26063202,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/mods/Flans%20Mod%20-%20CORE%20%20STPT%20EDITION%20BETA%201.1.jar",
-                                                             "MD5":  "b1d83ba74c0ae6d72a270e460e712178",
-                                                             "path":  "mods/Flans Mod - CORE  STPT EDITION BETA 1.1.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "FlansAPI-v1.3.jar",
-                                            "name":  "FlansAPI-v1.3.jar",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  14205,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/mods/FlansAPI-v1.3.jar",
-                                                             "MD5":  "4d8148b65b1b26467c8b874f1d8afc8c",
-                                                             "path":  "mods/FlansAPI-v1.3.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "journeymap-api-forge-1.7.10-2.0.0.jar",
-                                            "name":  "journeymap-api-forge-1.7.10-2.0.0.jar",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  121060,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/mods/journeymap-api-forge-1.7.10-2.0.0.jar",
-                                                             "MD5":  "3a3bac2b481c7bd14e2ccf2bca2fe3c9",
-                                                             "path":  "mods/journeymap-api-forge-1.7.10-2.0.0.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "journeymap-forge-1.7.10-6.0.4.jar",
-                                            "name":  "journeymap-forge-1.7.10-6.0.4.jar",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  5591681,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/mods/journeymap-forge-1.7.10-6.0.4.jar",
-                                                             "MD5":  "d92eb7dad5ee87c96f8c1fb2e59e5103",
-                                                             "path":  "mods/journeymap-forge-1.7.10-6.0.4.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "SteelPact-feature-battle-system-30-09-2026.jar",
-                                            "name":  "SteelPact-feature-battle-system-30-09-2026.jar",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  1481357,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/mods/SteelPact-feature-battle-system-30-09-2026.jar",
-                                                             "MD5":  "aaa13512c0036ec531d14472aca4acc4",
-                                                             "path":  "mods/SteelPact-feature-battle-system-30-09-2026.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "[1.7.10]+Flan_s-Mod-Armours-fix-for-Custom-NPCs.jar",
-                                            "name":  "[1.7.10]+Flan_s-Mod-Armours-fix-for-Custom-NPCs.jar",
-                                            "type":  "ForgeMod",
-                                            "artifact":  {
-                                                             "size":  4372,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/mods/%5B1.7.10%5D%2BFlan_s-Mod-Armours-fix-for-Custom-NPCs.jar",
-                                                             "MD5":  "3dee9931a79ae7082b1a50b6fd47818c",
-                                                             "path":  "mods/[1.7.10]+Flan_s-Mod-Armours-fix-for-Custom-NPCs.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "BstwMachetemen.jar",
-                                            "name":  "BstwMachetemen.jar",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  6636843,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/Flan/BstwMachetemen.jar",
-                                                             "MD5":  "65a7cc7db493320f7be8ec84498018f7",
-                                                             "path":  "Flan/BstwMachetemen.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "BstwMWwarfare.jar",
-                                            "name":  "BstwMWwarfare.jar",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  1456893,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/Flan/BstwMWwarfare.jar",
-                                                             "MD5":  "a66a5dc919b3f1535c7e08d1d11b03b8",
-                                                             "path":  "Flan/BstwMWwarfare.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "Flans Mod - CORE  STPT EDITION BETA 1.1.jar",
-                                            "name":  "Flans Mod - CORE  STPT EDITION BETA 1.1.jar",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  26063202,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/Flan/Flans%20Mod%20-%20CORE%20%20STPT%20EDITION%20BETA%201.1.jar",
-                                                             "MD5":  "b1d83ba74c0ae6d72a270e460e712178",
-                                                             "path":  "Flan/Flans Mod - CORE  STPT EDITION BETA 1.1.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "Flans-Simple-Parts-Pack-1.7.10.jar",
-                                            "name":  "Flans-Simple-Parts-Pack-1.7.10.jar",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  155371,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/Flan/Flans-Simple-Parts-Pack-1.7.10.jar",
-                                                             "MD5":  "f07392edf025b603f0f876fbcaf451c9",
-                                                             "path":  "Flan/Flans-Simple-Parts-Pack-1.7.10.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "Flans-Ye-Olde-Pack-1.7.10.jar",
-                                            "name":  "Flans-Ye-Olde-Pack-1.7.10.jar",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  87056,
-                                                             "url":  "https://cmarcelomoro.github.io/steelpact-distro/Flan/Flans-Ye-Olde-Pack-1.7.10.jar",
-                                                             "MD5":  "1f48b894ee8533ee24d56e25fbfaa9a3",
-                                                             "path":  "Flan/Flans-Ye-Olde-Pack-1.7.10.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "Tyrants and Plebeians Hero Shooter Update.zip",
-                                            "name":  "Tyrants and Plebeians Hero Shooter Update.zip",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  396808510,
-                                                             "url":  "https://github.com/cmarcelomoro/steelpact-distro/releases/download/v1.0.0/Tyrants_and_Plebeians_Hero_Shooter_Update.zip",
-                                                             "path":  "Flan/Tyrants and Plebeians Hero Shooter Update.zip"
-                                                         }
-                                        }
-                                    ]
-                    }
-                ]
+{
+  "version": "1.0.0",
+  "rss": "",
+  "servers": [
+    {
+      "id": "SteelPact-1.7.10",
+      "name": "SteelPact Oficial",
+      "description": "Servidor Oficial SteelPact - Soberania e Guerra (Minecraft 1.7.10)",
+      "version": "1.0.0",
+      "address": "151.247.155.22:25705",
+      "minecraftVersion": "1.7.10",
+      "discord": {
+        "shortId": "SteelPact",
+        "largeImageKey": "default",
+        "largeImageText": "SteelPact Online"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10:universal",
+          "name": "Minecraft Forge 10.13.4.1614",
+          "type": "File",
+          "artifact": {
+            "size": 3971917,
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+          }
+        },
+        {
+          "id": "+unimixins-all-1.7.10-0.3.1.jar",
+          "name": "+unimixins-all-1.7.10-0.3.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5519796,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/%2Bunimixins-all-1.7.10-0.3.1.jar",
+            "MD5": "4bedf439dc134e0065aaca457cd19bf8",
+            "path": "mods/+unimixins-all-1.7.10-0.3.1.jar"
+          }
+        },
+        {
+          "id": "baris-mod-remaster-0.0.3-shortnames-and-armor-display.jar",
+          "name": "baris-mod-remaster-0.0.3-shortnames-and-armor-display.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5134273,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/baris-mod-remaster-0.0.3-shortnames-and-armor-display.jar",
+            "MD5": "e4e0af07eaf5a0a24f2d8f6697b30afa",
+            "path": "mods/baris-mod-remaster-0.0.3-shortnames-and-armor-display.jar"
+          }
+        },
+        {
+          "id": "Flans Mod - CORE  STPT EDITION BETA 1.1.jar",
+          "name": "Flans Mod - CORE  STPT EDITION BETA 1.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 26063202,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/Flans%20Mod%20-%20CORE%20%20STPT%20EDITION%20BETA%201.1.jar",
+            "MD5": "b1d83ba74c0ae6d72a270e460e712178",
+            "path": "mods/Flans Mod - CORE  STPT EDITION BETA 1.1.jar"
+          }
+        },
+        {
+          "id": "FlansAPI-v1.3.jar",
+          "name": "FlansAPI-v1.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 14205,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/FlansAPI-v1.3.jar",
+            "MD5": "4d8148b65b1b26467c8b874f1d8afc8c",
+            "path": "mods/FlansAPI-v1.3.jar"
+          }
+        },
+        {
+          "id": "journeymap-api-forge-1.7.10-2.0.0.jar",
+          "name": "journeymap-api-forge-1.7.10-2.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 121060,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/journeymap-api-forge-1.7.10-2.0.0.jar",
+            "MD5": "3a3bac2b481c7bd14e2ccf2bca2fe3c9",
+            "path": "mods/journeymap-api-forge-1.7.10-2.0.0.jar"
+          }
+        },
+        {
+          "id": "journeymap-forge-1.7.10-6.0.4.jar",
+          "name": "journeymap-forge-1.7.10-6.0.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5591681,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/journeymap-forge-1.7.10-6.0.4.jar",
+            "MD5": "d92eb7dad5ee87c96f8c1fb2e59e5103",
+            "path": "mods/journeymap-forge-1.7.10-6.0.4.jar"
+          }
+        },
+        {
+          "id": "SteelPact-feature-battle-system-30-09-2026.jar",
+          "name": "SteelPact-feature-battle-system-30-09-2026.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1481357,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/SteelPact-feature-battle-system-30-09-2026.jar",
+            "MD5": "aaa13512c0036ec531d14472aca4acc4",
+            "path": "mods/SteelPact-feature-battle-system-30-09-2026.jar"
+          }
+        },
+        {
+          "id": "[1.7.10]+Flan_s-Mod-Armours-fix-for-Custom-NPCs.jar",
+          "name": "[1.7.10]+Flan_s-Mod-Armours-fix-for-Custom-NPCs.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4372,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/%5B1.7.10%5D%2BFlan_s-Mod-Armours-fix-for-Custom-NPCs.jar",
+            "MD5": "3dee9931a79ae7082b1a50b6fd47818c",
+            "path": "mods/[1.7.10]+Flan_s-Mod-Armours-fix-for-Custom-NPCs.jar"
+          }
+        },
+        {
+          "id": "BstwMachetemen.jar",
+          "name": "BstwMachetemen.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6636843,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/Flan/BstwMachetemen.jar",
+            "MD5": "65a7cc7db493320f7be8ec84498018f7",
+            "path": "Flan/BstwMachetemen.jar"
+          }
+        },
+        {
+          "id": "BstwMWwarfare.jar",
+          "name": "BstwMWwarfare.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1456893,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/Flan/BstwMWwarfare.jar",
+            "MD5": "a66a5dc919b3f1535c7e08d1d11b03b8",
+            "path": "Flan/BstwMWwarfare.jar"
+          }
+        },
+        {
+          "id": "Flans Mod - CORE  STPT EDITION BETA 1.1.jar",
+          "name": "Flans Mod - CORE  STPT EDITION BETA 1.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 26063202,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/Flan/Flans%20Mod%20-%20CORE%20%20STPT%20EDITION%20BETA%201.1.jar",
+            "MD5": "b1d83ba74c0ae6d72a270e460e712178",
+            "path": "Flan/Flans Mod - CORE  STPT EDITION BETA 1.1.jar"
+          }
+        },
+        {
+          "id": "Flans-Simple-Parts-Pack-1.7.10.jar",
+          "name": "Flans-Simple-Parts-Pack-1.7.10.jar",
+          "type": "File",
+          "artifact": {
+            "size": 155371,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/Flan/Flans-Simple-Parts-Pack-1.7.10.jar",
+            "MD5": "f07392edf025b603f0f876fbcaf451c9",
+            "path": "Flan/Flans-Simple-Parts-Pack-1.7.10.jar"
+          }
+        },
+        {
+          "id": "Flans-Ye-Olde-Pack-1.7.10.jar",
+          "name": "Flans-Ye-Olde-Pack-1.7.10.jar",
+          "type": "File",
+          "artifact": {
+            "size": 87056,
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/Flan/Flans-Ye-Olde-Pack-1.7.10.jar",
+            "MD5": "1f48b894ee8533ee24d56e25fbfaa9a3",
+            "path": "Flan/Flans-Ye-Olde-Pack-1.7.10.jar"
+          }
+        },
+        {
+          "id": "Tyrants and Plebeians Hero Shooter Update.zip",
+          "name": "Tyrants and Plebeians Hero Shooter Update.zip",
+          "type": "File",
+          "artifact": {
+            "size": 396808510,
+            "url": "https://github.com/cmarcelomoro/steelpact-distro/releases/download/v1.0.0/Tyrants_and_Plebeians_Hero_Shooter_Update.zip",
+            "path": "Flan/Tyrants and Plebeians Hero Shooter Update.zip"
+          }
+        }
+      ],
+      "icon": "https://cmarcelomoro.github.io/steelpact-distro/icon.png"
+    }
+  ]
 }
