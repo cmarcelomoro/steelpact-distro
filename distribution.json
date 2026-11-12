@@ -184,6 +184,90 @@
             "url": "https://github.com/cmarcelomoro/steelpact-distro/releases/download/v1.0.0/Tyrants.and.Plebeians.Hero.Shooter.Update.zip",
             "path": "Flan/Tyrants and Plebeians Hero Shooter Update.zip"
           }
+        },
+        {
+          "id": "mods-1.7.10-com.mojang-brigadier-1.0.18.jar",
+          "name": "com.mojang-brigadier-1.0.18.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 77116,
+            "MD5": "5abfdce5dcec9ce29769b28aa455a6fb",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/1.7.10/com.mojang-brigadier-1.0.18.jar",
+            "path": "mods/1.7.10/com.mojang-brigadier-1.0.18.jar"
+          }
+        },
+        {
+          "id": "mods-1.7.10-fplib_deploader.jar",
+          "name": "fplib_deploader.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 78531,
+            "MD5": "7b7ad43589bf2fab2822640f7fb5c088",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/1.7.10/fplib_deploader.jar",
+            "path": "mods/1.7.10/fplib_deploader.jar"
+          }
+        },
+        {
+          "id": "mods-1.7.10-it.unimi.dsi-fastutil-8.5.18.jar",
+          "name": "it.unimi.dsi-fastutil-8.5.18.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 23965563,
+            "MD5": "e8335a737dbff6c6912f31e8cad5730a",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/1.7.10/it.unimi.dsi-fastutil-8.5.18.jar",
+            "path": "mods/1.7.10/it.unimi.dsi-fastutil-8.5.18.jar"
+          }
+        },
+        {
+          "id": "mods-1.7.10-org.joml-joml-1.10.8.jar",
+          "name": "org.joml-joml-1.10.8.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 778846,
+            "MD5": "58a4c6e7475f1121bfd390a819e62c98",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/1.7.10/org.joml-joml-1.10.8.jar",
+            "path": "mods/1.7.10/org.joml-joml-1.10.8.jar"
+          }
+        },
+        {
+          "id": "mods-1.7.10-xyz.wagyourtail.jvmdowngrader-jvmdowngrader-java-api-1.3.5-downgraded-17.jar",
+          "name": "xyz.wagyourtail.jvmdowngrader-jvmdowngrader-java-api-1.3.5-downgraded-17.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1512681,
+            "MD5": "93295d8e17a894a160ba22026ec721e5",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/1.7.10/xyz.wagyourtail.jvmdowngrader-jvmdowngrader-java-api-1.3.5-downgraded-17.jar",
+            "path": "mods/1.7.10/xyz.wagyourtail.jvmdowngrader-jvmdowngrader-java-api-1.3.5-downgraded-17.jar"
+          }
+        },
+        {
+          "id": "mods-1.7.10-xyz.wagyourtail.jvmdowngrader-jvmdowngrader-java-api-1.3.5-downgraded-8.jar",
+          "name": "xyz.wagyourtail.jvmdowngrader-jvmdowngrader-java-api-1.3.5-downgraded-8.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1520277,
+            "MD5": "f5ea8b903d17f2b4980d10b75fde6191",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/1.7.10/xyz.wagyourtail.jvmdowngrader-jvmdowngrader-java-api-1.3.5-downgraded-8.jar",
+            "path": "mods/1.7.10/xyz.wagyourtail.jvmdowngrader-jvmdowngrader-java-api-1.3.5-downgraded-8.jar"
+          }
         }
       ],
       "icon": "https://cmarcelomoro.github.io/steelpact-distro/icon.png"
