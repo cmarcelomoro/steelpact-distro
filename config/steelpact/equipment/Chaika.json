@@ -1,0 +1,10 @@
+{
+  "itemId": "Chaika",
+  "fileName": "T0F Chaika.txt",
+  "name": "Polikarpov I-153 Chaika",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

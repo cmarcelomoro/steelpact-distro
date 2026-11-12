@@ -1,0 +1,10 @@
+{
+  "itemId": "aim54",
+  "fileName": "AAM AIM54.txt",
+  "name": "AIM-54 Phoenix",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

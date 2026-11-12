@@ -1,0 +1,10 @@
+{
+  "itemId": "BerettaAmmo",
+  "fileName": "SAS vilar perosa ammo.txt",
+  "name": "25 Round 9x19mm Beretta M1918 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

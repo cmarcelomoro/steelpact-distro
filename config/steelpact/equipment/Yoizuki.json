@@ -1,0 +1,10 @@
+{
+  "itemId": "Yoizuki",
+  "fileName": "T1S Yoizuki.txt",
+  "name": "Destroyer Yoizuki",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

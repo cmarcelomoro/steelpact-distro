@@ -1,0 +1,10 @@
+{
+  "itemId": "Tos",
+  "fileName": "T3A TOS-1A.txt",
+  "name": "TOS-1A",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

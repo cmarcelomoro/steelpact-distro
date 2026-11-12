@@ -1,0 +1,10 @@
+{
+  "itemId": "me26250mm",
+  "fileName": "T1F Me-262 - 50.txt",
+  "name": "Messerschmidt Me 262A-1/U-4 Pulkzerstörer",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

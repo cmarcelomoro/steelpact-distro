@@ -1,0 +1,10 @@
+{
+  "itemId": "hispanoAmmoMk5",
+  "fileName": "AAMG 20mmHispanoMk5.txt",
+  "name": "200 Round 20x110mm Hispano Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "LAVAD",
+  "fileName": "T4A LAV-AD.txt",
+  "name": "LAV-AD",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

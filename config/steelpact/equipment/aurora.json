@@ -1,0 +1,10 @@
+{
+  "itemId": "aurora",
+  "fileName": "T-0p5s aurora.txt",
+  "name": "Aurora",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

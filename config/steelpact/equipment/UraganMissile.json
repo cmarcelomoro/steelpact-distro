@@ -1,0 +1,10 @@
+{
+  "itemId": "UraganMissile",
+  "fileName": "AA M22 Uragan SAM.txt",
+  "name": "3S90 24 Missile Magazine for M-22 Uragan",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

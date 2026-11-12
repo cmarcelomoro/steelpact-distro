@@ -1,0 +1,10 @@
+{
+  "itemId": "mp443Ammo",
+  "fileName": "SAP mp443Ammo.txt",
+  "name": "18 Round 9x19mm 7N21 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

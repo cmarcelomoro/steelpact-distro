@@ -1,0 +1,10 @@
+{
+  "itemId": "nagant30Carbine",
+  "fileName": "SR MosinNagant M38.txt",
+  "name": "M38 Mosin-Nagant Carbine",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

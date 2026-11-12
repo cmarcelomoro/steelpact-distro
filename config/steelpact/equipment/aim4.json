@@ -1,0 +1,10 @@
+{
+  "itemId": "aim4",
+  "fileName": "AAM AIM4.txt",
+  "name": "AIM-4 Falcon",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

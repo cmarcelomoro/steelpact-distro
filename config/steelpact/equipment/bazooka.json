@@ -1,0 +1,10 @@
+{
+  "itemId": "bazooka",
+  "fileName": "AT Bazooka.txt",
+  "name": "M1A1 Bazooka",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

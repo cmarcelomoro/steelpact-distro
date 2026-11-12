@@ -1,0 +1,10 @@
+{
+  "itemId": "brdm2",
+  "fileName": "T2T BRDM2.txt",
+  "name": "BRDM-2",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

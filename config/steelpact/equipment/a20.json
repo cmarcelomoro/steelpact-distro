@@ -1,0 +1,10 @@
+{
+  "itemId": "a20",
+  "fileName": "T1T A20G.txt",
+  "name": "Douglas A-20G Havoc",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

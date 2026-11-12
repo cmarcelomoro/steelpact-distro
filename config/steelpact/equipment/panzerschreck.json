@@ -1,0 +1,10 @@
+{
+  "itemId": "panzerschreck",
+  "fileName": "AT Panzerschreck.txt",
+  "name": "Raketenpanzerbuchse 54",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

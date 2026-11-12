@@ -1,0 +1,10 @@
+{
+  "itemId": "44_ChiNu",
+  "fileName": "T1M ChiNu.txt",
+  "name": "Type 3 Chi-Nu",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

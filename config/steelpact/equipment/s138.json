@@ -1,0 +1,10 @@
+{
+  "itemId": "s138",
+  "fileName": "T0S Generic Torpedo Boat.txt",
+  "name": "Generic Torpedo Boat",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

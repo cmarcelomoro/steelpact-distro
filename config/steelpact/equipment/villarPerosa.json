@@ -1,0 +1,10 @@
+{
+  "itemId": "villarPerosa",
+  "fileName": "SMG Perosa.txt",
+  "name": "Vilar-Perosa M1915",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

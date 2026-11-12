@@ -1,0 +1,10 @@
+{
+  "itemId": "Su27",
+  "fileName": "T4F SU27.txt",
+  "name": "Sukhoi SU-27S Flanker",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

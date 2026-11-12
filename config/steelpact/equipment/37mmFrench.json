@@ -1,0 +1,10 @@
+{
+  "itemId": "37mmFrench",
+  "fileName": "TS 37mm renault.txt",
+  "name": "Mle 1937 APCR 37mm",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ClusterBomb",
+  "fileName": "BO Cluster Bomb.txt",
+  "name": "Death Cluster Bomb",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

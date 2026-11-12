@@ -1,0 +1,10 @@
+{
+  "itemId": "380mmgun",
+  "fileName": "NG 38cm.txt",
+  "name": "38cm SK C/34 L/52 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

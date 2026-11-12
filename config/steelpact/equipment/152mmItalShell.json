@@ -1,0 +1,10 @@
+{
+  "itemId": "152mmItalShell",
+  "fileName": "NS ital 152mmShell.txt",
+  "name": "15.2cm Italian Naval Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

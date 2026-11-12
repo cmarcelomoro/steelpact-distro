@@ -1,0 +1,10 @@
+{
+  "itemId": "ww1_SchnaiderCA1",
+  "fileName": "T0M SchneiderCA1.txt",
+  "name": "Schneider CA 1",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "uh19",
+  "fileName": "T2T UH-19.txt",
+  "name": "Sikorsky H-19 Chickasaw",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

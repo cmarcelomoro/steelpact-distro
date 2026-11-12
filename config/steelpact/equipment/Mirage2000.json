@@ -1,0 +1,10 @@
+{
+  "itemId": "Mirage2000",
+  "fileName": "T3P5F Mirage 2000.txt",
+  "name": "Dassault Mirage 2000",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

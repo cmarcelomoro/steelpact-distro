@@ -1,0 +1,10 @@
+{
+  "itemId": "90mmItalianMarina",
+  "fileName": "NS 90mmAP Italian Marina.txt",
+  "name": "90mm/50 AP Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

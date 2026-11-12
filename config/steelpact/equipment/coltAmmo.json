@@ -1,0 +1,10 @@
+{
+  "itemId": "coltAmmo",
+  "fileName": "SAP ColtAmmo.txt",
+  "name": "Colt Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

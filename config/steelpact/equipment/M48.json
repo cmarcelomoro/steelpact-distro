@@ -1,0 +1,10 @@
+{
+  "itemId": "M48",
+  "fileName": "T2M M48.txt",
+  "name": "M48 Patton",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

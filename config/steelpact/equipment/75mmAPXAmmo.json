@@ -1,0 +1,10 @@
+{
+  "itemId": "75mmAPXAmmo",
+  "fileName": "TSM 75mmAPX AP French.txt",
+  "name": "75mm PCOT-40 APCBC",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

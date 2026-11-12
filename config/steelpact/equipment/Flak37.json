@@ -1,0 +1,10 @@
+{
+  "itemId": "Flak37",
+  "fileName": "T1A Flak37.txt",
+  "name": "3.7 cm Flugzeugabwehrkanone 36/37",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

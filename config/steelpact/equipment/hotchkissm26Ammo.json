@@ -1,0 +1,10 @@
+{
+  "itemId": "hotchkissm26Ammo",
+  "fileName": "SAR HotchkissM26Ammo.txt",
+  "name": "30 Round 6.5x54mm Greek Feed Strip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

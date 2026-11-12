@@ -1,0 +1,10 @@
+{
+  "itemId": "bofors57AmmoAA",
+  "fileName": "Bofors57AmmoAA.txt",
+  "name": "Bofors 57mm Ammo 3P",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

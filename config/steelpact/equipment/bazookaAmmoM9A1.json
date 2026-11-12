@@ -1,0 +1,10 @@
+{
+  "itemId": "bazookaAmmoM9A1",
+  "fileName": "SAAT BazookaAmmoM9A1.txt",
+  "name": "Bazooka Ammo",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

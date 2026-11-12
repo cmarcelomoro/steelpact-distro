@@ -1,0 +1,10 @@
+{
+  "itemId": "GSH302Belt",
+  "fileName": "MG 30mm gsh302.txt",
+  "name": "30x165mm Mixed APCR/HE/HEI GSh-30-2 Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

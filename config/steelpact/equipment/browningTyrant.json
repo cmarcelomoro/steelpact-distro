@@ -1,0 +1,10 @@
+{
+  "itemId": "browningTyrant",
+  "fileName": "MG M1916A6.txt",
+  "name": "Browning M1919A6",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "cv35",
+  "fileName": "T0A CV-35.txt",
+  "name": "Carro Armato L3/35",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

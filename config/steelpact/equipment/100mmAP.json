@@ -1,0 +1,10 @@
+{
+  "itemId": "100mmAP",
+  "fileName": "TSM 100mmAP copy.txt",
+  "name": "100mm BR-412D APHE",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

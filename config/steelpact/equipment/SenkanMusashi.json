@@ -1,0 +1,10 @@
+{
+  "itemId": "SenkanMusashi",
+  "fileName": "T1p5S Musashi.txt",
+  "name": "Battleship Musashi",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

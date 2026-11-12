@@ -1,0 +1,10 @@
+{
+  "itemId": "ag30Ammo",
+  "fileName": "MGH 30mm AGS BMP2.txt",
+  "name": "300 Round 30x29mm VOG-30 AG-30 Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

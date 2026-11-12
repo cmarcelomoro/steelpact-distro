@@ -1,0 +1,10 @@
+{
+  "itemId": "100mmNaval",
+  "fileName": "NS 100mm naval.txt",
+  "name": "AK-100 Naval Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

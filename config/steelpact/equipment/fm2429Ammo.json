@@ -1,0 +1,10 @@
+{
+  "itemId": "fm2429Ammo",
+  "fileName": "SAR FM24Ammo.txt",
+  "name": "25 Round 7.5x54mm French FM 24/29 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

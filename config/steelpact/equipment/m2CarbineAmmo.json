@@ -1,0 +1,10 @@
+{
+  "itemId": "m2CarbineAmmo",
+  "fileName": "SAR M2CarbineAmmo.txt",
+  "name": "30 Round .30 Carbine M2 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

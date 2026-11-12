@@ -1,0 +1,10 @@
+{
+  "itemId": "ShittyTorpedo",
+  "fileName": "NS ww2 generic 533mm surface passenger.txt",
+  "name": "Generic WW2 533mm Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

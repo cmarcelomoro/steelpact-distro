@@ -1,0 +1,10 @@
+{
+  "itemId": "3kg",
+  "fileName": "lunge.txt",
+  "name": "3kg of crude TNT Filling",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

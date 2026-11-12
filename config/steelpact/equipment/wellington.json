@@ -1,0 +1,10 @@
+{
+  "itemId": "wellington",
+  "fileName": "T1T Wellington.txt",
+  "name": "Vickers Wellington",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

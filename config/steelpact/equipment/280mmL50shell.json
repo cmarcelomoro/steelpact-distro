@@ -1,0 +1,10 @@
+{
+  "itemId": "280mmL50shell",
+  "fileName": "NS 280mm sultan shell.txt",
+  "name": "German 280mm L/50 Naval Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

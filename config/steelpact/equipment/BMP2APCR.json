@@ -1,0 +1,10 @@
+{
+  "itemId": "BMP2APCR",
+  "fileName": "TS 30mmAPCR.txt",
+  "name": "3UBR6 30mm AP-T Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

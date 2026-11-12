@@ -1,0 +1,10 @@
+{
+  "itemId": "animalClaw",
+  "fileName": "HERO claw.txt",
+  "name": "Claw",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

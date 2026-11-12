@@ -1,0 +1,10 @@
+{
+  "itemId": "KV2Normal",
+  "fileName": "T1A KV-2.txt",
+  "name": "KV-2",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

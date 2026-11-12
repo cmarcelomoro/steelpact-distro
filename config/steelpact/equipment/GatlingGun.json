@@ -1,0 +1,10 @@
+{
+  "itemId": "GatlingGun",
+  "fileName": "T-1A Gatling.txt",
+  "name": "M1862 Gatling-Gun",
+  "folder": "vehicles",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

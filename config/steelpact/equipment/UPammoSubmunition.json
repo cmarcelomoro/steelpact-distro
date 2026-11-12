@@ -1,0 +1,10 @@
+{
+  "itemId": "UPammoSubmunition",
+  "fileName": "NS UP thing submunition.txt",
+  "name": "Unrotated Projectile Submunition",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

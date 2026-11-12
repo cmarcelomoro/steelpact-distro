@@ -1,0 +1,10 @@
+{
+  "itemId": "KimSub",
+  "fileName": "T2p5S Kim Jong Un Sub.txt",
+  "name": "Type 033 Class Submarine",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

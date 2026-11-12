@@ -1,0 +1,10 @@
+{
+  "itemId": "hvarShellHEAT",
+  "fileName": "MGH HVARshellHEAT.txt",
+  "name": "5\" HVAR Mk.32 Mod.0 HEAT (\"Shell\")",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "mg17",
+  "fileName": "VEH MG17.txt",
+  "name": "Maschinengewehr 17",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

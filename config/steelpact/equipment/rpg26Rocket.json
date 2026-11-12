@@ -1,0 +1,10 @@
+{
+  "itemId": "rpg26Rocket",
+  "fileName": "SAAT RPG26Rocket.txt",
+  "name": "PG-26 Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

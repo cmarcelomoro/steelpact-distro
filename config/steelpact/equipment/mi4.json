@@ -1,0 +1,10 @@
+{
+  "itemId": "mi4",
+  "fileName": "T2T Mi-4.txt",
+  "name": "Mil Mi-4",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

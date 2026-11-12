@@ -1,0 +1,10 @@
+{
+  "itemId": "breda38Ammo",
+  "fileName": "MG Breda 38 8mm.txt",
+  "name": "8x59mm Rb Breda 24 Round Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

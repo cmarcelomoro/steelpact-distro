@@ -1,0 +1,10 @@
+{
+  "itemId": "J-7",
+  "fileName": "T3F J-7.txt",
+  "name": "Chengdu J-7 Fishcan",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

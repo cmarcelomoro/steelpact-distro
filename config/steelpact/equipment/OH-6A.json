@@ -1,0 +1,10 @@
+{
+  "itemId": "OH-6A",
+  "fileName": "T2p5 OH-6A.txt",
+  "name": "Hughes OH-6B Cayuse",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

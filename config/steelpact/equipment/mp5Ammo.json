@@ -1,0 +1,10 @@
+{
+  "itemId": "mp5Ammo",
+  "fileName": "SAS MP5Ammo.txt",
+  "name": "MP5 Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

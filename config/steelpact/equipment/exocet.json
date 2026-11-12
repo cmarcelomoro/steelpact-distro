@@ -1,0 +1,10 @@
+{
+  "itemId": "exocet",
+  "fileName": "ATGM exocets.txt",
+  "name": "AM39 Exocet",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

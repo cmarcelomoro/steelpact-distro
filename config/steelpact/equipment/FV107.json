@@ -1,0 +1,10 @@
+{
+  "itemId": "FV107",
+  "fileName": "T3L Scimitar.txt",
+  "name": "FV107 Scimitar",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

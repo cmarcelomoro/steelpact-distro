@@ -1,0 +1,10 @@
+{
+  "itemId": "kh23",
+  "fileName": "ATGM Kh-23.txt",
+  "name": "Zvezda Kh-23 Grom",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

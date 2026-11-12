@@ -1,0 +1,10 @@
+{
+  "itemId": "agm45",
+  "fileName": "ATGM AGM45 antirad.txt",
+  "name": "AGM-45 Shrike",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "vickersBeltTracer",
+  "fileName": "MG Vickers .303 tracer 250 Round Belt.txt",
+  "name": ".303 British 250 Round Tracer Machinegun Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

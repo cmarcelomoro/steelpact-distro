@@ -1,0 +1,10 @@
+{
+  "itemId": "barret50Ammo",
+  "fileName": "SAR BarrettAmmo.txt",
+  "name": "10 Round .50 BMG Barret Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "hmswarspite",
+  "fileName": "T1S HMSWarspite.txt",
+  "name": "HMS Warspite (1937 Refit)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "BGM71",
+  "fileName": "ATGM BGM71.txt",
+  "name": "BGM-71 TOW",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "37mmM4Ammo",
+  "fileName": "AAMG 37mm M4.txt",
+  "name": "37x145mmR M4 AP Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

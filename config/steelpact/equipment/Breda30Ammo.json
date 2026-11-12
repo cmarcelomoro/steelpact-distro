@@ -1,0 +1,10 @@
+{
+  "itemId": "Breda30Ammo",
+  "fileName": "SAR Breda30Ammo.txt",
+  "name": "20 Round 6.5x52mm Breda 30 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

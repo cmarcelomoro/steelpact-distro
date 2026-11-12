@@ -1,0 +1,10 @@
+{
+  "itemId": "hk416",
+  "fileName": "AR HK416.txt",
+  "name": "hk416",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "51cmNavalGun",
+  "fileName": "NG 51cmNavalGun.txt",
+  "name": "51cm Type 98 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

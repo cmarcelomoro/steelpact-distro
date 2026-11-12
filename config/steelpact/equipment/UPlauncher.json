@@ -1,0 +1,10 @@
+{
+  "itemId": "UPlauncher",
+  "fileName": "NG UP Launcher.txt",
+  "name": "Unrotated Projectile Launcher",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

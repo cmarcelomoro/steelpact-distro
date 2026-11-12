@@ -1,0 +1,10 @@
+{
+  "itemId": "340mmFrenchy",
+  "fileName": "NG 340mm frenchy.txt",
+  "name": "340mm/45 Modèle 1912 gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

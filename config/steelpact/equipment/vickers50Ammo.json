@@ -1,0 +1,10 @@
+{
+  "itemId": "vickers50Ammo",
+  "fileName": "AAMG vickers50Ammo.txt",
+  "name": "Vickers 0.50\" Ball 200-Round Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

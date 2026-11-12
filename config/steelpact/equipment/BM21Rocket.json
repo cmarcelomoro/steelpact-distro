@@ -1,0 +1,10 @@
+{
+  "itemId": "BM21Rocket",
+  "fileName": "TSA BM21 rocket.txt",
+  "name": "M-21OF Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

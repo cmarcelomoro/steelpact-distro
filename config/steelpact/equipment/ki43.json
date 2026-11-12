@@ -1,0 +1,10 @@
+{
+  "itemId": "ki43",
+  "fileName": "T1F Ki43.txt",
+  "name": "一式戦闘機",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

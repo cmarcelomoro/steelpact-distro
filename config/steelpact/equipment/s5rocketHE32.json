@@ -1,0 +1,10 @@
+{
+  "itemId": "s5rocketHE32",
+  "fileName": "MGH S-5 pod HE 32.txt",
+  "name": "UB-32-57 Rocket Pod (HE)",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

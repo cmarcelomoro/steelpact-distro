@@ -1,0 +1,10 @@
+{
+  "itemId": "TorpedoTubeEvil",
+  "fileName": "NG evil passenger torpedo tubes.txt",
+  "name": "Evil 53cm Torpedo Tube",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

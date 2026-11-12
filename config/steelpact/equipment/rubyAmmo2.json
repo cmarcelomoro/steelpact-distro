@@ -1,0 +1,10 @@
+{
+  "itemId": "rubyAmmo2",
+  "fileName": "SAP RubyAmmo.txt",
+  "name": ".32 ACP 9 Round Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

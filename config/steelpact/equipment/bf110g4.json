@@ -1,0 +1,10 @@
+{
+  "itemId": "bf110g4",
+  "fileName": "T1F Bf110 G4.txt",
+  "name": "Messerschmitt BF-110 G-4",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

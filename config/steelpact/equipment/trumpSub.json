@@ -1,0 +1,10 @@
+{
+  "itemId": "trumpSub",
+  "fileName": "T1S SS trump.txt",
+  "name": "HMS Trump (P333)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

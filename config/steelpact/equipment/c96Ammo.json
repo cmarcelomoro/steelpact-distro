@@ -1,0 +1,10 @@
+{
+  "itemId": "c96Ammo",
+  "fileName": "SAP C96 Ammo.txt",
+  "name": "7.63x25mm Mauser 10 Round C96 Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

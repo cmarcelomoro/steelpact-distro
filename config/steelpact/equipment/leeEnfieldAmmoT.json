@@ -1,0 +1,10 @@
+{
+  "itemId": "leeEnfieldAmmoT",
+  "fileName": "SAR LeeEnfieldAmmo - T.txt",
+  "name": "x2 5 Round .303 British Tracer Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

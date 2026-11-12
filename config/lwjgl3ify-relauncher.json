@@ -1,0 +1,20 @@
+{
+  "javaInstallationsCache": [
+    "C:\\Program Files\\Eclipse Adoptium\\jdk-22.0.2.9-hotspot\\bin\\java.exe"
+  ],
+  "javaInstallation": 0,
+  "minMemoryMB": 3840,
+  "maxMemoryMB": 6144,
+  "garbageCollector": "G1GC",
+  "customOptions": [],
+  "hideSettingsOnLaunch": false,
+  "forwardLogs": false,
+  "allowDebugger": false,
+  "waitForDebugger": false,
+  "mixinDebug": false,
+  "mixinDebugExport": false,
+  "mixinDebugCount": false,
+  "fmlDebugAts": false,
+  "rfbDumpClasses": false,
+  "rfbDumpPerTransformer": false
+}

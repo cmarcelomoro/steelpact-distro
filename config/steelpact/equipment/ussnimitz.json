@@ -1,0 +1,10 @@
+{
+  "itemId": "ussnimitz",
+  "fileName": "T3SCV nimitz.txt",
+  "name": "USS Nimitz (CVN-68)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "mp44AmmoNerfed",
+  "fileName": "HERO mp44 nerfed ammo.txt",
+  "name": "30 Round 7.92x33 STG44 Magazine - Hero Shooter",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

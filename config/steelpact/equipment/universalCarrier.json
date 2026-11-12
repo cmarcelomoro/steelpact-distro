@@ -1,0 +1,10 @@
+{
+  "itemId": "universalCarrier",
+  "fileName": "T0A Universal Carrier.txt",
+  "name": "Universal Carrier",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

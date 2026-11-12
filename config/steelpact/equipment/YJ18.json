@@ -1,0 +1,10 @@
+{
+  "itemId": "YJ18",
+  "fileName": "NS YJ18.txt",
+  "name": "鹰击-18 (YJ18) Anti-Ship Cruise Missile",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

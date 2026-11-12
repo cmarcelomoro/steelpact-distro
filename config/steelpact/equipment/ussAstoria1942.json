@@ -1,0 +1,10 @@
+{
+  "itemId": "ussAstoria1942",
+  "fileName": "T1S Astoria1942.txt",
+  "name": "USS Astoria CA-34",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

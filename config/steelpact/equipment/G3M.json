@@ -1,0 +1,10 @@
+{
+  "itemId": "G3M",
+  "fileName": "T0p5T G3M.txt",
+  "name": "九六式陸上攻撃機",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

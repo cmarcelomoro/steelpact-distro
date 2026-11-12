@@ -1,0 +1,10 @@
+{
+  "itemId": "MediumCanister",
+  "fileName": "TSM Medium Canister.txt",
+  "name": "Medium Canister Shot",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

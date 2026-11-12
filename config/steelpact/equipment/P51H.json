@@ -1,0 +1,10 @@
+{
+  "itemId": "P51H",
+  "fileName": "T1p5F P-51H mustang 1945.txt",
+  "name": "North American P-51H Mustang",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "aim120",
+  "fileName": "AAM AIM120.txt",
+  "name": "AIM-120 AMRAAM",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

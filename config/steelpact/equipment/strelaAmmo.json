@@ -1,0 +1,10 @@
+{
+  "itemId": "strelaAmmo",
+  "fileName": "SAAA StrelaMissile.txt",
+  "name": "Strela Missile",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

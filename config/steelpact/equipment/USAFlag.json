@@ -1,0 +1,10 @@
+{
+  "itemId": "USAFlag",
+  "fileName": "FlagUSAUnion.txt",
+  "name": "United States Flag (1860)",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

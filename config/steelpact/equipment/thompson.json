@@ -1,0 +1,10 @@
+{
+  "itemId": "thompson",
+  "fileName": "SMG Thompson.txt",
+  "name": "M1A1 Thompson",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

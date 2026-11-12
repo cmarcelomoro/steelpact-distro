@@ -1,0 +1,10 @@
+{
+  "itemId": "Panzer4H",
+  "fileName": "T1M PanzerIVH.txt",
+  "name": "Panzerkampfwagen IV Ausf. H",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

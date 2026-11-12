@@ -1,0 +1,10 @@
+{
+  "itemId": "mas38Ammo",
+  "fileName": "SAS MAS38.txt",
+  "name": "7.65x20mm Longue 32 Round MAS38 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

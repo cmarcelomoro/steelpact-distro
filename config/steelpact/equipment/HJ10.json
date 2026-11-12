@@ -1,0 +1,10 @@
+{
+  "itemId": "HJ10",
+  "fileName": "ATGM ADK10.txt",
+  "name": "ADK-10",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

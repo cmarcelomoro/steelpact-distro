@@ -1,0 +1,10 @@
+{
+  "itemId": "nebelwerfer42",
+  "fileName": "T1A Nebelwerfer 42.txt",
+  "name": "21 cm Nebelwerfer 42",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

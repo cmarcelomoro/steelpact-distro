@@ -1,0 +1,10 @@
+{
+  "itemId": "B29",
+  "fileName": "T1p5T B-29.txt",
+  "name": "Boeing B-29 Superfortress",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

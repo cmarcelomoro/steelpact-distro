@@ -1,0 +1,10 @@
+{
+  "itemId": "merkavamk4",
+  "fileName": "T5M Merkava.txt",
+  "name": "Merkava Mk IV",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

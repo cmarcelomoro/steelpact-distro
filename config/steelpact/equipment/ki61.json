@@ -1,0 +1,10 @@
+{
+  "itemId": "ki61",
+  "fileName": "T1F Ki61.txt",
+  "name": "三式戦闘機",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

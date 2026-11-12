@@ -1,0 +1,10 @@
+{
+  "itemId": "100mmSub",
+  "fileName": "NS 100mm submarine shell.txt",
+  "name": "100mm Skoda Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

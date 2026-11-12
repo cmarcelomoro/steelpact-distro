@@ -1,0 +1,10 @@
+{
+  "itemId": "nr30Gun",
+  "fileName": "VEH 30mm NR30.txt",
+  "name": "Nudelman-Suranov NS-30 Autocannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

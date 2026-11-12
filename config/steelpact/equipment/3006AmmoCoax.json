@@ -1,0 +1,10 @@
+{
+  "itemId": "3006AmmoCoax",
+  "fileName": "SAR m1919coax Ammo.txt",
+  "name": "2000 Round 30-06 Box",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "cesare",
+  "fileName": "T0S Cesare.txt",
+  "name": "Giulio Cesare (1914)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

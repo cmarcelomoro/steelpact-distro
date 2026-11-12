@@ -1,0 +1,10 @@
+{
+  "itemId": "Jewbrams",
+  "fileName": "T5M M1A2E1.txt",
+  "name": "M1A2 Abrams SEP V3",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "mg15120Ammo",
+  "fileName": "AAMG 20mmMG151-20.txt",
+  "name": "250 Round 20x82mm MG-151/20 Minengeschoss Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

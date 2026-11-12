@@ -1,0 +1,10 @@
+{
+  "itemId": "springfieldAmmoT",
+  "fileName": "SAR SpringfieldAmmoT.txt",
+  "name": "5 Round 30-06 Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

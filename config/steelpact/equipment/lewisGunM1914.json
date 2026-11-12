@@ -1,0 +1,10 @@
+{
+  "itemId": "lewisGunM1914",
+  "fileName": "MG Lewis.txt",
+  "name": "Lewis Machine Gun M1914",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

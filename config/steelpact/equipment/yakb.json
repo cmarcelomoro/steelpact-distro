@@ -1,0 +1,10 @@
+{
+  "itemId": "yakb",
+  "fileName": "YakB.txt",
+  "name": "YAK-B 12.7 Machine Gun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

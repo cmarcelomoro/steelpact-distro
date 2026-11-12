@@ -1,0 +1,10 @@
+{
+  "itemId": "pm1910ap",
+  "fileName": "MG PM M1910.txt",
+  "name": "7.62x54Rmm 250 Round Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

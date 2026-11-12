@@ -1,0 +1,10 @@
+{
+  "itemId": "aav7",
+  "fileName": "T3T AAV-7.txt",
+  "name": "AAV-7A1 AMTRAC",
+  "folder": "vehicles",
+  "category": "APC",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

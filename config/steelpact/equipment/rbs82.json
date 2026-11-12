@@ -1,0 +1,10 @@
+{
+  "itemId": "rbs82",
+  "fileName": "MGH RBS82.txt",
+  "name": "RBS-82 82mm HEAT Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

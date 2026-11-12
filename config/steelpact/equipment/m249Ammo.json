@@ -1,0 +1,10 @@
+{
+  "itemId": "m249Ammo",
+  "fileName": "SAR M249Ammo.txt",
+  "name": "100 Round 5.56x45mm SS109 Machinegun Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

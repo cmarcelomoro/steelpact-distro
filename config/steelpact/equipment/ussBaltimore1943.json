@@ -1,0 +1,10 @@
+{
+  "itemId": "ussBaltimore1943",
+  "fileName": "T1S Baltimore1943.txt",
+  "name": "USS Baltimore CA-68 (1943)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

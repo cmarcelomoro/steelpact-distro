@@ -1,0 +1,10 @@
+{
+  "itemId": "leeEnfield3",
+  "fileName": "SR LeeEnfield.txt",
+  "name": "Lee Enfield No.1 Mk.III",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

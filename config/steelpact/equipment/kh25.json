@@ -1,0 +1,10 @@
+{
+  "itemId": "kh25",
+  "fileName": "ATGM Kh25.txt",
+  "name": "Kh-25",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

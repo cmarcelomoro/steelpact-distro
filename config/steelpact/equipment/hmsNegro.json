@@ -1,0 +1,10 @@
+{
+  "itemId": "hmsNegro",
+  "fileName": "T0S hms negro.txt",
+  "name": "HMS Skate (1917)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

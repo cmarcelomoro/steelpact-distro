@@ -1,0 +1,10 @@
+{
+  "itemId": "G4M2",
+  "fileName": "T1T G4M2.txt",
+  "name": "一式陸上攻撃機",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

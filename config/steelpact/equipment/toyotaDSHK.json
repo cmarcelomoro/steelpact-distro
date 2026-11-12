@@ -1,0 +1,10 @@
+{
+  "itemId": "toyotaDSHK",
+  "fileName": "T3T Toyota Hilux DSHK.txt",
+  "name": "Toyota Hilux Technical w/ DShK",
+  "folder": "vehicles",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

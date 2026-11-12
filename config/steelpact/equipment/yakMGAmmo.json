@@ -1,0 +1,10 @@
+{
+  "itemId": "yakMGAmmo",
+  "fileName": "AAMG 12.7M Berzin.txt",
+  "name": "300 Round BZF-46 12.7x108mm Berezin UB Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

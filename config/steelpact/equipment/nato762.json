@@ -1,0 +1,10 @@
+{
+  "itemId": "nato762",
+  "fileName": "SAR nato rifle snipar.txt",
+  "name": "7.62x51mm (5 Rounds)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

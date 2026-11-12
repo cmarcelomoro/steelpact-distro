@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Vehicle_Jagdtiger_1A",
+  "fileName": "T1A Jagdtiger.txt",
+  "name": "Jagdpanzer VI - Jagdtiger",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

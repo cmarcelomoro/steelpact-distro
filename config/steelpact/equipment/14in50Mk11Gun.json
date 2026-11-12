@@ -1,0 +1,10 @@
+{
+  "itemId": "14in50Mk11Gun",
+  "fileName": "NG 14in50Mk11.txt",
+  "name": "14\"/50 Mk.11 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "BT42",
+  "fileName": "T1L BT-42.txt",
+  "name": "BT-42",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

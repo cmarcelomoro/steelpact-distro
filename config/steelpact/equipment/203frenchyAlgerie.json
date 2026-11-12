@@ -1,0 +1,10 @@
+{
+  "itemId": "203frenchyAlgerie",
+  "fileName": "NG 20.3cm frenchy not submarine.txt",
+  "name": "203mm/50 Modèle 1931 gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

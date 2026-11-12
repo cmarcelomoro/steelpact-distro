@@ -1,0 +1,10 @@
+{
+  "itemId": "Komet",
+  "fileName": "T1F Me 163.txt",
+  "name": "Messerschmidt Me-163 Komet",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

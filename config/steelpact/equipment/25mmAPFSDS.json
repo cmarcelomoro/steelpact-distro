@@ -1,0 +1,10 @@
+{
+  "itemId": "25mmAPFSDS",
+  "fileName": "TS 25mmAPFSDS.txt",
+  "name": "M919 25mm APFSDS-T Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

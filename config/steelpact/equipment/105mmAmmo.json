@@ -1,0 +1,10 @@
+{
+  "itemId": "105mmAmmo",
+  "fileName": "NS 105mm shell.txt",
+  "name": "10.5cm SK C/32 Naval Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

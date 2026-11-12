@@ -1,0 +1,10 @@
+{
+  "itemId": "37mmFrenchSA38",
+  "fileName": "TS 37mm h39.txt",
+  "name": "Mle 1938 APC 37mm",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

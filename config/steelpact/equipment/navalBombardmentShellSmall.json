@@ -1,0 +1,10 @@
+{
+  "itemId": "navalBombardmentShellSmall",
+  "fileName": "NS Smol Bombardment.txt",
+  "name": "100mm - 130mm Bombardment Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ThreeEye",
+  "fileName": "15cG Three Eye.txt",
+  "name": "Three Eye Gun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "oiBullshit",
+  "fileName": "T1P5H O-I.txt",
+  "name": "O-I Super-Heavy Tank",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

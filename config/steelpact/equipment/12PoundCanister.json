@@ -1,0 +1,10 @@
+{
+  "itemId": "12PoundCanister",
+  "fileName": "TS Napoleon Canister.txt",
+  "name": "120.3lb Canister Shot",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

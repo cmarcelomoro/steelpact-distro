@@ -1,0 +1,10 @@
+{
+  "itemId": "3m9manual",
+  "fileName": "AA kub 3m9 missile manual.txt",
+  "name": "3M9 Missile (Manually Guided Version)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

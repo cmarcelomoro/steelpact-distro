@@ -1,0 +1,10 @@
+{
+  "itemId": "modele1892Ammo",
+  "fileName": "SAP Model1892 Ammo.txt",
+  "name": "6 Round 8mm French Ordnance Cylinder",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

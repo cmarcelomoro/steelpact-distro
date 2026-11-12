@@ -1,0 +1,10 @@
+{
+  "itemId": "ShtormMissile",
+  "fileName": "AA M11 Shtorm SAM.txt",
+  "name": "4k60 Missile for M-11 Shtorm",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

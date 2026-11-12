@@ -1,0 +1,10 @@
+{
+  "itemId": "VLStomahawkLandAttack",
+  "fileName": "NS Tomahawk nuclear attack vertical.txt",
+  "name": "BGM-109A Tomahawk Land Attack Missile",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

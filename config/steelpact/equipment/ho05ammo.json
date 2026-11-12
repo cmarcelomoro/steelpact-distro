@@ -1,0 +1,10 @@
+{
+  "itemId": "ho05ammo",
+  "fileName": "AAMG 20mm ho05 l94.txt",
+  "name": "150 Round 20x94mm Ho-05 Magazine",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

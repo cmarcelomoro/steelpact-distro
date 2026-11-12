@@ -1,0 +1,10 @@
+{
+  "itemId": "essexRetrofit",
+  "fileName": "T2SCV Essex Retrofit.txt",
+  "name": "USS Essex (CVA-9) 1956 Retrofit",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

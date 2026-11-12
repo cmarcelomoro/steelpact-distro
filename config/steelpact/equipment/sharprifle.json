@@ -1,0 +1,10 @@
+{
+  "itemId": "sharprifle",
+  "fileName": "BR SharpsRifle.txt",
+  "name": "Sharps Model 1852",
+  "folder": "guns",
+  "category": "BR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

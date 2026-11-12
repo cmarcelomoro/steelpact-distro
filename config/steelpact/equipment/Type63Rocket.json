@@ -1,0 +1,10 @@
+{
+  "itemId": "Type63Rocket",
+  "fileName": "TSA BM12 Type 63.txt",
+  "name": "Type 63 12 Rocket Rack",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

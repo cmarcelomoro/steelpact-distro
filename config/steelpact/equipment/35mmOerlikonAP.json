@@ -1,0 +1,10 @@
+{
+  "itemId": "35mmOerlikonAP",
+  "fileName": "AA 35mm APDS.txt",
+  "name": "DM23 35mm APDS-T Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "dt28Ammo",
+  "fileName": "SA DT28Ammo.txt",
+  "name": "DT28 63 Round 7.62x54R Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

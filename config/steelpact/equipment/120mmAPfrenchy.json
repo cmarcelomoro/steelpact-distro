@@ -1,0 +1,10 @@
+{
+  "itemId": "120mmAPfrenchy",
+  "fileName": "TSM 120mmAP frenchy.txt",
+  "name": "120mm Obus de Rupture",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

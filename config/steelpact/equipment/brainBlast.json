@@ -1,0 +1,10 @@
+{
+  "itemId": "brainBlast",
+  "fileName": "HERO Brain Blast.txt",
+  "name": "Brain Blast",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

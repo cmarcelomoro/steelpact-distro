@@ -1,0 +1,10 @@
+{
+  "itemId": "mle1914gun",
+  "fileName": "MG mle 14.txt",
+  "name": "Hotchkiss Mle 1914 - Vehicle Part",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

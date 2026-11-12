@@ -1,0 +1,10 @@
+{
+  "itemId": "Scorpion",
+  "fileName": "T2L Scorpion.txt",
+  "name": "FV101 Scorpion",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

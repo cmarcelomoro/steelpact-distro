@@ -1,0 +1,10 @@
+{
+  "itemId": "BAR1918",
+  "fileName": "AR BAR 1918.txt",
+  "name": "M1918 Browning Automatic Rifle",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

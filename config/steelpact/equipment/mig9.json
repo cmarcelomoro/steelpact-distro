@@ -1,0 +1,10 @@
+{
+  "itemId": "mig9",
+  "fileName": "T1p5F MiG-9.txt",
+  "name": "Mikoyan-Gurevich MiG-9",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

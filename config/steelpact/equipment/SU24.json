@@ -1,0 +1,10 @@
+{
+  "itemId": "SU24",
+  "fileName": "T3F SU 24.txt",
+  "name": "Sukhoi SU-24M Fencer",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

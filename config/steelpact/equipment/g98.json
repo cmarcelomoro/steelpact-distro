@@ -1,0 +1,10 @@
+{
+  "itemId": "g98",
+  "fileName": "SR gewehr98.txt",
+  "name": "Mauser Gewehr 98",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

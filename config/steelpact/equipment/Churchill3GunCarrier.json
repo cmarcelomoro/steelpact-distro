@@ -1,0 +1,10 @@
+{
+  "itemId": "Churchill3GunCarrier",
+  "fileName": "T1H Churchill3GunCarrier.txt",
+  "name": "A.22D Churchill Gun Carrier",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

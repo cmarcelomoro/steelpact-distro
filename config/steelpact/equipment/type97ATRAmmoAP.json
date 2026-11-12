@@ -1,0 +1,10 @@
+{
+  "itemId": "type97ATRAmmoAP",
+  "fileName": "SAAT Type97ATRAmmo.txt",
+  "name": "7 Round 20x125mm AP-T Type 97 Magazines",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

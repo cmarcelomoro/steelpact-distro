@@ -1,0 +1,10 @@
+{
+  "itemId": "OH-58D",
+  "fileName": "T4T OH-58D.txt",
+  "name": "Bell OH-58D Kiowa",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "navalRaidingShellLarge",
+  "fileName": "NS Lrg Bombardment Raiding Shell.txt",
+  "name": "234mm - 310mm Raiding Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

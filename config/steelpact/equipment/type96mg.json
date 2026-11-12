@@ -1,0 +1,10 @@
+{
+  "itemId": "type96mg",
+  "fileName": "MG Type96.txt",
+  "name": "Type 96 九六式軽機関銃",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

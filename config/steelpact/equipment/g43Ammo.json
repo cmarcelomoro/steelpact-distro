@@ -1,0 +1,10 @@
+{
+  "itemId": "g43Ammo",
+  "fileName": "SAR G43Ammo.txt",
+  "name": "10 Round 7.92x57mm Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

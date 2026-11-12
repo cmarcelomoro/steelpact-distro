@@ -1,0 +1,10 @@
+{
+  "itemId": "md63",
+  "fileName": "AR MD63.txt",
+  "name": "Pistol Mitralieră model 1963/1965",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

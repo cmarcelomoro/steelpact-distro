@@ -1,0 +1,10 @@
+{
+  "itemId": "Tempest",
+  "fileName": "T1F Tempest.txt",
+  "name": "Hawker Tempest V",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

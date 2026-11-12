@@ -1,0 +1,10 @@
+{
+  "itemId": "dauntless",
+  "fileName": "T1T Dauntless.txt",
+  "name": "Douglas SBD Dauntless",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

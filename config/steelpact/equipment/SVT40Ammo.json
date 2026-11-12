@@ -1,0 +1,10 @@
+{
+  "itemId": "SVT40Ammo",
+  "fileName": "SAR SVT-40 Magazines.txt",
+  "name": "10 Round 7.62x54R Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

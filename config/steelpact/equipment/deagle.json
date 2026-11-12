@@ -1,0 +1,10 @@
+{
+  "itemId": "deagle",
+  "fileName": "HG Deagle.txt",
+  "name": "IMI Desert Eagle",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

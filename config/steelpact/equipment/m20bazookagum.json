@@ -1,0 +1,10 @@
+{
+  "itemId": "m20bazookagum",
+  "fileName": "AT M20 Super Bazooka.txt",
+  "name": "M20 Super Bazooka",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

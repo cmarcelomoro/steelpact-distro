@@ -1,0 +1,10 @@
+{
+  "itemId": "AGM114A",
+  "fileName": "ATGM AGM114.txt",
+  "name": "AGM-114A Hellfire",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

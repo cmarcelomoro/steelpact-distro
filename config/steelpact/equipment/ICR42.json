@@ -1,0 +1,10 @@
+{
+  "itemId": "ICR42",
+  "fileName": "T1F Cr42 float.txt",
+  "name": "CMASA ICR.42",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

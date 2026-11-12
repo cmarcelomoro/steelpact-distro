@@ -1,0 +1,10 @@
+{
+  "itemId": "cssVirginia",
+  "fileName": "T1S Virginia.txt",
+  "name": "CSS Virginia",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

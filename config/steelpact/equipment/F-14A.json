@@ -1,0 +1,10 @@
+{
+  "itemId": "F-14A",
+  "fileName": "T3F F-14A.txt",
+  "name": "Grumman F-14A Tomcat",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

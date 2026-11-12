@@ -1,0 +1,10 @@
+{
+  "itemId": "breda38",
+  "fileName": "MG Breda MG.txt",
+  "name": "Breda 38 Machine Gun",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

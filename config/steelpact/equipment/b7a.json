@@ -1,0 +1,10 @@
+{
+  "itemId": "b7a",
+  "fileName": "T1F B7A.txt",
+  "name": "Aichi B7A",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

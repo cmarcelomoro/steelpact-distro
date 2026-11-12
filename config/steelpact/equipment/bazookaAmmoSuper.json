@@ -1,0 +1,10 @@
+{
+  "itemId": "bazookaAmmoSuper",
+  "fileName": "SAAT BazookaAmmo super.txt",
+  "name": "M28A2 88.1mm HEAT Round",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "stenmkv",
+  "fileName": "SMG Sten MkV.txt",
+  "name": "STEN MK.V",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

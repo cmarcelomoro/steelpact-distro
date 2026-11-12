@@ -1,0 +1,10 @@
+{
+  "itemId": "P51early",
+  "fileName": "T1F P-51 hispano.txt",
+  "name": "North American P-51 Mustang",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

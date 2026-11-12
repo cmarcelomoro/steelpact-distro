@@ -1,0 +1,10 @@
+{
+  "itemId": "Littorio",
+  "fileName": "T1S Littorio.txt",
+  "name": "Battleship Littorio",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

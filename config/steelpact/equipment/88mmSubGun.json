@@ -1,0 +1,10 @@
+{
+  "itemId": "88mmSubGun",
+  "fileName": "NG 88mmSubGun.txt",
+  "name": "8.8cm SK C/35 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

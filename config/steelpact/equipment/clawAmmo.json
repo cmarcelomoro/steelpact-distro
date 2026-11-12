@@ -1,0 +1,10 @@
+{
+  "itemId": "clawAmmo",
+  "fileName": "HERO claw energy.txt",
+  "name": "Claw Energy",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

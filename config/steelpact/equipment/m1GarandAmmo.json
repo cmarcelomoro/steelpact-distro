@@ -1,0 +1,10 @@
+{
+  "itemId": "m1GarandAmmo",
+  "fileName": "SAR M1GarandAmmo.txt",
+  "name": "8 Round 30-06 M1 Garand Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

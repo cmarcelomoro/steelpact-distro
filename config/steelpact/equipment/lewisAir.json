@@ -1,0 +1,10 @@
+{
+  "itemId": "lewisAir",
+  "fileName": "VEH Lewis Gun.txt",
+  "name": "Air-mounted Lewis Gun",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

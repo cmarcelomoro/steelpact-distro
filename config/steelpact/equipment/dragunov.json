@@ -1,0 +1,10 @@
+{
+  "itemId": "dragunov",
+  "fileName": "SR Dragunov.txt",
+  "name": "SVD",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

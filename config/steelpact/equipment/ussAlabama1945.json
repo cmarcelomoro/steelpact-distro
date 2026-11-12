@@ -1,0 +1,10 @@
+{
+  "itemId": "ussAlabama1945",
+  "fileName": "T1S Alabama1945.txt",
+  "name": "USS Alabama BB-60",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

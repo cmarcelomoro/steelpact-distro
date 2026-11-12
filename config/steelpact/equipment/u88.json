@@ -1,0 +1,10 @@
+{
+  "itemId": "u88",
+  "fileName": "T1S u-88.txt",
+  "name": "U-88",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

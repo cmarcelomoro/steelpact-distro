@@ -1,0 +1,10 @@
+{
+  "itemId": "KobraATGM",
+  "fileName": "ATGM 125mm kobra.txt",
+  "name": "9K112 Kobra",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

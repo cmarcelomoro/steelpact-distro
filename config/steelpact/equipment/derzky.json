@@ -1,0 +1,10 @@
+{
+  "itemId": "derzky",
+  "fileName": "T0S Derzky.txt",
+  "name": "Derzky",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

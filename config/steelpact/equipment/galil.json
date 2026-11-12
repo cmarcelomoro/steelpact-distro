@@ -1,0 +1,10 @@
+{
+  "itemId": "galil",
+  "fileName": "AR Galil.txt",
+  "name": "galil",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Ka25",
+  "fileName": "T3T Ka25.txt",
+  "name": "Kamov Ka-25BSh",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "CrusaderMkIII",
+  "fileName": "T1L Crusader.txt",
+  "name": "Crusader Mk. III",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

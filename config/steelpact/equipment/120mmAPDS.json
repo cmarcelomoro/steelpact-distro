@@ -1,0 +1,10 @@
+{
+  "itemId": "120mmAPDS",
+  "fileName": "TSM 120mmAPDS.txt",
+  "name": "Shot L15A3 APDS 120mm",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

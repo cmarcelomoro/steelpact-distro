@@ -1,0 +1,10 @@
+{
+  "itemId": "williamsAmmo",
+  "fileName": "TS 39mm Williams.txt",
+  "name": "1.57 Inch Shot",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

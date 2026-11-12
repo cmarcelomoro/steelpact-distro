@@ -1,0 +1,10 @@
+{
+  "itemId": "zero5",
+  "fileName": "T1F A6M5.txt",
+  "name": "Mitsubishi A6M5 Zero",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

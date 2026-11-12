@@ -1,0 +1,10 @@
+{
+  "itemId": "MiG17missile",
+  "fileName": "T2F MiG-17 Soviet.txt",
+  "name": "Mikoyan-Gurevich MiG-17AS Fresco",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

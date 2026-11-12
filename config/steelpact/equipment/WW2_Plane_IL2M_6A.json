@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Plane_IL2M_6A",
+  "fileName": "T1T IL-2m.txt",
+  "name": "Ilyushin Il-2M",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

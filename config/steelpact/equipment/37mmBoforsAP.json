@@ -1,0 +1,10 @@
+{
+  "itemId": "37mmBoforsAP",
+  "fileName": "TS 37mmBofors AP.txt",
+  "name": "M/38 APCBC Bofors 37mm",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

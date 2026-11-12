@@ -1,0 +1,10 @@
+{
+  "itemId": "m39a3Ammo",
+  "fileName": "AAMG 20mmM39.txt",
+  "name": "280 Round 20x110mm M39A3 Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

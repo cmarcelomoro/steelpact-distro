@@ -1,0 +1,10 @@
+{
+  "itemId": "hispano20",
+  "fileName": "VEH 20mm Hispano.txt",
+  "name": "Hispano 20mm Autocannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

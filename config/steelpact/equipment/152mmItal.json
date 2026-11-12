@@ -1,0 +1,10 @@
+{
+  "itemId": "152mmItal",
+  "fileName": "NG 152mm ital.txt",
+  "name": "OTO Melara 152mm/L55",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

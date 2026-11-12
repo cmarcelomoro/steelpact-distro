@@ -1,0 +1,10 @@
+{
+  "itemId": "pkt",
+  "fileName": "MG PKT.txt",
+  "name": "PKT",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

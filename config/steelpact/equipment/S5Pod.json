@@ -1,0 +1,10 @@
+{
+  "itemId": "S5Pod",
+  "fileName": "S5RocketPod.txt",
+  "name": "UB-32 S5 Rocket Pod",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

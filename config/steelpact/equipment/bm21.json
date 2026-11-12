@@ -1,0 +1,10 @@
+{
+  "itemId": "bm21",
+  "fileName": "T2A BM-21.txt",
+  "name": "BM-21 Grad",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

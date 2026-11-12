@@ -1,0 +1,10 @@
+{
+  "itemId": "6inchMkXXIIIGun",
+  "fileName": "NG 6inMkXXIIIGun.txt",
+  "name": "6-inch Mk.XXIII Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "type97MGZero",
+  "fileName": "VEH Type97MG Zero.txt",
+  "name": "Type 97 九七式七粍七固定機銃",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

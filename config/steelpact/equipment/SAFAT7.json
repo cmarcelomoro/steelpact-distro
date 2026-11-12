@@ -1,0 +1,10 @@
+{
+  "itemId": "SAFAT7",
+  "fileName": "VEH 7mm Breda SAFAT.txt",
+  "name": "Breda-SAFAT Machine Gun",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

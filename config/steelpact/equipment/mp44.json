@@ -1,0 +1,10 @@
+{
+  "itemId": "mp44",
+  "fileName": "AR Mp44.txt",
+  "name": "StG-44",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

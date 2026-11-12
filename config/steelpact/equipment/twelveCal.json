@@ -1,0 +1,10 @@
+{
+  "itemId": "twelveCal",
+  "fileName": "MG 12mm.txt",
+  "name": "12.7mm Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

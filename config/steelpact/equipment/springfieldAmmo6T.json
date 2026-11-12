@@ -1,0 +1,10 @@
+{
+  "itemId": "springfieldAmmo6T",
+  "fileName": "SAR  M1917 Enfield Ammo - T.txt",
+  "name": "6 Round 30-06 Tracer Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

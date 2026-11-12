@@ -1,0 +1,10 @@
+{
+  "itemId": "HydraSmoke",
+  "fileName": "MGH Hydra pod Smoke.txt",
+  "name": "LAU-61/LAU-130/M261 Rocket Pod (Smoke)",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

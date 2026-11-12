@@ -1,0 +1,10 @@
+{
+  "itemId": "fiatM11",
+  "fileName": "T0M Fiat M11-39.txt",
+  "name": "Carro Armato M11/39",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

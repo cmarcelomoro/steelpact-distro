@@ -1,0 +1,10 @@
+{
+  "itemId": "HimarsMissile",
+  "fileName": "TSA 227mm Missile.txt",
+  "name": "227mm M31 HE Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

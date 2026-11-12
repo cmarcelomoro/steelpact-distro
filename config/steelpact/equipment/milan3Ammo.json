@@ -1,0 +1,10 @@
+{
+  "itemId": "milan3Ammo",
+  "fileName": "SAAT MILAN 3 missile.txt",
+  "name": "MILAN 3 Missile",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

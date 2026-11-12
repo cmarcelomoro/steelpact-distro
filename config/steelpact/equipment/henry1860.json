@@ -1,0 +1,10 @@
+{
+  "itemId": "henry1860",
+  "fileName": "BR Henry 1860.txt",
+  "name": "Model 1860 Henry Rifle",
+  "folder": "guns",
+  "category": "BR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

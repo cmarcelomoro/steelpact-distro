@@ -1,0 +1,10 @@
+{
+  "itemId": "F35A",
+  "fileName": "T5T F-35B.txt",
+  "name": "Lockheed Martin F-35A",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

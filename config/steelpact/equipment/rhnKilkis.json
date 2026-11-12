@@ -1,0 +1,10 @@
+{
+  "itemId": "rhnKilkis",
+  "fileName": "T0S Kilkis.txt",
+  "name": "Κιλκίς",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

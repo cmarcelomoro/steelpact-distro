@@ -1,0 +1,10 @@
+{
+  "itemId": "NeanderthalSpear",
+  "fileName": "HERO Neanderthal spear.txt",
+  "name": "Short Spear",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

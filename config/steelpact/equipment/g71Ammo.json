@@ -1,0 +1,10 @@
+{
+  "itemId": "g71Ammo",
+  "fileName": "SAR g71Ammo.txt",
+  "name": "11.15×60mmR Cartridges",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

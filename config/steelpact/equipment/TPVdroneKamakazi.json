@@ -1,0 +1,10 @@
+{
+  "itemId": "TPVdroneKamakazi",
+  "fileName": "DRONE TPVdrone - Kamakazi.txt",
+  "name": "Quadcopter Drone (Kamakazi Fuse)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

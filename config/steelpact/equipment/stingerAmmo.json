@@ -1,0 +1,10 @@
+{
+  "itemId": "stingerAmmo",
+  "fileName": "SAAA StingerAmmo.txt",
+  "name": "FIM-92B Missile Case (1987)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

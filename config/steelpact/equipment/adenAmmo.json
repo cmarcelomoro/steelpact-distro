@@ -1,0 +1,10 @@
+{
+  "itemId": "adenAmmo",
+  "fileName": "AAMG 30mm ADEN.txt",
+  "name": "150 Round 30x110mm ADEN Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

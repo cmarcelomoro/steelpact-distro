@@ -1,0 +1,10 @@
+{
+  "itemId": "IronArrow",
+  "fileName": "HERO iron arrow.txt",
+  "name": "Iron Arrow",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

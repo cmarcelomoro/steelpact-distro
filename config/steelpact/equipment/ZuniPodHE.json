@@ -1,0 +1,10 @@
+{
+  "itemId": "ZuniPodHE",
+  "fileName": "MGH Zuni pod HE.txt",
+  "name": "Mk.24 Zuni High Explosive Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

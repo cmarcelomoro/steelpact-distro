@@ -1,0 +1,10 @@
+{
+  "itemId": "agm65",
+  "fileName": "ATGM AGM65-1.txt",
+  "name": "AGM-65 Maverick",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

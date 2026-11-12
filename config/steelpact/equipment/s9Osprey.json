@@ -1,0 +1,10 @@
+{
+  "itemId": "s9Osprey",
+  "fileName": "T0S S9Osprey.txt",
+  "name": "S9 Osprey",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

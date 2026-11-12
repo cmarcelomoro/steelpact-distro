@@ -1,0 +1,10 @@
+{
+  "itemId": "berthier",
+  "fileName": "SR BerthierM190515.txt",
+  "name": "Berthier Fusil Mle 1907",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

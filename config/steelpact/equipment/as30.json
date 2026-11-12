@@ -1,0 +1,10 @@
+{
+  "itemId": "as30",
+  "fileName": "ATGM AS-30.txt",
+  "name": "AS-30L",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

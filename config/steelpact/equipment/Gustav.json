@@ -1,0 +1,10 @@
+{
+  "itemId": "Gustav",
+  "fileName": "T5A SchwererGustav.txt",
+  "name": "Schwerer Gustav 80cm Railway Gun",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

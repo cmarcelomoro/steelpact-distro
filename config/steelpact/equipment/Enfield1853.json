@@ -1,0 +1,10 @@
+{
+  "itemId": "Enfield1853",
+  "fileName": "SR Enfield 1853.txt",
+  "name": "Pattern 1853 Enfield",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

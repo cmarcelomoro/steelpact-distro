@@ -1,0 +1,10 @@
+{
+  "itemId": "QSZAmmo",
+  "fileName": "SAP QSZ Ammo.txt",
+  "name": "20 Round 5.8x21mm QSZ-92 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

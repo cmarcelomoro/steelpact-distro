@@ -1,0 +1,10 @@
+{
+  "itemId": "356L45Photon",
+  "fileName": "NG 356mmPhoton.txt",
+  "name": "35.6cm Photon Cannon Dual Mount",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

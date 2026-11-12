@@ -1,0 +1,10 @@
+{
+  "itemId": "p38lightningIco",
+  "fileName": "T1T P38A.txt",
+  "name": "Lockheed P-38E Lightning",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

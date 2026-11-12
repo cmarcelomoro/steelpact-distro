@@ -1,0 +1,10 @@
+{
+  "itemId": "tigerIlate",
+  "fileName": "T1H Tiger I Ausf E.txt",
+  "name": "Panzerkampfwagen Tiger Ausf. E",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

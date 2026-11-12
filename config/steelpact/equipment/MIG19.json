@@ -1,0 +1,10 @@
+{
+  "itemId": "MIG19",
+  "fileName": "T2F MIG-19.txt",
+  "name": "Mikoyan-Gurevich MiG-19S Farmer",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

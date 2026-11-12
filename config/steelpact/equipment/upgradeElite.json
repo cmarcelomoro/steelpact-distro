@@ -1,0 +1,10 @@
+{
+  "itemId": "upgradeElite",
+  "fileName": "upgrade elite.txt",
+  "name": "Elite Upgrade",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

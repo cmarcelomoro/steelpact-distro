@@ -1,0 +1,10 @@
+{
+  "itemId": "ki56",
+  "fileName": "T1T Ki-56.txt",
+  "name": "一式貨物輸送機",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

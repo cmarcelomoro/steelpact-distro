@@ -1,0 +1,10 @@
+{
+  "itemId": "mp40",
+  "fileName": "SMG Mp40.txt",
+  "name": "MP 40",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

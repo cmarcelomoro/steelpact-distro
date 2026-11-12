@@ -1,0 +1,10 @@
+{
+  "itemId": "negev",
+  "fileName": "MG Negev.txt",
+  "name": "IWI Negev",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

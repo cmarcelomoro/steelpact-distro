@@ -1,0 +1,10 @@
+{
+  "itemId": "type5",
+  "fileName": "VEH 30mm  type5.txt",
+  "name": "Type-5 Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Sea_Harrier",
+  "fileName": "T3F Sea Harrier.txt",
+  "name": "British Aerospace Sea Harrier",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

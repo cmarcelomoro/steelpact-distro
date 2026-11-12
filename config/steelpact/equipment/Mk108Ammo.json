@@ -1,0 +1,10 @@
+{
+  "itemId": "Mk108Ammo",
+  "fileName": "AAMG Mk108.txt",
+  "name": "100 Round 30x90RB Mk 108 Cannon Shells",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

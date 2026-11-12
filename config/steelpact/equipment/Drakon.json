@@ -1,0 +1,10 @@
+{
+  "itemId": "Drakon",
+  "fileName": "ATGM Drakon.txt",
+  "name": "3M7 Drakon",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

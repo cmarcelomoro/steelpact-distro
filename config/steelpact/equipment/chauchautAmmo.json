@@ -1,0 +1,10 @@
+{
+  "itemId": "chauchautAmmo",
+  "fileName": "SAR Chauchat 20 Round Magazine.txt",
+  "name": "8x50mmR 20 Round Chauchat Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

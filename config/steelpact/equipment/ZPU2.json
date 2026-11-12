@@ -1,0 +1,10 @@
+{
+  "itemId": "ZPU2",
+  "fileName": "T2A ZPU-2.txt",
+  "name": "ZPU02",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

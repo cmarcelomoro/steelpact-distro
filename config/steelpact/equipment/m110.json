@@ -1,0 +1,10 @@
+{
+  "itemId": "m110",
+  "fileName": "SR M110.txt",
+  "name": "M110 SASS",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

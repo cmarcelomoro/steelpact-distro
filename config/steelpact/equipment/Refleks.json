@@ -1,0 +1,10 @@
+{
+  "itemId": "Refleks",
+  "fileName": "ATGM 125mm refleks.txt",
+  "name": "9M119M Refleks",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

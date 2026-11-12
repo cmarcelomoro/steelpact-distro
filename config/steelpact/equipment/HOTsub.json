@@ -1,0 +1,10 @@
+{
+  "itemId": "HOTsub",
+  "fileName": "ATGM HOT 3 submunition.txt",
+  "name": "HOT-3 submunition",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "f6f3",
+  "fileName": "T1F F6F3.txt",
+  "name": "Grumman F6F-3 Hellcat",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "28mmAmmoHETQuad",
+  "fileName": "AA 28mmAmmoHETQuad.txt",
+  "name": "1.1\"/75 Ammo Clip HE-T (Bundled)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

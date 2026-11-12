@@ -1,0 +1,10 @@
+{
+  "itemId": "rpg29",
+  "fileName": "AT RPG29.txt",
+  "name": "RPG-29",
+  "folder": "guns",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

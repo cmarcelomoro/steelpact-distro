@@ -1,0 +1,10 @@
+{
+  "itemId": "Hunter",
+  "fileName": "T2F Hunter.txt",
+  "name": "Hawker Hunter",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

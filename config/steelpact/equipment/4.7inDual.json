@@ -1,0 +1,10 @@
+{
+  "itemId": "4.7inDual",
+  "fileName": "NG 4.7inDual.txt",
+  "name": "4.7-inch Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

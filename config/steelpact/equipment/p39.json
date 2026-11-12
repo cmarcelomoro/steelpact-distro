@@ -1,0 +1,10 @@
+{
+  "itemId": "p39",
+  "fileName": "T1F P-39.txt",
+  "name": "Bell P-39N-0 Airacobra",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "pf98heat",
+  "fileName": "SAAT 120mmPF98HEAT.txt",
+  "name": "PF-98 DZP 120mm HEAT Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

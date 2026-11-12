@@ -1,0 +1,10 @@
+{
+  "itemId": "seiran",
+  "fileName": "T1T Seiran.txt",
+  "name": "Aichi M6A1 晴嵐",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

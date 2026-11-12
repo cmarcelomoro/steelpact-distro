@@ -1,0 +1,10 @@
+{
+  "itemId": "mg42Ammo2000",
+  "fileName": "SAR MG42Ammo2000.txt",
+  "name": "2000 Round 7.92x57mm MG-34 Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

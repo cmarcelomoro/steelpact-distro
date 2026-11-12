@@ -1,0 +1,10 @@
+{
+  "itemId": "skoda305",
+  "fileName": "NG 305 l45 skoda austria.txt",
+  "name": "Škoda 30.5 cm /45 K10",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

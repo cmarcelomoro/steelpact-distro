@@ -1,0 +1,10 @@
+{
+  "itemId": "105mmAPFSDS",
+  "fileName": "TSM 105mmAPFSDS USA 2.txt",
+  "name": "M883 APFSDS-T",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

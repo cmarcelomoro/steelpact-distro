@@ -1,0 +1,10 @@
+{
+  "itemId": "twelveMM",
+  "fileName": "12.7mm MG.txt",
+  "name": "M2HB Heavy Machinegun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

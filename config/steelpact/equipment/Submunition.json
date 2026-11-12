@@ -1,0 +1,10 @@
+{
+  "itemId": "Submunition",
+  "fileName": "MGH Tiny Submunition.txt",
+  "name": ".5kg",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

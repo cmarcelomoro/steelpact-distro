@@ -1,0 +1,10 @@
+{
+  "itemId": "triumphSub",
+  "fileName": "T1S SS triumph.txt",
+  "name": "HMS Triumph (N18)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

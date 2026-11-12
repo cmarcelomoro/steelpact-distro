@@ -1,0 +1,10 @@
+{
+  "itemId": "federov",
+  "fileName": "AR Avtomat.txt",
+  "name": "Fedorov Avtomat",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

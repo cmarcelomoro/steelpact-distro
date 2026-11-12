@@ -1,0 +1,10 @@
+{
+  "itemId": "90mmItalian",
+  "fileName": "TSM 90mmAP Italian.txt",
+  "name": "Granata Perforante da 90 APCBC Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

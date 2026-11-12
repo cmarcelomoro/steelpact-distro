@@ -1,0 +1,10 @@
+{
+  "itemId": "r60",
+  "fileName": "AAM R60.txt",
+  "name": "Molniya R-60",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

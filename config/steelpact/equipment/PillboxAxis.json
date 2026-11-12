@@ -1,0 +1,10 @@
+{
+  "itemId": "PillboxAxis",
+  "fileName": "T0H Pillbox Axis.txt",
+  "name": "Light Pillbox",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Chengdu",
+  "fileName": "T5F J-20.txt",
+  "name": "Chengdu J-20",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

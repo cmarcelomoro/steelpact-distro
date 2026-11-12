@@ -1,0 +1,10 @@
+{
+  "itemId": "he51",
+  "fileName": "T0F He51.txt",
+  "name": "Heinkel He 51",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "VolnaMissile",
+  "fileName": "AA M1 Volna SAM.txt",
+  "name": "V-600 Missile for S-125 Neva / M-1 Volna",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

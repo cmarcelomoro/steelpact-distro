@@ -1,0 +1,10 @@
+{
+  "itemId": "RefleksSub",
+  "fileName": "ATGM 125mm refleks submunition.txt",
+  "name": "9K112 Kobra",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

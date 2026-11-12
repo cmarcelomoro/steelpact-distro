@@ -1,0 +1,10 @@
+{
+  "itemId": "genericStarShell",
+  "fileName": "TSA Generic Star shell.txt",
+  "name": "Generic Star Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

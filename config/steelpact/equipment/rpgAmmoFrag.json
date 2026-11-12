@@ -1,0 +1,10 @@
+{
+  "itemId": "rpgAmmoFrag",
+  "fileName": "SAAT RPGAmmo - OG7V.txt",
+  "name": "OG-7V (1999)",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "dp28Ammo",
+  "fileName": "SAR DP28Ammo.txt",
+  "name": "47 Round 7.62x54R Drum Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

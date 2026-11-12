@@ -1,0 +1,10 @@
+{
+  "itemId": "reaperdrone",
+  "fileName": "T4p5D MQ9 Repear.txt",
+  "name": "General Atomics MQ-9 Reaper",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "m14",
+  "fileName": "BR M14.txt",
+  "name": "M14 DMR",
+  "folder": "guns",
+  "category": "BR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

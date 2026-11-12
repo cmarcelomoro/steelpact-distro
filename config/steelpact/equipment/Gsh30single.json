@@ -1,0 +1,10 @@
+{
+  "itemId": "Gsh30single",
+  "fileName": "VEH 30mm Gsh 301.txt",
+  "name": "Gryazev-Shipunov GSh-30-1",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

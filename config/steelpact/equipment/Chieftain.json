@@ -1,0 +1,10 @@
+{
+  "itemId": "Chieftain",
+  "fileName": "T2p5M Chieftain.txt",
+  "name": "FV4201 Chieftain mk.5",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

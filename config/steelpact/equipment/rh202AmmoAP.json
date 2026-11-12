@@ -1,0 +1,10 @@
+{
+  "itemId": "rh202AmmoAP",
+  "fileName": "TS 20mm AP RH202.txt",
+  "name": "DM43 20x139mm API-T Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Minieball",
+  "fileName": "SAR Minieball.txt",
+  "name": "Minié ball",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

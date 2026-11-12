@@ -1,0 +1,10 @@
+{
+  "itemId": "fiveInchDestroyer",
+  "fileName": "NS 5in destroyer placeholder.txt",
+  "name": "5-inch Shell Placeholder",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "navalRaidingShellXS",
+  "fileName": "NS XS Bombardment Raiding.txt",
+  "name": "57mm - 90mm Raiding Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

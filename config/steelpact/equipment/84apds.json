@@ -1,0 +1,10 @@
+{
+  "itemId": "84apds",
+  "fileName": "TSM 84mmAPDS.txt",
+  "name": "Shot Mk.3 APDS 84mm",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

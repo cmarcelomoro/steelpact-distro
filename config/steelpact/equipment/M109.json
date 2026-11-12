@@ -1,0 +1,10 @@
+{
+  "itemId": "M109",
+  "fileName": "T3A M109 Paladin.txt",
+  "name": "M109 Paladin SPG",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

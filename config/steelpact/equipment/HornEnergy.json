@@ -1,0 +1,10 @@
+{
+  "itemId": "HornEnergy",
+  "fileName": "Hornzero.txt",
+  "name": "Horn Energy",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

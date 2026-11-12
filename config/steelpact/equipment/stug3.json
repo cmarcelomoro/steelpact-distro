@@ -1,0 +1,10 @@
+{
+  "itemId": "stug3",
+  "fileName": "T1A Stug.txt",
+  "name": "Sturmgeschutz \"StuG\" III Ausf. G",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

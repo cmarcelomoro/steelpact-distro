@@ -1,0 +1,10 @@
+{
+  "itemId": "m39Cannon",
+  "fileName": "VEH 20mm M39.txt",
+  "name": "M39A3 Revolver Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

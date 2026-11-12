@@ -1,0 +1,10 @@
+{
+  "itemId": "AH-1F",
+  "fileName": "T3F AH1F.txt",
+  "name": "AH-1F Cobra",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

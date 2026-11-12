@@ -1,0 +1,10 @@
+{
+  "itemId": "moines",
+  "fileName": "T1p5S des moines.txt",
+  "name": "USS Des Moines CA-134",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

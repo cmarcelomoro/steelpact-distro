@@ -1,0 +1,10 @@
+{
+  "itemId": "75mmItaly",
+  "fileName": "TSM 75mmAP Shitaly.txt",
+  "name": "Granata Perforante 75/32 APHE Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

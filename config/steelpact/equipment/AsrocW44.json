@@ -1,0 +1,10 @@
+{
+  "itemId": "AsrocW44",
+  "fileName": "NS RUR5 ASROC Nuclear.txt",
+  "name": "RUR-5 ASROC - W44 Nuclear Warhead",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

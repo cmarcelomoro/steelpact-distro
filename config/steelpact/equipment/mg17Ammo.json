@@ -1,0 +1,10 @@
+{
+  "itemId": "mg17Ammo",
+  "fileName": "AAMG MG17Ammo.txt",
+  "name": "500 Round MG-17 Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

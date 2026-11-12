@@ -1,0 +1,10 @@
+{
+  "itemId": "turkiyeRifleAmmoT",
+  "fileName": "SAR Turkiye Rifle Ammo - T.txt",
+  "name": "5 Round 7.65x53mm Tracer Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

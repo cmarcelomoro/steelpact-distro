@@ -1,0 +1,10 @@
+{
+  "itemId": "turan2",
+  "fileName": "T1M 41M Turan 2.txt",
+  "name": "41M Turan II",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

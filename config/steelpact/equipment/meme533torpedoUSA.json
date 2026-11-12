@@ -1,0 +1,10 @@
+{
+  "itemId": "meme533torpedoUSA",
+  "fileName": "NS meme torpedo 533mm USA.txt",
+  "name": "21-inch Mark 8 Mod.4 Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

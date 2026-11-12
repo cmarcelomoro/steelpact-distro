@@ -1,0 +1,10 @@
+{
+  "itemId": "longLance",
+  "fileName": "NS type 93 long lance attempt 2.txt",
+  "name": "Type 93 Long Lance Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

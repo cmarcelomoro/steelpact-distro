@@ -1,0 +1,10 @@
+{
+  "itemId": "Matilda",
+  "fileName": "T1M Matilda.txt",
+  "name": "Matilda II",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

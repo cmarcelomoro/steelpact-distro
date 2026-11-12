@@ -1,0 +1,10 @@
+{
+  "itemId": "thompsonearly",
+  "fileName": "SMG M1928 Thompson.txt",
+  "name": "M1928A1 Thompson",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

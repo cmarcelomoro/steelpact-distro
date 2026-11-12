@@ -1,0 +1,10 @@
+{
+  "itemId": "14inQuad",
+  "fileName": "NG 14in pow.txt",
+  "name": "BL 14-inch Mark VII",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

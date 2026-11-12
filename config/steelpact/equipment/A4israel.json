@@ -1,0 +1,10 @@
+{
+  "itemId": "A4israel",
+  "fileName": "T3F A-4H.txt",
+  "name": "McDonnell Douglas A-4H Ayit",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "mi24Missiles",
+  "fileName": "Shturm and ataka but on a vehicle.txt",
+  "name": "Mi24 Missile launcher",
+  "folder": "guns",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

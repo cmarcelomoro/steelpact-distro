@@ -1,0 +1,10 @@
+{
+  "itemId": "Bike",
+  "fileName": "C Bicycle.txt",
+  "name": "Bicycle",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

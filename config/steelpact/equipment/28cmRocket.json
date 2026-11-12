@@ -1,0 +1,10 @@
+{
+  "itemId": "28cmRocket",
+  "fileName": "TS 28cm HE Rocket.txt",
+  "name": "28 cm Wurfkörper Spreng",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

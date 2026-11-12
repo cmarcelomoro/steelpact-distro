@@ -1,0 +1,10 @@
+{
+  "itemId": "dm12",
+  "fileName": "TS 120mm heat dm12.txt",
+  "name": "DM-12 120mm HEAT-FS",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

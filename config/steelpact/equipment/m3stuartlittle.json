@@ -1,0 +1,10 @@
+{
+  "itemId": "m3stuartlittle",
+  "fileName": "T0L M3A1 Stuart.txt",
+  "name": "M3 Stuart",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "J-6",
+  "fileName": "T2F J-6.txt",
+  "name": "Shenyang J-6 Farmer",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

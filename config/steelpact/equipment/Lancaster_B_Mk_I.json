@@ -1,0 +1,10 @@
+{
+  "itemId": "Lancaster B Mk I",
+  "fileName": "T1T Lancaster.txt",
+  "name": "Lancaster Bomber",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

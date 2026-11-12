@@ -1,0 +1,10 @@
+{
+  "itemId": "mgff",
+  "fileName": "VEH 20mm  MGFF.txt",
+  "name": "MG-FF",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

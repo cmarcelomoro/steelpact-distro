@@ -1,0 +1,10 @@
+{
+  "itemId": "m338",
+  "fileName": "TSM M338 Israel.txt",
+  "name": "M338 120mm APFSDS",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

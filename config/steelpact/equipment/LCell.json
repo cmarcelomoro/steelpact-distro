@@ -1,0 +1,10 @@
+{
+  "itemId": "LCell",
+  "fileName": "SAL Illuminati LaserCell.txt",
+  "name": "LAS-120 Cell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "305Russia",
+  "fileName": "NG 305mm russian.txt",
+  "name": "Obukhovskii 12\"/52 Pattern 1907 gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

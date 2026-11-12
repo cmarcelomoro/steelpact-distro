@@ -1,0 +1,10 @@
+{
+  "itemId": "Bismarck",
+  "fileName": "T1S Bismarck.txt",
+  "name": "Bismarck",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "centurion84",
+  "fileName": "T1p5M centurion 84.txt",
+  "name": "Centurion Mk.3 (1948)",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

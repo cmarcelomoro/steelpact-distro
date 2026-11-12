@@ -1,0 +1,10 @@
+{
+  "itemId": "centauroTorpedo",
+  "fileName": "T1p5F Centauro Torpedo.txt",
+  "name": "Fiat G.55/S Centauro",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

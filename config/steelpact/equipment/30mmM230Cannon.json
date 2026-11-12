@@ -1,0 +1,10 @@
+{
+  "itemId": "30mmM230Cannon",
+  "fileName": "M230 30mm.txt",
+  "name": "M230 Chaingun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

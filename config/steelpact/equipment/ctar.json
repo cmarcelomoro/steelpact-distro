@@ -1,0 +1,10 @@
+{
+  "itemId": "ctar",
+  "fileName": "AR CTAR21.txt",
+  "name": "ctar",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

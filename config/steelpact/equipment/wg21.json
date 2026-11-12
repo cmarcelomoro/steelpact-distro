@@ -1,0 +1,10 @@
+{
+  "itemId": "wg21",
+  "fileName": "MGH WG21.txt",
+  "name": "Werfer-Granate 21",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

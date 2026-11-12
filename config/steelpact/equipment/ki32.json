@@ -1,0 +1,10 @@
+{
+  "itemId": "ki32",
+  "fileName": "T0p5T Ki32.txt",
+  "name": "九八式軽爆撃機",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

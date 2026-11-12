@@ -1,0 +1,10 @@
+{
+  "itemId": "KalibrPL",
+  "fileName": "NS 3m54 Kalibr.txt",
+  "name": "3M-54 Kalibr-PL (1994)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

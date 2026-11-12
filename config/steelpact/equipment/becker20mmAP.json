@@ -1,0 +1,10 @@
+{
+  "itemId": "becker20mmAP",
+  "fileName": "TS 20mm Becker AP.txt",
+  "name": "Panzergeschoß L\u0027Spur Modell 1 20x70mm AP-T Becker M.II Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

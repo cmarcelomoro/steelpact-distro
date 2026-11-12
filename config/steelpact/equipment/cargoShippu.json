@@ -1,0 +1,10 @@
+{
+  "itemId": "cargoShippu",
+  "fileName": "T0S Cargo Ship.txt",
+  "name": "Cargo Ship",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Type10",
+  "fileName": "T5M Type-10.txt",
+  "name": "Hitomaru-shiki",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "kh29D",
+  "fileName": "ATGM Kh29D.txt",
+  "name": "Kh-29D",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

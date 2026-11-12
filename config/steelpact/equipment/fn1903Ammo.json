@@ -1,0 +1,10 @@
+{
+  "itemId": "fn1903Ammo",
+  "fileName": "SAP 1903Ammo.txt",
+  "name": ".380 ACP 7 Round FN 1903 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "38t",
+  "fileName": "T0L Panzer38t.txt",
+  "name": "Panzerkampfwagen 38(t)",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "100mmAPDS",
+  "fileName": "TSM 100mmAPDS.txt",
+  "name": "100mm 3BM-8 APDS",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ussWard",
+  "fileName": "T0S Ward.txt",
+  "name": "USS Ward DD-139",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

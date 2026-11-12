@@ -1,0 +1,10 @@
+{
+  "itemId": "ussTambor",
+  "fileName": "T1S Tambor.txt",
+  "name": "USS Tambor",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

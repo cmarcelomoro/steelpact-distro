@@ -1,0 +1,10 @@
+{
+  "itemId": "ev4",
+  "fileName": "T0T Ehrhardt EV4.txt",
+  "name": "Panzerkraftwagen Ehrhardt 1915",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

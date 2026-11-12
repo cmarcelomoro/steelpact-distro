@@ -1,0 +1,10 @@
+{
+  "itemId": "127mm",
+  "fileName": "NG 12.7cm.txt",
+  "name": "12.7cm SK C/34 Single Gun Mount",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

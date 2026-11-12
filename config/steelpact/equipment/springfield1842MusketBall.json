@@ -1,0 +1,10 @@
+{
+  "itemId": "springfield1842MusketBall",
+  "fileName": "SAR Springfield 1842 Ammo.txt",
+  "name": ".69 Cal Musket Ball",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

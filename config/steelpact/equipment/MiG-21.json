@@ -1,0 +1,10 @@
+{
+  "itemId": "MiG-21",
+  "fileName": "T3F MiG-21.txt",
+  "name": "MiG-21bis (1972)",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

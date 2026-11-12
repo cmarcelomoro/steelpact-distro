@@ -1,0 +1,10 @@
+{
+  "itemId": "10cmAAfrench",
+  "fileName": "NG 10cm aa Frenchy.txt",
+  "name": "Twin 100mm AA (Mle 1931)",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

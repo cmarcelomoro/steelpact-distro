@@ -1,0 +1,10 @@
+{
+  "itemId": "sverdlov",
+  "fileName": "T1p5S Sverdlov.txt",
+  "name": "Sverdlov",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

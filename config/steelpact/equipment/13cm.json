@@ -1,0 +1,10 @@
+{
+  "itemId": "13cm",
+  "fileName": "13cm.txt",
+  "name": "130 mm/50 B13 Pattern 1936",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

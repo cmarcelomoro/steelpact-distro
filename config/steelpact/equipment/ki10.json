@@ -1,0 +1,10 @@
+{
+  "itemId": "ki10",
+  "fileName": "T0p5F Ki10.txt",
+  "name": "九五式戦闘",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

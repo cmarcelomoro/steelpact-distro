@@ -1,0 +1,10 @@
+{
+  "itemId": "gbu24",
+  "fileName": "BO GBU24.txt",
+  "name": "GBU-24 Paveway III",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

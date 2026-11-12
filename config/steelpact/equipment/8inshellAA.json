@@ -1,0 +1,10 @@
+{
+  "itemId": "8inshellAA",
+  "fileName": "NS 8inShellAA.txt",
+  "name": "8-inch VT-HE Shell Mk.Ia",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

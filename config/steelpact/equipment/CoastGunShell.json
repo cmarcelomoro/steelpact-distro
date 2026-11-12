@@ -1,0 +1,10 @@
+{
+  "itemId": "CoastGunShell",
+  "fileName": "NS Generic Coast Gun Shell.txt",
+  "name": "Generic Coast Gun Anti-Ship Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

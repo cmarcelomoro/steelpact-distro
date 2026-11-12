@@ -1,0 +1,10 @@
+{
+  "itemId": "amx13",
+  "fileName": "T2M AMX-13.txt",
+  "name": "AMX-13",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

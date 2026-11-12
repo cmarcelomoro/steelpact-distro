@@ -1,0 +1,10 @@
+{
+  "itemId": "DaisyCutter",
+  "fileName": "BO DaisyCutter.txt",
+  "name": "DaisyCutter",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

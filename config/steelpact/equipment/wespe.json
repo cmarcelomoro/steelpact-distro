@@ -1,0 +1,10 @@
+{
+  "itemId": "wespe",
+  "fileName": "T1A Wespe.txt",
+  "name": "Sd.Kfz. 124 Wespe",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

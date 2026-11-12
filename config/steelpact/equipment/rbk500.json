@@ -1,0 +1,10 @@
+{
+  "itemId": "rbk500",
+  "fileName": "BO RBK500.txt",
+  "name": "RBK-500 Cluster Bomb",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

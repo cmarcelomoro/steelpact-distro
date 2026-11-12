@@ -1,0 +1,10 @@
+{
+  "itemId": "38cmshellAA",
+  "fileName": "NS 38cm AA Shell.txt",
+  "name": "38cm German AA Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

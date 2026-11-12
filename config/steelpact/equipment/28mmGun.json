@@ -1,0 +1,10 @@
+{
+  "itemId": "28mmGun",
+  "fileName": "NG 28mmAAGun.txt",
+  "name": "1.1\"/75 Mark 1 AA gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

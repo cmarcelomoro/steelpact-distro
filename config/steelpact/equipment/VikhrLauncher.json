@@ -1,0 +1,10 @@
+{
+  "itemId": "VikhrLauncher",
+  "fileName": "RPK-1 Vikhr Launcher.txt",
+  "name": "MS-32 Launcher for RPK-1 Vikhr",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "fiat626",
+  "fileName": "T0T Fiat626.txt",
+  "name": "Fiat 626",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

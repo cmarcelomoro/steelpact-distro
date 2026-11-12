@@ -1,0 +1,10 @@
+{
+  "itemId": "152mmRus",
+  "fileName": "NG 152mm russia 1892.txt",
+  "name": "152mm L/45 caliber Pattern 1892",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

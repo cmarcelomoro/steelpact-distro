@@ -1,0 +1,10 @@
+{
+  "itemId": "meme500torpedo",
+  "fileName": "NS 500mm meme torpedo.txt",
+  "name": "Outdated 50 cm (19.7\") G7 Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

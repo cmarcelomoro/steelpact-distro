@@ -1,0 +1,10 @@
+{
+  "itemId": "Frigate54",
+  "fileName": "T4p5SF Frigate.txt",
+  "name": "Type 054A Frigate",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

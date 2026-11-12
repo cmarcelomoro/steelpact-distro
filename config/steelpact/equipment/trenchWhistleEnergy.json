@@ -1,0 +1,10 @@
+{
+  "itemId": "trenchWhistleEnergy",
+  "fileName": "SAAT Trench Whistle Ammo.txt",
+  "name": "Trench Whistle Energy",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

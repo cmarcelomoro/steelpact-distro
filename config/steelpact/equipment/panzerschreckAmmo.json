@@ -1,0 +1,10 @@
+{
+  "itemId": "panzerschreckAmmo",
+  "fileName": "SAAT PanzerschreckAmmo.txt",
+  "name": "Panzerschreck Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

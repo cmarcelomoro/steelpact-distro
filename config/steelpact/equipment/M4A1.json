@@ -1,0 +1,10 @@
+{
+  "itemId": "M4A1",
+  "fileName": "AR M4A1.txt",
+  "name": "M4A1",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

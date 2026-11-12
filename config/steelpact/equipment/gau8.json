@@ -1,0 +1,10 @@
+{
+  "itemId": "gau8",
+  "fileName": "30mm GAU8.txt",
+  "name": "GAU-8/A Avenger 30mm Rotary Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

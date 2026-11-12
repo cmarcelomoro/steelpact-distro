@@ -1,0 +1,10 @@
+{
+  "itemId": "S35",
+  "fileName": "T1M S35.txt",
+  "name": "Char de cavalerie SOMUA 1935 S",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "l4Grasshopper",
+  "fileName": "T1T Grasshopper.txt",
+  "name": "Piper L-4 Grasshopper",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

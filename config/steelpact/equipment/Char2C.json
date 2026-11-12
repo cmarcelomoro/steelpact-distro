@@ -1,0 +1,10 @@
+{
+  "itemId": "Char2C",
+  "fileName": "T0H Char2c.txt",
+  "name": "Char 2C",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

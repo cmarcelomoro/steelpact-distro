@@ -1,0 +1,10 @@
+{
+  "itemId": "vya23Ammo",
+  "fileName": "AAMG 23 il2.txt",
+  "name": "150 Round 23x152mmB OZT VYa-23 Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

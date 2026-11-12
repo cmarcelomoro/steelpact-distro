@@ -1,0 +1,10 @@
+{
+  "itemId": "GEAW_IJA_SMG_Type100_40",
+  "fileName": "SMG Type100_40.txt",
+  "name": "Type 100 SMG",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ak103",
+  "fileName": "AR AK-103.txt",
+  "name": "AK-103",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

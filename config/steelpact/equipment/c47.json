@@ -1,0 +1,10 @@
+{
+  "itemId": "c47",
+  "fileName": "T1T C-47D.txt",
+  "name": "Douglas C-47D Skytrain",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

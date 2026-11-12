@@ -1,0 +1,10 @@
+{
+  "itemId": "BlackPanther",
+  "fileName": "T5M K2BlackPanther.txt",
+  "name": "K2 Black Panther",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

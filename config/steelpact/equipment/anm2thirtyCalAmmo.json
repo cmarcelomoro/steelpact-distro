@@ -1,0 +1,10 @@
+{
+  "itemId": "anm2thirtyCalAmmo",
+  "fileName": "AAMG ANM2 .30 Cal.txt",
+  "name": "300 Round .30-06 AN-M2 Browning Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

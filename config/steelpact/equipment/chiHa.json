@@ -1,0 +1,10 @@
+{
+  "itemId": "chiHa",
+  "fileName": "T0M ChiHa.txt",
+  "name": "Type 97 Chi-Ha",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

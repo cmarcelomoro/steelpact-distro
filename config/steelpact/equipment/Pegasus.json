@@ -1,0 +1,10 @@
+{
+  "itemId": "Pegasus",
+  "fileName": "T3M Pegasus-Tiger.txt",
+  "name": "천마호 (Ch\u0027onma-ho)",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

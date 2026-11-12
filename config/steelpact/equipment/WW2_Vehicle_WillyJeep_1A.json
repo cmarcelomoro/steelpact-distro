@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Vehicle_WillyJeep_1A",
+  "fileName": "T0T WillysJeep.txt",
+  "name": "M38 Willys Jeep - SAS",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

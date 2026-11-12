@@ -1,0 +1,10 @@
+{
+  "itemId": "13inchShell",
+  "fileName": "TS 13Inch Mortar Shell.txt",
+  "name": "197lb Mortar Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

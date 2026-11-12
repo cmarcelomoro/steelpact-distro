@@ -1,0 +1,10 @@
+{
+  "itemId": "typhoonhawker",
+  "fileName": "T1F Typhoon Hawker.txt",
+  "name": "Hawker Typhoon V",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

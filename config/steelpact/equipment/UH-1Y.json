@@ -1,0 +1,10 @@
+{
+  "itemId": "UH-1Y",
+  "fileName": "T5T UH-1Y.txt",
+  "name": "Bell UH-1Y Venom (CAS)",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

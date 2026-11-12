@@ -1,0 +1,10 @@
+{
+  "itemId": "ToyotaBMP1Turret",
+  "fileName": "T3T Toyota Hilux BMP-1.txt",
+  "name": "Toyota Hilux Technical w/ BMP-1 Turret",
+  "folder": "vehicles",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

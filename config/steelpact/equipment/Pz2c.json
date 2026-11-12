@@ -1,0 +1,10 @@
+{
+  "itemId": "Pz2c",
+  "fileName": "T0L Pz2.txt",
+  "name": "Panzerkampfwagen II Ausf. C",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

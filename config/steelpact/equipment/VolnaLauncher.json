@@ -1,0 +1,10 @@
+{
+  "itemId": "VolnaLauncher",
+  "fileName": "M1 Volna.txt",
+  "name": "M-1 Volna (1963)",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

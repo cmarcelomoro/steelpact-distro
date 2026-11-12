@@ -1,0 +1,10 @@
+{
+  "itemId": "solothurnAmmoS18AT",
+  "fileName": "SAAT SolothurnS18100Ammo.txt",
+  "name": "10 Round 20x105mm APHE-T Solothurn S-18/100 Magazines",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

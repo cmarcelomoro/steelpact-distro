@@ -1,0 +1,10 @@
+{
+  "itemId": "ev420mm",
+  "fileName": "T0T Ehrhardt EV4 20mm.txt",
+  "name": "Panzerkraftwagen Ehrhardt 1915 B",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

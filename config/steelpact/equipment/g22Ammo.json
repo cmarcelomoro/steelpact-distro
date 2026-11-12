@@ -1,0 +1,10 @@
+{
+  "itemId": "g22Ammo",
+  "fileName": "SAR G22 Ammo.txt",
+  "name": ".300 Winchester Magnum 5 Round G22A1 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

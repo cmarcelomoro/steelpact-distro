@@ -1,0 +1,10 @@
+{
+  "itemId": "kurogane",
+  "fileName": "T0T Kurogane.txt",
+  "name": "Kurogane Type 95",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

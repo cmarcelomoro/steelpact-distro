@@ -1,0 +1,10 @@
+{
+  "itemId": "bofors152mmShellAP",
+  "fileName": "NS bofors152mmAP.txt",
+  "name": "Bofors 15.2cm Shell AP",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

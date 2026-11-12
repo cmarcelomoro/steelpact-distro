@@ -1,0 +1,10 @@
+{
+  "itemId": "pkp",
+  "fileName": "MG PKP.txt",
+  "name": "PKP Pecheneg",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

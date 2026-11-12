@@ -1,0 +1,10 @@
+{
+  "itemId": "coastGun",
+  "fileName": "T0p5 Generic coast gun.txt",
+  "name": "Coast Gun",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

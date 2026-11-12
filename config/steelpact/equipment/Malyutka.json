@@ -1,0 +1,10 @@
+{
+  "itemId": "Malyutka",
+  "fileName": "ATGM BMP Missile Malyutka.txt",
+  "name": "9M14 Malyutka ATGM",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

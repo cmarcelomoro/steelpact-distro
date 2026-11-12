@@ -1,0 +1,10 @@
+{
+  "itemId": "30mmFN21",
+  "fileName": "TS 30mmFN21.txt",
+  "name": "FN21 30mm APDS-T",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

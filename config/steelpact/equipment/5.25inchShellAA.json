@@ -1,0 +1,10 @@
+{
+  "itemId": "5.25inchShellAA",
+  "fileName": "NS 5.25inchShellAA.txt",
+  "name": "5.25inch VT-HE Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

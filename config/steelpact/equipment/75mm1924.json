@@ -1,0 +1,10 @@
+{
+  "itemId": "75mm1924",
+  "fileName": "NS 75mmShell Frenchy AA.txt",
+  "name": "75mm French Naval AA Shells (1924)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

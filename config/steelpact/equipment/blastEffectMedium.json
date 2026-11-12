@@ -1,0 +1,10 @@
+{
+  "itemId": "blastEffectMedium",
+  "fileName": "TSA Generic Medium - Blast Effects.txt",
+  "name": "Medium HE Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

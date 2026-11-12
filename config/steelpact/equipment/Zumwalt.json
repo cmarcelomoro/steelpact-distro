@@ -1,0 +1,10 @@
+{
+  "itemId": "Zumwalt",
+  "fileName": "T5SD Zumwalt.txt",
+  "name": "USS Zumwalt DDG-1000",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

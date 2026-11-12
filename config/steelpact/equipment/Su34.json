@@ -1,0 +1,10 @@
+{
+  "itemId": "Su34",
+  "fileName": "T4F SU34.txt",
+  "name": "SU-34",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

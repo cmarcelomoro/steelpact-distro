@@ -1,0 +1,10 @@
+{
+  "itemId": "qjyAmmo",
+  "fileName": "SAR QJYAmmo.txt",
+  "name": "100 Round 5.8x42mm QJY-88 Machinegun Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

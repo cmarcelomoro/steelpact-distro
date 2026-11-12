@@ -1,0 +1,10 @@
+{
+  "itemId": "b43",
+  "fileName": "T1P5T B-43.txt",
+  "name": "Douglas XB-43 Jetmaster",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

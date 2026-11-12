@@ -1,0 +1,10 @@
+{
+  "itemId": "Tirpitz",
+  "fileName": "T1S Tirpitz.txt",
+  "name": "Battleship Tirpitz",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

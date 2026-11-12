@@ -1,0 +1,10 @@
+{
+  "itemId": "wz3820mm",
+  "fileName": "VEH 20mm Nkm wz.38 FK.txt",
+  "name": "Nkm wz.38 FK 20mm Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

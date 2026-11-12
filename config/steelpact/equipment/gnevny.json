@@ -1,0 +1,10 @@
+{
+  "itemId": "gnevny",
+  "fileName": "T1S Gnevny.txt",
+  "name": "Gnevny",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

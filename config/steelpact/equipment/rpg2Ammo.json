@@ -1,0 +1,10 @@
+{
+  "itemId": "rpg2Ammo",
+  "fileName": "SAAT RPG2 PG2.txt",
+  "name": "PG-2 (1949)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "VLStomahawkAttack",
+  "fileName": "NS Tomahawk attack vertical.txt",
+  "name": "RGM-109 Tomahawk Cruise Missile",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

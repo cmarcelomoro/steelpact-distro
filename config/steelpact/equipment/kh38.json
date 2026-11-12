@@ -1,0 +1,10 @@
+{
+  "itemId": "kh38",
+  "fileName": "ATGM Kh38.txt",
+  "name": "Kh-38",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

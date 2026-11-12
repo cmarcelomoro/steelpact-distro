@@ -1,0 +1,10 @@
+{
+  "itemId": "huot",
+  "fileName": "MG Huot.txt",
+  "name": "Huot Automatic Rifle",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

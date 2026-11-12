@@ -1,0 +1,10 @@
+{
+  "itemId": "gbu12GuidedBomb",
+  "fileName": "BO GBU12.txt",
+  "name": "GBU-12 Paveway II",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

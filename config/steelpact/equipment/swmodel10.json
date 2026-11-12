@@ -1,0 +1,10 @@
+{
+  "itemId": "swmodel10",
+  "fileName": "HG SW Model 10.txt",
+  "name": "Smith \u0026 Wesson Model 10",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

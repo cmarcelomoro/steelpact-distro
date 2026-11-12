@@ -1,0 +1,10 @@
+{
+  "itemId": "Tribal",
+  "fileName": "T0p5S Tribal generic.txt",
+  "name": "Tribal Class Generic Destroyer",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "samuraiSword",
+  "fileName": "T-2p5 katana.txt",
+  "name": "Katana",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

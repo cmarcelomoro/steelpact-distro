@@ -1,0 +1,10 @@
+{
+  "itemId": "saetta",
+  "fileName": "T1F Saetta.txt",
+  "name": "Macchi C.200 Saetta",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

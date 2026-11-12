@@ -1,0 +1,10 @@
+{
+  "itemId": "type96Howitzer",
+  "fileName": "T1A type96 at.txt",
+  "name": "Type 96 15 cm howitzer",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

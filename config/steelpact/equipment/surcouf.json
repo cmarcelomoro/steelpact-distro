@@ -1,0 +1,10 @@
+{
+  "itemId": "surcouf",
+  "fileName": "T1S SS Surcouf.txt",
+  "name": "Surcouf",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

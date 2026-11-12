@@ -1,0 +1,10 @@
+{
+  "itemId": "m190",
+  "fileName": "T1A M1 90.txt",
+  "name": "90 mm gun M1",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

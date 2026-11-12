@@ -1,0 +1,10 @@
+{
+  "itemId": "berettaM38Ammo",
+  "fileName": "SAS M38Beretta Ammo.txt",
+  "name": "30 Round 9x19mm M1938 Beretta Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Su-30MKK",
+  "fileName": "T4F SU30MKK.txt",
+  "name": "Sukhoi Su-30MKK Flanker-C",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

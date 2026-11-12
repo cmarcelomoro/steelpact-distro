@@ -1,0 +1,10 @@
+{
+  "itemId": "m240g",
+  "fileName": "MG M240G.txt",
+  "name": "M240G",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

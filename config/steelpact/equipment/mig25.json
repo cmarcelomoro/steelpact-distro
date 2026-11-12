@@ -1,0 +1,10 @@
+{
+  "itemId": "mig25",
+  "fileName": "T3F Mig-25.txt",
+  "name": "MiG-25P Foxbat",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

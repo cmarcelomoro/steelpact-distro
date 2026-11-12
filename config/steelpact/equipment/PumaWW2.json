@@ -1,0 +1,10 @@
+{
+  "itemId": "PumaWW2",
+  "fileName": "T1T Puma.txt",
+  "name": "Sonderkraftfahrzeug 234/2 Puma",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

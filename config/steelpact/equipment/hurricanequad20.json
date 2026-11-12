@@ -1,0 +1,10 @@
+{
+  "itemId": "hurricanequad20",
+  "fileName": "T0F Hurricane Mk2c.txt",
+  "name": "Hawker Hurricane Mk.II C",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

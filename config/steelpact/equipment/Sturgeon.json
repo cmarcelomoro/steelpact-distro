@@ -1,0 +1,10 @@
+{
+  "itemId": "Sturgeon",
+  "fileName": "T2p5SS Sturgeon.txt",
+  "name": "Sturgeon Class Submarine (1967)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

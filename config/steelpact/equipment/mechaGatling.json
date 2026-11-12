@@ -1,0 +1,10 @@
+{
+  "itemId": "mechaGatling",
+  "fileName": "gatling gun for camel.txt",
+  "name": "Camel-Mount Gatling Gun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

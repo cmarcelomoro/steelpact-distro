@@ -1,0 +1,10 @@
+{
+  "itemId": "mailBombBox",
+  "fileName": "HERO Mail bomb.txt",
+  "name": "Suspicious Package",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

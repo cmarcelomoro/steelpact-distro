@@ -1,0 +1,10 @@
+{
+  "itemId": "bofors37mm",
+  "fileName": "T0A Bofors 37mm.txt",
+  "name": "Bofors 37mm Anti-Tank",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "52CalAmmo",
+  "fileName": "SAC .52 cal rifle shot.txt",
+  "name": ".52 Cal Rilfe Cartridges",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

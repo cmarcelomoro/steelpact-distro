@@ -1,0 +1,10 @@
+{
+  "itemId": "150Krupp",
+  "fileName": "NG 15cm krupp 1908.txt",
+  "name": "15cm SK L/45 1908",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

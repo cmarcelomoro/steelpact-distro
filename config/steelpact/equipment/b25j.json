@@ -1,0 +1,10 @@
+{
+  "itemId": "b25j",
+  "fileName": "T1T B-25J.txt",
+  "name": "North American B-25J Mitchell",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

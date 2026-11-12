@@ -1,0 +1,10 @@
+{
+  "itemId": "AGM114L",
+  "fileName": "ATGM AGM114L.txt",
+  "name": "AGM-114L Hellfire LongBow",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

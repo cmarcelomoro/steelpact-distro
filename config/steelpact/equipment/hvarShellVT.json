@@ -1,0 +1,10 @@
+{
+  "itemId": "hvarShellVT",
+  "fileName": "MGH HVARshellVT.txt",
+  "name": "5\" HVAR Mk.28 Mod.5 VT (\"Shell\")",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

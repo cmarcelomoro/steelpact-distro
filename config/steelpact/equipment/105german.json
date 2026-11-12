@@ -1,0 +1,10 @@
+{
+  "itemId": "105german",
+  "fileName": "NG 10p5cm sk c32.txt",
+  "name": "10.5cm SK C/32 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

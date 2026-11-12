@@ -1,0 +1,10 @@
+{
+  "itemId": "QFAP",
+  "fileName": "TSM 57mm QF6 Hotchkiss.txt",
+  "name": "57mm Type 92 APHE",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

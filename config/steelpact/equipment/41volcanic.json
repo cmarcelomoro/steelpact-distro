@@ -1,0 +1,10 @@
+{
+  "itemId": "41volcanic",
+  "fileName": "SAP 41CalVolcanic.txt",
+  "name": "41volcanic",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

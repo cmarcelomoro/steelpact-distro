@@ -1,0 +1,10 @@
+{
+  "itemId": "rpk",
+  "fileName": "MG RPK.txt",
+  "name": "RPK",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

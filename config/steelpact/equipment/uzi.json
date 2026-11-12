@@ -1,0 +1,10 @@
+{
+  "itemId": "uzi",
+  "fileName": "SMG UZI.txt",
+  "name": "IWI UZI",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

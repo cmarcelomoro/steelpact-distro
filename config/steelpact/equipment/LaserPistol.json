@@ -1,0 +1,10 @@
+{
+  "itemId": "LaserPistol",
+  "fileName": "HG LaserPistol.txt",
+  "name": "HB-7",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

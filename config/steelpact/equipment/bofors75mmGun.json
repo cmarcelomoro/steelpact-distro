@@ -1,0 +1,10 @@
+{
+  "itemId": "bofors75mmGun",
+  "fileName": "NG 75mmBoforsGun.txt",
+  "name": "Bofors 7.5cm m/28",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

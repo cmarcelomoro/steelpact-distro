@@ -1,0 +1,10 @@
+{
+  "itemId": "UH-60L",
+  "fileName": "T4T UH-60L.txt",
+  "name": "Sikorsky UH-60L Black Hawk",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

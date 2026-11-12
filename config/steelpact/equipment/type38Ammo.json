@@ -1,0 +1,10 @@
+{
+  "itemId": "type38Ammo",
+  "fileName": "SAR Type38Ammo.txt",
+  "name": "5 Round 6.5x50 Arisaka Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

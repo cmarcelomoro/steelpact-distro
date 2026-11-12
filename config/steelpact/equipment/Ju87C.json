@@ -1,0 +1,10 @@
+{
+  "itemId": "Ju87C",
+  "fileName": "T0p5T Ju-87C.txt",
+  "name": "JU-87 C-0",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

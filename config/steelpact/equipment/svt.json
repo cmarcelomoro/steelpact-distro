@@ -1,0 +1,10 @@
+{
+  "itemId": "svt",
+  "fileName": "BR SVT40.txt",
+  "name": "SVT-40",
+  "folder": "guns",
+  "category": "BR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "mirabello",
+  "fileName": "T0S carlo mirabello.txt",
+  "name": "Carlo Mirabello",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "berezinUB",
+  "fileName": "VEH Berezin UB.txt",
+  "name": "Berezin UB",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

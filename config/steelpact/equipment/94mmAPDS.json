@@ -1,0 +1,10 @@
+{
+  "itemId": "94mmAPDS",
+  "fileName": "TSM 94mm Brit APDS.txt",
+  "name": "94mm Shot Mk.3 APDS",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

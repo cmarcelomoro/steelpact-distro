@@ -1,0 +1,10 @@
+{
+  "itemId": "scatalina",
+  "fileName": "T1T PBY5.txt",
+  "name": "Consolidated PBY-5 Catalina",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

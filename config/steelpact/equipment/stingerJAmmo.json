@@ -1,0 +1,10 @@
+{
+  "itemId": "stingerJAmmo",
+  "fileName": "SAAA StingerAmmoF.txt",
+  "name": "FIM-92J Missile Case",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "pe2",
+  "fileName": "T1T Pe2.txt",
+  "name": "Petlyakov Pe-2",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

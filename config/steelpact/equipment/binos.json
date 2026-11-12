@@ -1,0 +1,10 @@
+{
+  "itemId": "binos",
+  "fileName": "HG bino.txt",
+  "name": "Binoculars (5x)",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "OHPharpoon",
+  "fileName": "NS RGM84 shell for ohp.txt",
+  "name": "RGM-84 Harpoon",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

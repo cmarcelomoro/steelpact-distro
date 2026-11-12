@@ -1,0 +1,10 @@
+{
+  "itemId": "acrRem",
+  "fileName": "AR ACR Rem.txt",
+  "name": "acrRem",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

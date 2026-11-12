@@ -1,0 +1,10 @@
+{
+  "itemId": "frenchoidAmmoMAS36",
+  "fileName": "SAR MAS36Ammo.txt",
+  "name": "7.5x54mm 5rd Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

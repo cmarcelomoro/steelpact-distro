@@ -1,0 +1,10 @@
+{
+  "itemId": "shittySubmarine",
+  "fileName": "T-0p5S akula.txt",
+  "name": "Generic Submarine",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

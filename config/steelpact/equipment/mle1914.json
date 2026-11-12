@@ -1,0 +1,10 @@
+{
+  "itemId": "mle1914",
+  "fileName": "T0A Mle1914.txt",
+  "name": "Hotchkiss Mle 1914 Machine Gun",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

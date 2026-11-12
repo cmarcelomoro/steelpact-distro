@@ -1,0 +1,10 @@
+{
+  "itemId": "p80",
+  "fileName": "T1p5F P80.txt",
+  "name": "P-80A Shooting Star",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

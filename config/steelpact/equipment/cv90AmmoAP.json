@@ -1,0 +1,10 @@
+{
+  "itemId": "cv90AmmoAP",
+  "fileName": "TS 40mm BoforsAmmo CV90 AP.txt",
+  "name": "Slpprj 90 40x365mm APFSDS-T Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

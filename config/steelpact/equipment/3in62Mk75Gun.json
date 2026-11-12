@@ -1,0 +1,10 @@
+{
+  "itemId": "3in62Mk75Gun",
+  "fileName": "NAV_3in62Mk75.txt",
+  "name": "OTO Melara 3\"/62 Mk.75 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

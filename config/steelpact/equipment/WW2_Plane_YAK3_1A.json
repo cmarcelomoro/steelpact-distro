@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Plane_YAK3_1A",
+  "fileName": "T1F Yak-3.txt",
+  "name": "Yakovlev Yak-3",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

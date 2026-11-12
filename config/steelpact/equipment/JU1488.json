@@ -1,0 +1,10 @@
+{
+  "itemId": "JU1488",
+  "fileName": "T0T Ju-88.txt",
+  "name": "Junkers Ju 88 A-4",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

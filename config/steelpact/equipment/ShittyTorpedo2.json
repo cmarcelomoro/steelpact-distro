@@ -1,0 +1,10 @@
+{
+  "itemId": "ShittyTorpedo2",
+  "fileName": "NS ww2 generic 533mm torp missile.txt",
+  "name": "Generic WW2 533mm Torpedo (Type II)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

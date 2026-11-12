@@ -1,0 +1,10 @@
+{
+  "itemId": "pf98heatsub",
+  "fileName": "SAAT 120mmPF98HEATSub.txt",
+  "name": "PF-98 Sub",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

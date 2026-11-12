@@ -1,0 +1,10 @@
+{
+  "itemId": "semovente90",
+  "fileName": "T1A Sem 90 53.txt",
+  "name": "Semovente da 90/53",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

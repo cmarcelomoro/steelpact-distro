@@ -1,0 +1,10 @@
+{
+  "itemId": "rpgAmmoAnimals",
+  "fileName": "SAAT RPGAmmo - PG7VL.txt",
+  "name": "PG-7VL (1977)",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "kar98kAmmo",
+  "fileName": "SAR Kar98kAmmo.txt",
+  "name": "5 Round 7.92x57mm Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

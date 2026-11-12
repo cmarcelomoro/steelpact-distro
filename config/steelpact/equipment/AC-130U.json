@@ -1,0 +1,10 @@
+{
+  "itemId": "AC-130U",
+  "fileName": "T4p5T AC-130U.txt",
+  "name": "AC-130U Spooky II (1995)",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

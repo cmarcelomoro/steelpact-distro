@@ -1,0 +1,10 @@
+{
+  "itemId": "f4fwildcat",
+  "fileName": "T1F F4F.txt",
+  "name": "Grumman F4F-3 Wildcat",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

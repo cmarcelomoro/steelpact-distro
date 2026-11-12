@@ -1,0 +1,10 @@
+{
+  "itemId": "gladiator",
+  "fileName": "T0p5F Gladiator.txt",
+  "name": "Gloster Gladiator Mk I",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "f4u1",
+  "fileName": "T1F F4u early.txt",
+  "name": "Vought F4U-1 Corsair",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

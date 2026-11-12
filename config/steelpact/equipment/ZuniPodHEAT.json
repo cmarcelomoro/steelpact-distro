@@ -1,0 +1,10 @@
+{
+  "itemId": "ZuniPodHEAT",
+  "fileName": "MGH Zuni pod HEAT.txt",
+  "name": "Mk.32 Zuni ATAP Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

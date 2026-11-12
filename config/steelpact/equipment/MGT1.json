@@ -1,0 +1,10 @@
+{
+  "itemId": "MGT1",
+  "fileName": "NS MGT1 400mm shitty torp.txt",
+  "name": "400 mm (15.75\") MGT-1 (1961)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

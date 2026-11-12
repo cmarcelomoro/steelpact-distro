@@ -1,0 +1,10 @@
+{
+  "itemId": "vz52Ammo",
+  "fileName": "SAR misharifle.txt",
+  "name": "10 Round 7.62x45mm Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

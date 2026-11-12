@@ -1,0 +1,10 @@
+{
+  "itemId": "p40",
+  "fileName": "T1F P-40.txt",
+  "name": "Curtiss P-40E Warhawk",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

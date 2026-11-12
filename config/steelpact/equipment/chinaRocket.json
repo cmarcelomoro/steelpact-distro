@@ -1,0 +1,10 @@
+{
+  "itemId": "chinaRocket",
+  "fileName": "china rocket.txt",
+  "name": "Decoy Rocket Launcher",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "F-22A",
+  "fileName": "T5p5F F-22.txt",
+  "name": "F-22A Raptor",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

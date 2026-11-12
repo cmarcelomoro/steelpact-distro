@@ -1,0 +1,10 @@
+{
+  "itemId": "tt33Ammo",
+  "fileName": "SAP TT33Ammo.txt",
+  "name": "TT33 Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

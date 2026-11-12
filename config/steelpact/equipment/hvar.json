@@ -1,0 +1,10 @@
+{
+  "itemId": "hvar",
+  "fileName": "MGH HVARammo.txt",
+  "name": "5\" HVAR Mk.28 Mod.4 HE",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

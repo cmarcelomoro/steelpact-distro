@@ -1,0 +1,10 @@
+{
+  "itemId": "44_M10Wolverine",
+  "fileName": "T1A M10Wolverine.txt",
+  "name": "M10 Wolverine",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

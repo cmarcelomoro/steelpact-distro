@@ -1,0 +1,10 @@
+{
+  "itemId": "twentyThreeMM",
+  "fileName": "VEH 23mm Gsh.txt",
+  "name": "Gryazev-Shipunov GSh-23",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

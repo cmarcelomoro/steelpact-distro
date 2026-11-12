@@ -1,0 +1,10 @@
+{
+  "itemId": "M4ShermanCalliope",
+  "fileName": "T1p5M M4 Sherman T34 Calliope.txt",
+  "name": "M4 Sherman T34 Calliope",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

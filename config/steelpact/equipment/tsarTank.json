@@ -1,0 +1,10 @@
+{
+  "itemId": "tsarTank",
+  "fileName": "T0T TSAR.txt",
+  "name": "Tsar Tank",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

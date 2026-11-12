@@ -1,0 +1,10 @@
+{
+  "itemId": "bushmaster25",
+  "fileName": "M242 Bushmaster 25mm.txt",
+  "name": "M242 Bushmaster 25mm Autocannon",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

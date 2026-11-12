@@ -1,0 +1,10 @@
+{
+  "itemId": "TU4",
+  "fileName": "T1p5T Tu-4.txt",
+  "name": "Tupolev Tu-4",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

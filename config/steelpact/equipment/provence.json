@@ -1,0 +1,10 @@
+{
+  "itemId": "provence",
+  "fileName": "T1S Provence.txt",
+  "name": "Provence (1934)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

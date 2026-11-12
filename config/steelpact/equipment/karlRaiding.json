@@ -1,0 +1,10 @@
+{
+  "itemId": "karlRaiding",
+  "fileName": "TSA 600mm raiding.txt",
+  "name": "600mm Schwere Betongranate",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

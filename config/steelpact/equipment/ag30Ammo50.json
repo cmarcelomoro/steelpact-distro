@@ -1,0 +1,10 @@
+{
+  "itemId": "ag30Ammo50",
+  "fileName": "MGH 30mm AGS 50rnd.txt",
+  "name": "50 Round 30x29mm VOG-30 AG-30 Snail Box",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

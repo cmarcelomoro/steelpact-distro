@@ -1,0 +1,10 @@
+{
+  "itemId": "coltmk12",
+  "fileName": "VEH 20mm Colt Mk.12.txt",
+  "name": "Colt Mk.12 cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

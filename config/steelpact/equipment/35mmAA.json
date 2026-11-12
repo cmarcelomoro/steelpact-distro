@@ -1,0 +1,10 @@
+{
+  "itemId": "35mmAA",
+  "fileName": "AA 35mm HE.txt",
+  "name": "DM11A1 35mm High Explosive Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

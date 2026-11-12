@@ -1,0 +1,10 @@
+{
+  "itemId": "381mmTorpedoAurora",
+  "fileName": "NS 381mm torpedo russia aurora.txt",
+  "name": "15\" (381mm) Type \"L\" Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

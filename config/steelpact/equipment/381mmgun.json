@@ -1,0 +1,10 @@
+{
+  "itemId": "381mmgun",
+  "fileName": "NG 381mm.txt",
+  "name": "381mm/50 M1934 Triple Mount",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

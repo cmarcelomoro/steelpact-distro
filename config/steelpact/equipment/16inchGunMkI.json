@@ -1,0 +1,10 @@
+{
+  "itemId": "16inchGunMkI",
+  "fileName": "NG 16inchGunMk1.txt",
+  "name": "16-inch Mark 1 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

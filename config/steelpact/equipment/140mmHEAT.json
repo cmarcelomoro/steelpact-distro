@@ -1,0 +1,10 @@
+{
+  "itemId": "140mmHEAT",
+  "fileName": "TS 140mm xm965 heat.txt",
+  "name": "XM965 140mm HEAT 2-Round Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

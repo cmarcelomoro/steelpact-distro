@@ -1,0 +1,10 @@
+{
+  "itemId": "pilumAmmo",
+  "fileName": "SAJ pilum.txt",
+  "name": "Pilum Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

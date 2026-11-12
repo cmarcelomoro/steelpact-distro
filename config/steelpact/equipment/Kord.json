@@ -1,0 +1,10 @@
+{
+  "itemId": "Kord",
+  "fileName": "Kord.txt",
+  "name": "Kord Heavy Machine Gun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

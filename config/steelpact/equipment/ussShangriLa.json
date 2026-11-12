@@ -1,0 +1,10 @@
+{
+  "itemId": "ussShangriLa",
+  "fileName": "T1S ShangriLa.txt",
+  "name": "USS Shangri-La CV-38 (1943)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

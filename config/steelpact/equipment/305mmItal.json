@@ -1,0 +1,10 @@
+{
+  "itemId": "305mmItal",
+  "fileName": "NG 305 l46 italy.txt",
+  "name": "305mm/46 Model 1909",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

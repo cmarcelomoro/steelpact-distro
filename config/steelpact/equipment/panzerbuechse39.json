@@ -1,0 +1,10 @@
+{
+  "itemId": "panzerbuechse39",
+  "fileName": "AT Panzerbuechse 39.txt",
+  "name": "Panzerbüchse 39",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

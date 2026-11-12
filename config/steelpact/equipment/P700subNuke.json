@@ -1,0 +1,10 @@
+{
+  "itemId": "P700subNuke",
+  "fileName": "NS P700 Granit submarine launch nuclear.txt",
+  "name": "P-700 Granit (Submarine-Launched with Nuclear Warhead)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

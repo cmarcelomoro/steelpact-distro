@@ -1,0 +1,10 @@
+{
+  "itemId": "m15carroarmato",
+  "fileName": "T1M Fiat M15.txt",
+  "name": "Carro Armato M15/42",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

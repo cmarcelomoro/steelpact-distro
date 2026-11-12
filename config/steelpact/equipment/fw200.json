@@ -1,0 +1,10 @@
+{
+  "itemId": "fw200",
+  "fileName": "T1T FW-200.txt",
+  "name": "Focke-Wulf Fw 200C-1 Condor",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

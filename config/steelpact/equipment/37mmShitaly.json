@@ -1,0 +1,10 @@
+{
+  "itemId": "37mmShitaly",
+  "fileName": "TS 37mm Shitaly.txt",
+  "name": "Granata Perforante da 37 mm APHE",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

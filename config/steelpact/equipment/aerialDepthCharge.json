@@ -1,0 +1,10 @@
+{
+  "itemId": "aerialDepthCharge",
+  "fileName": "NS Aerial Depth Charge.txt",
+  "name": "Generic Aerial Depth Charge (20 Meters)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

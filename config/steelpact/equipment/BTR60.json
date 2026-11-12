@@ -1,0 +1,10 @@
+{
+  "itemId": "BTR60",
+  "fileName": "T2T BTR60.txt",
+  "name": "BTR-60",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

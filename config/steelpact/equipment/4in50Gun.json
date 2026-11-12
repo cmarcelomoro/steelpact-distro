@@ -1,0 +1,10 @@
+{
+  "itemId": "4in50Gun",
+  "fileName": "NG 4in50Gun.txt",
+  "name": "4\"/50 Mk.9 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

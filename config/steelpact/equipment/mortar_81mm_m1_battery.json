@@ -1,0 +1,10 @@
+{
+  "itemId": "mortar_81mm_m1_battery",
+  "fileName": "T1A 81mm Mortar Battery.txt",
+  "name": "Generic 81mm Mortar Battery",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

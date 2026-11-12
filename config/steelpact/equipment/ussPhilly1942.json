@@ -1,0 +1,10 @@
+{
+  "itemId": "ussPhilly1942",
+  "fileName": "T1S Philly1942.txt",
+  "name": "USS Philadelphia CL-41",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "shvakAmmo",
+  "fileName": "AAMG shvakAmmo.txt",
+  "name": "120 Round 20x99mmRmm OZT ShVAK Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

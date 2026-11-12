@@ -1,0 +1,10 @@
+{
+  "itemId": "RGB10",
+  "fileName": "NS RBU-1000 rockets.txt",
+  "name": "RGB-10 Rockets for RBU-1000",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

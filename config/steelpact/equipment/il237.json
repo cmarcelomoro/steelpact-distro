@@ -1,0 +1,10 @@
+{
+  "itemId": "il237",
+  "fileName": "T1T IL-2.txt",
+  "name": "Ilyushin Il-2-37 Shturmovik",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

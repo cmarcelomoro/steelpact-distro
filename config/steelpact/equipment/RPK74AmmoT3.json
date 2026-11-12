@@ -1,0 +1,10 @@
+{
+  "itemId": "RPK74AmmoT3",
+  "fileName": "SAR rpk74 7t3.txt",
+  "name": "5.45x39mm 7T3 45 Rounds",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

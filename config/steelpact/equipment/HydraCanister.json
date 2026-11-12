@@ -1,0 +1,10 @@
+{
+  "itemId": "HydraCanister",
+  "fileName": "MGH Hydra pod shrapnel.txt",
+  "name": "LAU-61/LAU-130/M261 Rocket Pod (Flechettes)",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "12PoundShell",
+  "fileName": "TS Napoleon Shell.txt",
+  "name": "120.3lb Shell Shot",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

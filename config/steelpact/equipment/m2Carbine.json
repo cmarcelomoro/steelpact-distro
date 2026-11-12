@@ -1,0 +1,10 @@
+{
+  "itemId": "m2Carbine",
+  "fileName": "AR M2Carbine.txt",
+  "name": "M2 Carbine",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

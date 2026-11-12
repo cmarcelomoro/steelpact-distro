@@ -1,0 +1,10 @@
+{
+  "itemId": "Wisconsin",
+  "fileName": "T1p5S Wisconsin.txt",
+  "name": "USS Wisconsin BB-64",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

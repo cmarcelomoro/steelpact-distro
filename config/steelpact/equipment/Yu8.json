@@ -1,0 +1,10 @@
+{
+  "itemId": "Yu8",
+  "fileName": "NS yu8 torpedo.txt",
+  "name": "Yu-8 ASW Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "P51shitty",
+  "fileName": "T1F P-51 mustang mk1 1941.txt",
+  "name": "North American Mustang Mark I",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

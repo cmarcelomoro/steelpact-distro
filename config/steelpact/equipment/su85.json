@@ -1,0 +1,10 @@
+{
+  "itemId": "su85",
+  "fileName": "T1A SU-85.txt",
+  "name": "SU-85",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

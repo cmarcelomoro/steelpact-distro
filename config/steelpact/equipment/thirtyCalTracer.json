@@ -1,0 +1,10 @@
+{
+  "itemId": "thirtyCalTracer",
+  "fileName": "MG 30mm tracer.txt",
+  "name": "30mm Tracer Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

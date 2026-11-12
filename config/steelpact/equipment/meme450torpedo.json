@@ -1,0 +1,10 @@
+{
+  "itemId": "meme450torpedo",
+  "fileName": "NS 450mm ww1 torpedo.txt",
+  "name": "Outdated 45cm Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

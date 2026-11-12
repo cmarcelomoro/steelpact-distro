@@ -1,0 +1,10 @@
+{
+  "itemId": "valiant",
+  "fileName": "T1p5F Vickers Valiant.txt",
+  "name": "Vickers Valiant",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

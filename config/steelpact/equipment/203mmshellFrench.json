@@ -1,0 +1,10 @@
+{
+  "itemId": "203mmshellFrench",
+  "fileName": "NS 203mmShellFrenchy.txt",
+  "name": "203mm APC M1927 Naval Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

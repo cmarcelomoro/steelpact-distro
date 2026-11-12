@@ -1,0 +1,10 @@
+{
+  "itemId": "BF109G6",
+  "fileName": "T1F Bf-109G-6.txt",
+  "name": "Messerschmitt BF-109 G-6",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

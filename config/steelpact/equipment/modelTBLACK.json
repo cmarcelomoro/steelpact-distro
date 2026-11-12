@@ -1,0 +1,10 @@
+{
+  "itemId": "modelTBLACK",
+  "fileName": "C Model T.txt",
+  "name": "Model T",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Himars",
+  "fileName": "T4A Himars.txt",
+  "name": "M142 Himars",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "lewisGunAir",
+  "fileName": "MG Lewis - air.txt",
+  "name": "Lewis Machine Gun M1914 Air Mount",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

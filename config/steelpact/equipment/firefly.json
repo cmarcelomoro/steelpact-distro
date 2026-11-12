@@ -1,0 +1,10 @@
+{
+  "itemId": "firefly",
+  "fileName": "T1M VC Firefly.txt",
+  "name": "Sherman Firefly",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

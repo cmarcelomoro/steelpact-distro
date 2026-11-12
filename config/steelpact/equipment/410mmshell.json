@@ -1,0 +1,10 @@
+{
+  "itemId": "410mmshell",
+  "fileName": "NS 410mmshell.txt",
+  "name": "41cm Type 3 APC Naval Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Arleigh",
+  "fileName": "T4SD Arleigh.txt",
+  "name": "Arleigh Burke DDG-51",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

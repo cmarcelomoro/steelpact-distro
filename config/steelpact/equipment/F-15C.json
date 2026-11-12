@@ -1,0 +1,10 @@
+{
+  "itemId": "F-15C",
+  "fileName": "T3p5F F-15C.txt",
+  "name": "F-15C Eagle (1979)",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

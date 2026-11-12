@@ -1,0 +1,10 @@
+{
+  "itemId": "f8f",
+  "fileName": "T1F F8 Bearcat.txt",
+  "name": "Grumman F8F-1 Bearcat",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

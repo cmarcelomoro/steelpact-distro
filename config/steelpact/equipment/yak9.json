@@ -1,0 +1,10 @@
+{
+  "itemId": "yak9",
+  "fileName": "T1F Yak-9.txt",
+  "name": "Yak-9T",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

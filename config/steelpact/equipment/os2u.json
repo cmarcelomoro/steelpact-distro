@@ -1,0 +1,10 @@
+{
+  "itemId": "os2u",
+  "fileName": "T1F OS2U.txt",
+  "name": "Vought OS2U Kingfisher",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

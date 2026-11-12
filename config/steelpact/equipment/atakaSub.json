@@ -1,0 +1,10 @@
+{
+  "itemId": "atakaSub",
+  "fileName": "ATGM 9K120AtakaSub.txt",
+  "name": "9M120M Ataka",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

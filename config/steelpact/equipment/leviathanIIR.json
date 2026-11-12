@@ -1,0 +1,10 @@
+{
+  "itemId": "leviathanIIR",
+  "fileName": "T6M LeviathanIIR.txt",
+  "name": "ILL-10 Weishaupt II",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

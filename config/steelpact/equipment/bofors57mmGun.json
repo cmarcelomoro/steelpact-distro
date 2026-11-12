@@ -1,0 +1,10 @@
+{
+  "itemId": "bofors57mmGun",
+  "fileName": "bofor 57.txt",
+  "name": "Bofors 57mm Mk.110 Gun",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

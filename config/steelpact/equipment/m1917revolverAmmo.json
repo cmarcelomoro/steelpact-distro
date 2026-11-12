@@ -1,0 +1,10 @@
+{
+  "itemId": "m1917revolverAmmo",
+  "fileName": "SAP M1917 Revolver.txt",
+  "name": "6 Round .45 ACP Cylander",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

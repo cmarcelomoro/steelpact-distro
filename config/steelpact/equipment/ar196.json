@@ -1,0 +1,10 @@
+{
+  "itemId": "ar196",
+  "fileName": "T1F AR196.txt",
+  "name": "Arado Ar 196",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

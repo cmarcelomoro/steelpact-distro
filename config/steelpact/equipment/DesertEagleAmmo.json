@@ -1,0 +1,10 @@
+{
+  "itemId": "DesertEagleAmmo",
+  "fileName": "SAS deagle ammo.txt",
+  "name": "7 Round .50 AE Desert Eagle Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

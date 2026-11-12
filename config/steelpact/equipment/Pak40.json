@@ -1,0 +1,10 @@
+{
+  "itemId": "Pak40",
+  "fileName": "T1A Pak40.txt",
+  "name": "7,5 cm Panzerabwehrkanone 40",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

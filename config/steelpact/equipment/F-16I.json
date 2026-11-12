@@ -1,0 +1,10 @@
+{
+  "itemId": "F-16I",
+  "fileName": "T3p5F F-16I Sufa.txt",
+  "name": "General Dynamics F-16I Sufa",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

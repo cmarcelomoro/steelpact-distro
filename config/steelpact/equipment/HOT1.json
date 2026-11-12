@@ -1,0 +1,10 @@
+{
+  "itemId": "HOT1",
+  "fileName": "ATGM HOT 1.txt",
+  "name": "HOT-1",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

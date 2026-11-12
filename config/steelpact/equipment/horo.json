@@ -1,0 +1,10 @@
+{
+  "itemId": "horo",
+  "fileName": "T1A Horo.txt",
+  "name": "Type 4 Ho-Ro",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

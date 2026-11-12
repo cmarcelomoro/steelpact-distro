@@ -1,0 +1,10 @@
+{
+  "itemId": "Cromwell",
+  "fileName": "T1M Cromwell.txt",
+  "name": "A27M Cromwell V",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

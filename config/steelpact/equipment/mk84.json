@@ -1,0 +1,10 @@
+{
+  "itemId": "mk84",
+  "fileName": "BO Mk84.txt",
+  "name": "Mk 84 925kg Bomb",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

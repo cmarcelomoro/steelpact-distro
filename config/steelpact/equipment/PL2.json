@@ -1,0 +1,10 @@
+{
+  "itemId": "PL2",
+  "fileName": "AAM PL-2.txt",
+  "name": "PL-2",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

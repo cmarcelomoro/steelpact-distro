@@ -1,0 +1,10 @@
+{
+  "itemId": "Beretta",
+  "fileName": "SMG M1918 Automatico.txt",
+  "name": "Beretta M1918",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "tankgewehrAmmo",
+  "fileName": "SAAT M1918 T-Gewehr.txt",
+  "name": "13.25x92mm TuF Rounds",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

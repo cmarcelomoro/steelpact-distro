@@ -1,0 +1,10 @@
+{
+  "itemId": "churchillmk3",
+  "fileName": "T1H Churchill.txt",
+  "name": "A22 Churchill Mk. III",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

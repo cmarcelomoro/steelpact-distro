@@ -1,0 +1,10 @@
+{
+  "itemId": "KirovMissileShip",
+  "fileName": "T3p5SBC Kirov.txt",
+  "name": "Kirov (1980)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

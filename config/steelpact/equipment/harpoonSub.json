@@ -1,0 +1,10 @@
+{
+  "itemId": "harpoonSub",
+  "fileName": "NS UGM84.txt",
+  "name": "UGM-84 Harpoon",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

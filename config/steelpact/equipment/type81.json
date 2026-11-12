@@ -1,0 +1,10 @@
+{
+  "itemId": "type81",
+  "fileName": "AR Type81.txt",
+  "name": "Norinco Type 81",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

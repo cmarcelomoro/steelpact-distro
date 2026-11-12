@@ -1,0 +1,10 @@
+{
+  "itemId": "tigerI",
+  "fileName": "T1H Tiger I.txt",
+  "name": "Panzerkampfwagen VI Ausf. H \"Tiger\"",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

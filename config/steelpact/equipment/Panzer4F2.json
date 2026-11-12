@@ -1,0 +1,10 @@
+{
+  "itemId": "Panzer4F2",
+  "fileName": "T1M PanzerIVF2.txt",
+  "name": "Panzerkampfwagen IV Ausf. F2",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

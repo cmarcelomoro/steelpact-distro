@@ -1,0 +1,10 @@
+{
+  "itemId": "PhalanxCIWS",
+  "fileName": "T3A Phalanx.txt",
+  "name": "Phalanx Mk15 CIWS",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

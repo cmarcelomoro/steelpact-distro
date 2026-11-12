@@ -1,0 +1,10 @@
+{
+  "itemId": "BizonAmmo",
+  "fileName": "SAS PP19Ammo.txt",
+  "name": "64 Round 9x18mm Bizon Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

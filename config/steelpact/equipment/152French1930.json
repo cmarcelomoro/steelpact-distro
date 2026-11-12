@@ -1,0 +1,10 @@
+{
+  "itemId": "152French1930",
+  "fileName": "152mm frenchy.txt",
+  "name": "Canon de 152 mm Modèle 1930",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "vickers50Gun",
+  "fileName": "MG Vickers50.txt",
+  "name": "Vickers 0.50\" MG Mk.III",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

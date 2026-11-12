@@ -1,0 +1,10 @@
+{
+  "itemId": "BMP2APFSDS",
+  "fileName": "TS 30mmAPFSDS.txt",
+  "name": "3UBR11 30mm APFSDS-T Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

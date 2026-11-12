@@ -1,0 +1,10 @@
+{
+  "itemId": "crackRatteGun",
+  "fileName": "NG 280mm crack.txt",
+  "name": "280mm Gun but for Evil AI",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

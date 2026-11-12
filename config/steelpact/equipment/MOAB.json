@@ -1,0 +1,10 @@
+{
+  "itemId": "MOAB",
+  "fileName": "BO MOAB.txt",
+  "name": "M.O.A.B",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

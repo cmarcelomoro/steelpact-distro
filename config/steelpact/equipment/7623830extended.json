@@ -1,0 +1,10 @@
+{
+  "itemId": "7623830extended",
+  "fileName": "SAR AK-47 Ammo extended.txt",
+  "name": "7.62x39mm WARSAW 600 Rounds",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

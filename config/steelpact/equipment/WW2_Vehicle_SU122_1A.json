@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Vehicle_SU122_1A",
+  "fileName": "T1A SU-100.txt",
+  "name": "SU-100",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

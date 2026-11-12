@@ -1,0 +1,10 @@
+{
+  "itemId": "3in50GunRF",
+  "fileName": "NG 3in50GunRF.txt",
+  "name": "3\"/50 RF Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

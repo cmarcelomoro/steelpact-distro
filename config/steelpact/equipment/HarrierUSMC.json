@@ -1,0 +1,10 @@
+{
+  "itemId": "HarrierUSMC",
+  "fileName": "T3F HarrierAV-8.txt",
+  "name": "McDonnell Douglas AV-8B Harrier II",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

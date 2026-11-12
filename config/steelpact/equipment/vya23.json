@@ -1,0 +1,10 @@
+{
+  "itemId": "vya23",
+  "fileName": "VEH 23mm VYa-23.txt",
+  "name": "VYa-23 23mm Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

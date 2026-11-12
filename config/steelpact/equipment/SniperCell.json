@@ -1,0 +1,10 @@
+{
+  "itemId": "SniperCell",
+  "fileName": "SAL SniperCell.txt",
+  "name": "Sniper Cell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

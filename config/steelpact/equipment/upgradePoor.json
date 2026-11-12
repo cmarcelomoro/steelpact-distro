@@ -1,0 +1,10 @@
+{
+  "itemId": "upgradePoor",
+  "fileName": "upgrade shitty.txt",
+  "name": "Repair Health Shitty",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

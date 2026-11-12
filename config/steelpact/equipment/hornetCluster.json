@@ -1,0 +1,10 @@
+{
+  "itemId": "hornetCluster",
+  "fileName": "AAM Illuminati Missile - Cluster.txt",
+  "name": "IL-X1488 Pyramid II",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

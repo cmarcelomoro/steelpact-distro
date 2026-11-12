@@ -1,0 +1,10 @@
+{
+  "itemId": "ww1_FrenchScoutCar",
+  "fileName": "T0T French Scout Car.txt",
+  "name": "Peugeot armoured car",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

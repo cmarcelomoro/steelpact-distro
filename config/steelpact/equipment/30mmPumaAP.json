@@ -1,0 +1,10 @@
+{
+  "itemId": "30mmPumaAP",
+  "fileName": "TS 30mmPumaAPFSDS.txt",
+  "name": "DM41A1 30mm APFSDS-T",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

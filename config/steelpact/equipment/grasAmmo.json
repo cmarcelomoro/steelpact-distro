@@ -1,0 +1,10 @@
+{
+  "itemId": "grasAmmo",
+  "fileName": "SAR Gras Ammo.txt",
+  "name": "11x59mmR Gras",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

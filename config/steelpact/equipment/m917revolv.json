@@ -1,0 +1,10 @@
+{
+  "itemId": "m917revolv",
+  "fileName": "HG M1917 Revolver.txt",
+  "name": "M1917 Revolver",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

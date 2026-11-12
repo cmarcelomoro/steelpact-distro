@@ -1,0 +1,10 @@
+{
+  "itemId": "APGustavShell",
+  "fileName": "TS 800mm AP.txt",
+  "name": "800mm AP Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

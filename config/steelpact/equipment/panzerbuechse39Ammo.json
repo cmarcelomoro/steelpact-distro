@@ -1,0 +1,10 @@
+{
+  "itemId": "panzerbuechse39Ammo",
+  "fileName": "SAAT Panzerbuechse39Ammo.txt",
+  "name": "7.92×94mm Patronen PzB-39 Cartridges",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

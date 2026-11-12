@@ -1,0 +1,10 @@
+{
+  "itemId": "105mmAP",
+  "fileName": "TSM 105mmAP.txt",
+  "name": "105mm T13 APCBC",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

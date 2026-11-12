@@ -1,0 +1,10 @@
+{
+  "itemId": "rim174SM6",
+  "fileName": "NAV_RIM174SM6.txt",
+  "name": "RIM-174 Standard Missile 6",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

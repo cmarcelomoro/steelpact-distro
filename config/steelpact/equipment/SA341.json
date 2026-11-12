@@ -1,0 +1,10 @@
+{
+  "itemId": "SA341",
+  "fileName": "T3T Aerospatiale Gazelle.txt",
+  "name": "Aerospatiale SA 341F Gazelle",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

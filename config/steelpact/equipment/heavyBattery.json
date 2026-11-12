@@ -1,0 +1,10 @@
+{
+  "itemId": "heavyBattery",
+  "fileName": "NS Heavy Secondary Battery.txt",
+  "name": "High Calibur Secondary Battery Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

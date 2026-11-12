@@ -1,0 +1,10 @@
+{
+  "itemId": "chiHaKai",
+  "fileName": "T1M ChiHaKai.txt",
+  "name": "Type 97 Chi-Ha Kai",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

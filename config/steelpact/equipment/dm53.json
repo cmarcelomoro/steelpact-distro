@@ -1,0 +1,10 @@
+{
+  "itemId": "dm53",
+  "fileName": "TSM dm53.txt",
+  "name": "DM53 120mm APFSDS",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

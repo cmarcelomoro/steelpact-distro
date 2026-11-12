@@ -1,0 +1,10 @@
+{
+  "itemId": "rim2TerrierW45",
+  "fileName": "NAV_RIM2TerrierW45.txt",
+  "name": "RIM-2D Terrier Missile",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

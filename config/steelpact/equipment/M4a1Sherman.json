@@ -1,0 +1,10 @@
+{
+  "itemId": "M4a1Sherman",
+  "fileName": "T1M M4A1 Sherman.txt",
+  "name": "M4A1 Sherman",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "mortar81mmHE",
+  "fileName": "TSA 81mm Mortar.txt",
+  "name": "81mm Mortar HE Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "mppsaigaAmmo",
+  "fileName": "SAS saiga12Ammo.txt",
+  "name": "10 Round 12 Gauge Saiga Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

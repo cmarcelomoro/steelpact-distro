@@ -1,0 +1,10 @@
+{
+  "itemId": "Mi24P",
+  "fileName": "T3F Mi-24P.txt",
+  "name": "Mi-24P (1989)",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "genericCLAllied",
+  "fileName": "T0p5S GenericCLAllied.txt",
+  "name": "Generic Allied Light Cruiser",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

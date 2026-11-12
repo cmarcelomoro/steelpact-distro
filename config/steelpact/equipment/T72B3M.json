@@ -1,0 +1,10 @@
+{
+  "itemId": "T72B3M",
+  "fileName": "T4M T-72B3M.txt",
+  "name": "T-72B3 Obr. 2016",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

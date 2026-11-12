@@ -1,0 +1,10 @@
+{
+  "itemId": "25mmHE",
+  "fileName": "TS 25mmHE.txt",
+  "name": "M792 25mm HEI-T Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

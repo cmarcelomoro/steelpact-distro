@@ -1,0 +1,10 @@
+{
+  "itemId": "340mmFrenchyAmmo",
+  "fileName": "NS 340mm french ammo.txt",
+  "name": "340mm OPf Mle 1912 Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

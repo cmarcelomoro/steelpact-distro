@@ -1,0 +1,10 @@
+{
+  "itemId": "120mmAPFSDSChieftain",
+  "fileName": "TSM 120mmAPFSDS chieftain.txt",
+  "name": "Shot L23A1 APFSDS 120mm",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

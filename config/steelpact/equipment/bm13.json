@@ -1,0 +1,10 @@
+{
+  "itemId": "bm13",
+  "fileName": "T1A Katyusha.txt",
+  "name": "BM-13N Katyusha",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

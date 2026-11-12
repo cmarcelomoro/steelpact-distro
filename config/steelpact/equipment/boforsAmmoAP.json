@@ -1,0 +1,10 @@
+{
+  "itemId": "boforsAmmoAP",
+  "fileName": "AA BoforsAmmoAP.txt",
+  "name": "Bofors 40mm x 311mmR AP-T 4-Round Clip",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

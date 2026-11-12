@@ -1,0 +1,10 @@
+{
+  "itemId": "5p5inchShellAP",
+  "fileName": "NS 5.5inShellAP.txt",
+  "name": "5.5-inch Shell CPC",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

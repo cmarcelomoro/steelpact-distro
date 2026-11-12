@@ -1,0 +1,10 @@
+{
+  "itemId": "105apds",
+  "fileName": "TSM 105mmAPDS.txt",
+  "name": "Shot L28A1 APDS 105mm",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

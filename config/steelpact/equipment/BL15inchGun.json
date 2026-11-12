@@ -1,0 +1,10 @@
+{
+  "itemId": "BL15inchGun",
+  "fileName": "NG 15inchNavalGun britbong.txt",
+  "name": "BL 15inch Mk.1 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

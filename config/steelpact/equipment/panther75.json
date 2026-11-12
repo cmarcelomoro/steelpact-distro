@@ -1,0 +1,10 @@
+{
+  "itemId": "panther75",
+  "fileName": "TSM 75mmAP german - l70.txt",
+  "name": "75mm PzGr 39/42",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

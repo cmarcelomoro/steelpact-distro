@@ -1,0 +1,10 @@
+{
+  "itemId": "GEAW_IJA_AT_Lungemine",
+  "fileName": "AT_Lungemine.txt",
+  "name": "GEAW_IJA_AT_Lungemine",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "mk103",
+  "fileName": "VEH 30mm Long mk103.txt",
+  "name": "MK 103 cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

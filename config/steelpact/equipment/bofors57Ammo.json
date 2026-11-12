@@ -1,0 +1,10 @@
+{
+  "itemId": "bofors57Ammo",
+  "fileName": "Bofors57Ammo.txt",
+  "name": "Bofors 57mm Ammo HE",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

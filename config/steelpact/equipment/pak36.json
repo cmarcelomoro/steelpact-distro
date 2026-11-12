@@ -1,0 +1,10 @@
+{
+  "itemId": "pak36",
+  "fileName": "T0A Pak36.txt",
+  "name": "Pak-36",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

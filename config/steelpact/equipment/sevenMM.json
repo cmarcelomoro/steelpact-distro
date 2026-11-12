@@ -1,0 +1,10 @@
+{
+  "itemId": "sevenMM",
+  "fileName": "Generic 303 gun.txt",
+  "name": "7.7mm Machine Gun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

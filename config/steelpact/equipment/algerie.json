@@ -1,0 +1,10 @@
+{
+  "itemId": "algerie",
+  "fileName": "T1S CA Algerie.txt",
+  "name": "Algerie",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Tigr",
+  "fileName": "T4T GAZ Tigr.txt",
+  "name": "GAZ Tigr",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

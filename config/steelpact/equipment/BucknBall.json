@@ -1,0 +1,10 @@
+{
+  "itemId": "BucknBall",
+  "fileName": "SAR Buckless Ball.txt",
+  "name": "Buck and ball",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

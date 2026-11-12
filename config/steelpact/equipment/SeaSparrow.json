@@ -1,0 +1,10 @@
+{
+  "itemId": "SeaSparrow",
+  "fileName": "NS Sea Sparrow.txt",
+  "name": "RIM-7 Sea Sparrow x 8 cell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

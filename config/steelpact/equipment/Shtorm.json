@@ -1,0 +1,10 @@
+{
+  "itemId": "Shtorm",
+  "fileName": "M11 Shtorm.txt",
+  "name": "M-11 Shtorm",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "M3A1",
+  "fileName": "SMG M3A1Greasegun.txt",
+  "name": "M3A1 GreaseGun",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

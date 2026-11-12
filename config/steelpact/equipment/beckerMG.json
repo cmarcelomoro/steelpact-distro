@@ -1,0 +1,10 @@
+{
+  "itemId": "beckerMG",
+  "fileName": "VEH 20mm  Becker20mm.txt",
+  "name": "becker mg",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

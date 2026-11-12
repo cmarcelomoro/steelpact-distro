@@ -1,0 +1,10 @@
+{
+  "itemId": "155X3",
+  "fileName": "NG 155mm.txt",
+  "name": "15.5cm Type 3 Triple Mount",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

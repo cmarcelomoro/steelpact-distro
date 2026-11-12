@@ -1,0 +1,10 @@
+{
+  "itemId": "GustavShellDox",
+  "fileName": "TS 800mmDox.txt",
+  "name": "800mm HE Raid Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

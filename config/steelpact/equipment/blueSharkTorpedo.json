@@ -1,0 +1,10 @@
+{
+  "itemId": "blueSharkTorpedo",
+  "fileName": "NS Torpedo blue shark.txt",
+  "name": "Blue Shark Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

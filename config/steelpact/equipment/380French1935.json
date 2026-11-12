@@ -1,0 +1,10 @@
+{
+  "itemId": "380French1935",
+  "fileName": "380mm french 1935.txt",
+  "name": "380 mm/45 Modèle 1935 gun",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

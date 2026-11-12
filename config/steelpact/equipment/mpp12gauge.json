@@ -1,0 +1,10 @@
+{
+  "itemId": "mpp12gauge",
+  "fileName": "SAS 12gauge modern.txt",
+  "name": "12 Gauge Buckshot Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

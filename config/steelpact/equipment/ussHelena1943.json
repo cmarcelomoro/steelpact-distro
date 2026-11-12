@@ -1,0 +1,10 @@
+{
+  "itemId": "ussHelena1943",
+  "fileName": "T1S Helena1943.txt",
+  "name": "USS Helena CL-50 (1943)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ussHouston",
+  "fileName": "T0p5S Houston1942.txt",
+  "name": "USS Houston CA-30",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

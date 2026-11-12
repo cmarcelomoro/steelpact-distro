@@ -1,0 +1,10 @@
+{
+  "itemId": "lewisGunAmmo",
+  "fileName": "SAR Lewis Gun Drum.txt",
+  "name": ".303 47 Round Pan Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

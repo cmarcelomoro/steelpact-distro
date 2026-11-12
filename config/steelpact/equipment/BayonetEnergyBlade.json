@@ -1,0 +1,10 @@
+{
+  "itemId": "BayonetEnergyBlade",
+  "fileName": "SE Bayonet Sword Energy.txt",
+  "name": "Bayonet Energy - Blade",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

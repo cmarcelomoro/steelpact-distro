@@ -1,0 +1,10 @@
+{
+  "itemId": "8in55Mk16Gun",
+  "fileName": "NG 8in55Mk16.txt",
+  "name": "8\"/55 RF Mk.16 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

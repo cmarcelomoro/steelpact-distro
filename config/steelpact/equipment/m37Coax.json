@@ -1,0 +1,10 @@
+{
+  "itemId": "m37Coax",
+  "fileName": "MG coax 762 browning.txt",
+  "name": "M37 Coaxial Machinegun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

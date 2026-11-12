@@ -1,0 +1,10 @@
+{
+  "itemId": "mg08vehicle",
+  "fileName": "MG MG08.txt",
+  "name": "MG08 - Vehicle Part",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

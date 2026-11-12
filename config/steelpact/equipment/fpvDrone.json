@@ -1,0 +1,10 @@
+{
+  "itemId": "fpvDrone",
+  "fileName": "T4F FPV Drone .txt",
+  "name": "FPV Drone",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

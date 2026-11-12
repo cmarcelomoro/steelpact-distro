@@ -1,0 +1,10 @@
+{
+  "itemId": "A4",
+  "fileName": "T2F A-4A.txt",
+  "name": "McDonnell Douglas A-4C Skyhawk",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

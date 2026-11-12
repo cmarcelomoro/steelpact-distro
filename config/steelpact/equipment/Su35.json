@@ -1,0 +1,10 @@
+{
+  "itemId": "Su35",
+  "fileName": "T4F SU35.txt",
+  "name": "Sukhoi SU-35S Flanker-E",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

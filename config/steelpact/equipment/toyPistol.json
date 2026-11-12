@@ -1,0 +1,10 @@
+{
+  "itemId": "toyPistol",
+  "fileName": "TOY PISTOL.txt",
+  "name": "Toy Pistol",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

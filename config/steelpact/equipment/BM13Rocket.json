@@ -1,0 +1,10 @@
+{
+  "itemId": "BM13Rocket",
+  "fileName": "TSA BM13 rockets.txt",
+  "name": "M-13 24 Rocket Rack",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

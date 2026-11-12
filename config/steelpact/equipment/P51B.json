@@ -1,0 +1,10 @@
+{
+  "itemId": "P51B",
+  "fileName": "T1F P-51B mustang 1943.txt",
+  "name": "North American P-51B Mustang",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

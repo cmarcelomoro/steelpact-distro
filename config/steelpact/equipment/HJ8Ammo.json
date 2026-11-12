@@ -1,0 +1,10 @@
+{
+  "itemId": "HJ8Ammo",
+  "fileName": "ATGM HJ8.txt",
+  "name": "HJ-8B",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

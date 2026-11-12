@@ -1,0 +1,10 @@
+{
+  "itemId": "TorpedoTubeModernRussia",
+  "fileName": "modern torpedo tube russkiy.txt",
+  "name": "Soviet 530mm Surface-Ship Torpedo Tubes",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "12inItalyAmmo",
+  "fileName": "NS 305mm shell italy.txt",
+  "name": "Italian 305mm APC Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

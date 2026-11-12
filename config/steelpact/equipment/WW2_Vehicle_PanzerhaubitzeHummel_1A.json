@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Vehicle_PanzerhaubitzeHummel_1A",
+  "fileName": "T1A Hummel.txt",
+  "name": "Panzerhaubitze Hummel",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

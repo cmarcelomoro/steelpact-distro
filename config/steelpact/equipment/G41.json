@@ -1,0 +1,10 @@
+{
+  "itemId": "G41",
+  "fileName": "BR G41.txt",
+  "name": "Gewehr41 (W)",
+  "folder": "guns",
+  "category": "BR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

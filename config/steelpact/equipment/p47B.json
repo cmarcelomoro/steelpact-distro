@@ -1,0 +1,10 @@
+{
+  "itemId": "p47B",
+  "fileName": "T1F P-47B.txt",
+  "name": "Republic P-47B Thunderbolt",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

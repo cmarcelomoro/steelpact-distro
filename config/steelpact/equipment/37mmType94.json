@@ -1,0 +1,10 @@
+{
+  "itemId": "37mmType94",
+  "fileName": "TS 37mmJapAT.txt",
+  "name": "Type 94 37x165mm QF Anti-Tank Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

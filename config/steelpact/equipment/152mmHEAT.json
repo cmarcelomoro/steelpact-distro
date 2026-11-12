@@ -1,0 +1,10 @@
+{
+  "itemId": "152mmHEAT",
+  "fileName": "TSM 152mmHEAT.txt",
+  "name": "152mm HEAT Howitzer Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "DickerMax",
+  "fileName": "T1A DickerMax.txt",
+  "name": "Dicker Max",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

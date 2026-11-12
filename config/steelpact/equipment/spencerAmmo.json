@@ -1,0 +1,10 @@
+{
+  "itemId": "spencerAmmo",
+  "fileName": "SAC .56 56 Spencer shot.txt",
+  "name": ".56-56 Spencer Cartridges",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

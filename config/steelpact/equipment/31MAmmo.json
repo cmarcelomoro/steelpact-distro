@@ -1,0 +1,10 @@
+{
+  "itemId": "31MAmmo",
+  "fileName": "SAR 31M Solothurn Ammo.txt",
+  "name": "50 Round 8×56mmR 31M Drum",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "35mmIFVCannon",
+  "fileName": "35mm KDA.txt",
+  "name": "Oerlikon GDF",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

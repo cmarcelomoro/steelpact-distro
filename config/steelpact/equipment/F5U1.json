@@ -1,0 +1,10 @@
+{
+  "itemId": "F5U1",
+  "fileName": "T1p5F f5u pancake.txt",
+  "name": "Vought F5U-1 Flying Flapjack",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

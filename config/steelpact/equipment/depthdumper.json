@@ -1,0 +1,10 @@
+{
+  "itemId": "depthdumper",
+  "fileName": "depth charge projector.txt",
+  "name": "Depth Charge Dumping Point",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

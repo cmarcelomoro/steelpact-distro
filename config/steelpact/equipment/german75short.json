@@ -1,0 +1,10 @@
+{
+  "itemId": "german75short",
+  "fileName": "TSM 75mmAP german kwk 37.txt",
+  "name": "75mm K.Gr.rot Pz.",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

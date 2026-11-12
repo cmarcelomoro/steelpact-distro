@@ -1,0 +1,10 @@
+{
+  "itemId": "tu22m3",
+  "fileName": "T3T TU-22M3.txt",
+  "name": "Tupolev Tu-22M3 Backfire",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

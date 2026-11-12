@@ -1,0 +1,10 @@
+{
+  "itemId": "jeanBart",
+  "fileName": "T0S Jean Bart.txt",
+  "name": "Ocean (1911)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

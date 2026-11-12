@@ -1,0 +1,10 @@
+{
+  "itemId": "do24",
+  "fileName": "T1T do 24.txt",
+  "name": "Dornier Do 24",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

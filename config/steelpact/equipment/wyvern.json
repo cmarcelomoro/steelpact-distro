@@ -1,0 +1,10 @@
+{
+  "itemId": "wyvern",
+  "fileName": "T1p5F wyvern.txt",
+  "name": "Westland Wyvern",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

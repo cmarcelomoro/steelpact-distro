@@ -1,0 +1,10 @@
+{
+  "itemId": "sten",
+  "fileName": "SMG Sten.txt",
+  "name": "STEN MK.II",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

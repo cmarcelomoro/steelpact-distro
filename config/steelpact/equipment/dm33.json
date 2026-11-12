@@ -1,0 +1,10 @@
+{
+  "itemId": "dm33",
+  "fileName": "TSM dm33.txt",
+  "name": "DM33",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

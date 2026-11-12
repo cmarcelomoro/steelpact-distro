@@ -1,0 +1,10 @@
+{
+  "itemId": "b1bis",
+  "fileName": "T1M B1 Bis.txt",
+  "name": "Char B1 Bis",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "browning13",
+  "fileName": "VEH 13mm browning fn.txt",
+  "name": "Mitrailleuse d\u0027Avion Browning - F.N. Calibre 13,2 mm",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

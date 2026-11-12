@@ -1,0 +1,10 @@
+{
+  "itemId": "Biplane",
+  "fileName": "Biplane.txt",
+  "name": "Sukcum-25",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

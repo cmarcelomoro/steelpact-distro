@@ -1,0 +1,10 @@
+{
+  "itemId": "B-2A",
+  "fileName": "T5T B-2A.txt",
+  "name": "Northrop Grumman B-2A Spirit",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

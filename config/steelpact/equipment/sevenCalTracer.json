@@ -1,0 +1,10 @@
+{
+  "itemId": "sevenCalTracer",
+  "fileName": "MG 7mm tracer.txt",
+  "name": "7.7mm Tracer Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

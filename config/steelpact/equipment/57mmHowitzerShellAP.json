@@ -1,0 +1,10 @@
+{
+  "itemId": "57mmHowitzerShellAP",
+  "fileName": "TS 57mm howitzer.txt",
+  "name": "57mm Gr.m.P. APHE Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

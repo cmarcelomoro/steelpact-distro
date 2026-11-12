@@ -1,0 +1,10 @@
+{
+  "itemId": "s75",
+  "fileName": "T2A S-75 Dvina.txt",
+  "name": "S-75 Dvina",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

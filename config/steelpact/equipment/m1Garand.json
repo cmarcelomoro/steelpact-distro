@@ -1,0 +1,10 @@
+{
+  "itemId": "m1Garand",
+  "fileName": "BR M1Garand.txt",
+  "name": "M1 Garand",
+  "folder": "guns",
+  "category": "BR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

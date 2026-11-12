@@ -1,0 +1,10 @@
+{
+  "itemId": "ProxyArtilleryHE",
+  "fileName": "TSA Generic Artillery Proximity.txt",
+  "name": "Generic Proximity Fuze Artillery Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "120mmFrenchAPFSDS",
+  "fileName": "TSM ofl f1 apfsds.txt",
+  "name": "OFL 120 F1",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

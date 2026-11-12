@@ -1,0 +1,10 @@
+{
+  "itemId": "155mmTripleGunMount",
+  "fileName": "T1A 15.5cmTripleMount.txt",
+  "name": "15.5cm/60 Triple Gun Mount 3rd Yr. Type",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "wahrendorf15",
+  "fileName": "NS outdated 15cm.txt",
+  "name": "Austrian Outdated 15cm Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

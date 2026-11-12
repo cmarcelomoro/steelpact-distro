@@ -1,0 +1,10 @@
+{
+  "itemId": "HydraHEAT",
+  "fileName": "MGH Hydra pod HEAT.txt",
+  "name": "M247 Hydra 70 Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

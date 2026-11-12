@@ -1,0 +1,10 @@
+{
+  "itemId": "MatraHE",
+  "fileName": "MGH MATRA pod.txt",
+  "name": "SNEB Type 23 HE Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

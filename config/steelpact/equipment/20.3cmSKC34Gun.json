@@ -1,0 +1,10 @@
+{
+  "itemId": "20.3cmSKC34Gun",
+  "fileName": "NG 20.3cmSKC34.txt",
+  "name": "20.3cm L/60 SK C/34 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

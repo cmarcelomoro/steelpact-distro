@@ -1,0 +1,10 @@
+{
+  "itemId": "115mmHEAT",
+  "fileName": "TSM 115mmHEAT.txt",
+  "name": "115mm 3BK4 HEAT",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

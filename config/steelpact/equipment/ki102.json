@@ -1,0 +1,10 @@
+{
+  "itemId": "ki102",
+  "fileName": "T1F Ki102.txt",
+  "name": "Kawasaki Ki-102",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

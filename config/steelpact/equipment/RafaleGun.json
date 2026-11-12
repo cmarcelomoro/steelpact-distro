@@ -1,0 +1,10 @@
+{
+  "itemId": "RafaleGun",
+  "fileName": "Rafale Cannon.txt",
+  "name": "GIAT 30/M791 Electric Revolver Cannon",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

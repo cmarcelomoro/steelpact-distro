@@ -1,0 +1,10 @@
+{
+  "itemId": "carcanoAmmoTHeavy",
+  "fileName": "SAR Carcano Rifle - Tracers - Heavy.txt",
+  "name": "6 Round 7.35×51mm Carcano Tracer Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

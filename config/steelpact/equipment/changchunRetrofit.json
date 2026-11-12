@@ -1,0 +1,10 @@
+{
+  "itemId": "changchunRetrofit",
+  "fileName": "T3SD Changchun Retrofit.txt",
+  "name": "Changchun (1974 Retrofit)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

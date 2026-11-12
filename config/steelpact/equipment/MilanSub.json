@@ -1,0 +1,10 @@
+{
+  "itemId": "MilanSub",
+  "fileName": "SAAT MILAN 3 missile submunition.txt",
+  "name": "MILAN 3 Missile Submunition",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "s13rocketHEAT",
+  "fileName": "MGH S-13 pod HEAT copy.txt",
+  "name": "S-13B 130mm HEAT Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

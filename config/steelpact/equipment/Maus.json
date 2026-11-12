@@ -1,0 +1,10 @@
+{
+  "itemId": "Maus",
+  "fileName": "T1p5H Maus.txt",
+  "name": "Panzerkampfwagen VIII Maus",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

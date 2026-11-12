@@ -1,0 +1,10 @@
+{
+  "itemId": "boforsAmmo",
+  "fileName": "AA BoforsAmmo.txt",
+  "name": "Bofors Ammo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

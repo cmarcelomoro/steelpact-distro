@@ -1,0 +1,10 @@
+{
+  "itemId": "190mmArgieGun",
+  "fileName": "NG 190mmArgie.txt",
+  "name": "190mm/52 O.T.",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

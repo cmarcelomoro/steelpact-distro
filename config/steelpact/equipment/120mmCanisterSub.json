@@ -1,0 +1,10 @@
+{
+  "itemId": "120mmCanisterSub",
+  "fileName": "TSM 120mm canister sub.txt",
+  "name": "NATO 120mm canister shot",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

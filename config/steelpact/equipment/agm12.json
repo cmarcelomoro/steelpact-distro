@@ -1,0 +1,10 @@
+{
+  "itemId": "agm12",
+  "fileName": "ATGM bullpup.txt",
+  "name": "AGM-12 Bullpup",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

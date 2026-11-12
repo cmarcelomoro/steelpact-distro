@@ -1,0 +1,10 @@
+{
+  "itemId": "allahtruck",
+  "fileName": "T3T Jihadi Truck.txt",
+  "name": "Jihadi Large Cargo Truck",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "panhard",
+  "fileName": "T0A Panhard 178.txt",
+  "name": "Panhard 178",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

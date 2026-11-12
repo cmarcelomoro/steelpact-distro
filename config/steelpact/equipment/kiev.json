@@ -1,0 +1,10 @@
+{
+  "itemId": "kiev",
+  "fileName": "T3SCV Kiev.txt",
+  "name": "Kiev",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

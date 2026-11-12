@@ -1,0 +1,10 @@
+{
+  "itemId": "type5ammo",
+  "fileName": "AAMG 30mm Type5.txt",
+  "name": "60 Round 30x122mm Type 5 Magazine",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "hispano20Mk5",
+  "fileName": "VEH 20mm Hispano Mk V.txt",
+  "name": "Hispano Mk.V",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

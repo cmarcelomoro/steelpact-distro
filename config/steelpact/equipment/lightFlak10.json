@@ -1,0 +1,10 @@
+{
+  "itemId": "lightFlak10",
+  "fileName": "light flak concentrated.txt",
+  "name": "Low Calibur AA Gun Concentration",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "5in38ShellAA",
+  "fileName": "NS 5in38ShellAA.txt",
+  "name": "5\" Shell AAVT",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

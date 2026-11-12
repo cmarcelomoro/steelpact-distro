@@ -1,0 +1,10 @@
+{
+  "itemId": "m4a3Sherman76",
+  "fileName": "T1M M4A3E8 Sherman.txt",
+  "name": "M4A3 (76mm) HVSS",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

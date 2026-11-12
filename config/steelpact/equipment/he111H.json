@@ -1,0 +1,10 @@
+{
+  "itemId": "he111H",
+  "fileName": "T1T He-111H.txt",
+  "name": "Heinkel He-111 H-3",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "T72A",
+  "fileName": "T3M T72A.txt",
+  "name": "T-72A (1979)",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

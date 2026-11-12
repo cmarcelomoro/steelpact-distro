@@ -1,0 +1,10 @@
+{
+  "itemId": "cottonClad",
+  "fileName": "T1S cottonclad.txt",
+  "name": "Cotton Clad",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

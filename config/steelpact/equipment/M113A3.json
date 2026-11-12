@@ -1,0 +1,10 @@
+{
+  "itemId": "M113A3",
+  "fileName": "T2T M113A3mew.txt",
+  "name": "M113A3 APC",
+  "folder": "vehicles",
+  "category": "APC",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

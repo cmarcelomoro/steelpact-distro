@@ -1,0 +1,10 @@
+{
+  "itemId": "cbu87",
+  "fileName": "BO CBU-87.txt",
+  "name": "CBU-87 Combined Effects Munition",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "spitfireUltimate",
+  "fileName": "T1F Spitfire Very Late.txt",
+  "name": "Spitfire F Mk XIVe",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

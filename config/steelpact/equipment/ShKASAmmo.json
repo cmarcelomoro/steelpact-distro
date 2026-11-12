@@ -1,0 +1,10 @@
+{
+  "itemId": "ShKASAmmo",
+  "fileName": "AAMG Shkas Ammo.txt",
+  "name": "750 Round 7.62x54mmR ShKAS Machinegun Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

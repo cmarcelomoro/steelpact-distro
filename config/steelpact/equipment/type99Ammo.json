@@ -1,0 +1,10 @@
+{
+  "itemId": "type99Ammo",
+  "fileName": "SAR Type99Ammo Arisaka.txt",
+  "name": "5 Round 7.7x58mm Arisaka Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

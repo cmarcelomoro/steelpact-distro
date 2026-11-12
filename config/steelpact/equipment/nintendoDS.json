@@ -1,0 +1,10 @@
+{
+  "itemId": "nintendoDS",
+  "fileName": "T5A Nintendo DS .txt",
+  "name": "Drone Station",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

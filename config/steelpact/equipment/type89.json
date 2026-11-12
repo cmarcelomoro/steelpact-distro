@@ -1,0 +1,10 @@
+{
+  "itemId": "type89",
+  "fileName": "VEH Type 89.txt",
+  "name": "Type 89 Machine Gun",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "AK12",
+  "fileName": "AR AK-12.txt",
+  "name": "AK-12",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

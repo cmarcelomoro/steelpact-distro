@@ -1,0 +1,10 @@
+{
+  "itemId": "funBoat",
+  "fileName": "T0S FunBoat.txt",
+  "name": "8-person Row Boat",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

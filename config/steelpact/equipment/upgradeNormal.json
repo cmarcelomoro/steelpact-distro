@@ -1,0 +1,10 @@
+{
+  "itemId": "upgradeNormal",
+  "fileName": "upgrade good.txt",
+  "name": "Repair Health",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

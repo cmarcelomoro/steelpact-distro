@@ -1,0 +1,10 @@
+{
+  "itemId": "courbet305",
+  "fileName": "NG 305 l45 french battleship gun.txt",
+  "name": "305mm/45 Modèle 1906 gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "galilAmmo",
+  "fileName": "SAR 5.56x45mm NATO - Galil.txt",
+  "name": "35 Round 5.56x45mm NATO Galil Magzine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "21inchTorpMarkIX",
+  "fileName": "NS 21inchTorpMarkIX.txt",
+  "name": "21-inch Mark IX* Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "b10",
+  "fileName": "T0p5T B10.txt",
+  "name": "Martin B-10",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

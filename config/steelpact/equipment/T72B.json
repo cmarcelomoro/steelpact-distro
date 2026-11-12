@@ -1,0 +1,10 @@
+{
+  "itemId": "T72B",
+  "fileName": "T3p5M T-72B.txt",
+  "name": "T-72B (1985)",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "iar80",
+  "fileName": "T1F IAR80.txt",
+  "name": "IAR.81C",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

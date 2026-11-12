@@ -1,0 +1,10 @@
+{
+  "itemId": "spas12",
+  "fileName": "SG SPAS12.txt",
+  "name": "Franchi SPAS-12",
+  "folder": "guns",
+  "category": "SG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

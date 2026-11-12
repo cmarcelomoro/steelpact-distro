@@ -1,0 +1,10 @@
+{
+  "itemId": "berettaM38",
+  "fileName": "SMG Beretta M38.txt",
+  "name": "Moschetto Automatico Beretta Modello 1938",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

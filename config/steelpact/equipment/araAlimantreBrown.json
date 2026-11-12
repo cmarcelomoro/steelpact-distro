@@ -1,0 +1,10 @@
+{
+  "itemId": "araAlimantreBrown",
+  "fileName": "T1S CA Generic.txt",
+  "name": "Generic Heavy Cruiser",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

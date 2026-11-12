@@ -1,0 +1,10 @@
+{
+  "itemId": "torricelli",
+  "fileName": "T1S SS torricelli.txt",
+  "name": "Torricelli",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "15cmKruppAmmo",
+  "fileName": "NS krupp 15cm.txt",
+  "name": "15cm German Quick-Firing Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

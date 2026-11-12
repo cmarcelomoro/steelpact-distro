@@ -1,0 +1,10 @@
+{
+  "itemId": "HydraPod",
+  "fileName": "HydraRocketPod.txt",
+  "name": "LAU-130/A",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

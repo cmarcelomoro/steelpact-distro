@@ -1,0 +1,10 @@
+{
+  "itemId": "JagdStalin",
+  "fileName": "T1H ISU152.txt",
+  "name": "ISU-152",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

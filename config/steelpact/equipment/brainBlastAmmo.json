@@ -1,0 +1,10 @@
+{
+  "itemId": "brainBlastAmmo",
+  "fileName": "HERO brain blast energy.txt",
+  "name": "Brain Blast Energy",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

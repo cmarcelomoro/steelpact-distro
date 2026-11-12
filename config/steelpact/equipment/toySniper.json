@@ -1,0 +1,10 @@
+{
+  "itemId": "toySniper",
+  "fileName": "TOY SNIPER.txt",
+  "name": "Toy Sniper",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

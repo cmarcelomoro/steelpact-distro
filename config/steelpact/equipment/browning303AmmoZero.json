@@ -1,0 +1,10 @@
+{
+  "itemId": "browning303AmmoZero",
+  "fileName": "AAMG Browning 303 zero.txt",
+  "name": "500 Round .303 HE Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

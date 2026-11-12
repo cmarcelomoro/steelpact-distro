@@ -1,0 +1,10 @@
+{
+  "itemId": "5in38TwinGunMount",
+  "fileName": "T1A 5inl38 twin.txt",
+  "name": "5\"/38 Mk.28 Mod.2 Twin-Gun Mounting",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

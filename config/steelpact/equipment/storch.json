@@ -1,0 +1,10 @@
+{
+  "itemId": "storch",
+  "fileName": "T1T Storch.txt",
+  "name": "Fieseler Fi 156 Storch",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

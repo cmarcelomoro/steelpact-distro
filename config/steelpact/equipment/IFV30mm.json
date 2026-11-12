@@ -1,0 +1,10 @@
+{
+  "itemId": "IFV30mm",
+  "fileName": "30mm IFV Gun.txt",
+  "name": "30mm Chain Gun",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

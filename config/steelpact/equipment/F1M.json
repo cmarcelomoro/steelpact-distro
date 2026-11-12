@@ -1,0 +1,10 @@
+{
+  "itemId": "F1M",
+  "fileName": "T1F F1M.txt",
+  "name": "Mitsubishi F1M 零式水上観測機",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

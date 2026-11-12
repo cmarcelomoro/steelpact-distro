@@ -1,0 +1,10 @@
+{
+  "itemId": "F/A-18C",
+  "fileName": "T3p5F_FA-18C.txt",
+  "name": "McDonnell Douglas F/A-18C Hornet",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

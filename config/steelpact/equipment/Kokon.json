@@ -1,0 +1,10 @@
+{
+  "itemId": "Kokon",
+  "fileName": "ATGM 9M114 kokon.txt",
+  "name": "9M114V Shturm-V",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

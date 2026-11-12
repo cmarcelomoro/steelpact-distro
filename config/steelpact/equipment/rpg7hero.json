@@ -1,0 +1,10 @@
+{
+  "itemId": "rpg7hero",
+  "fileName": "HERO Rapid fire weak RPG.txt",
+  "name": "Hero Shooter RPG-7",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

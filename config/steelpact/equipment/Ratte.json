@@ -1,0 +1,10 @@
+{
+  "itemId": "Ratte",
+  "fileName": "T6H Ratte.txt",
+  "name": "Landkreuzer P.1000 Ratte",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

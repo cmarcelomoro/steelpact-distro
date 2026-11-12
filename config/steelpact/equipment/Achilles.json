@@ -1,0 +1,10 @@
+{
+  "itemId": "Achilles",
+  "fileName": "T1M Achilles.txt",
+  "name": "17 pounder, Self-Propelled, Achilles",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

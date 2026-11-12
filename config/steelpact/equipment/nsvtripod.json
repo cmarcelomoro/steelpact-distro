@@ -1,0 +1,10 @@
+{
+  "itemId": "nsvtripod",
+  "fileName": "T3A NSV.txt",
+  "name": "NSVS-12.7 12.7mm Machine Gun (1971)",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

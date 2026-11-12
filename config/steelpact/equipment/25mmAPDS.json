@@ -1,0 +1,10 @@
+{
+  "itemId": "25mmAPDS",
+  "fileName": "TS 25mmAPDS.txt",
+  "name": "M791 25mm APDS-T Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "zis30",
+  "fileName": "T1L ZIS-30.txt",
+  "name": "ZiS-30",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

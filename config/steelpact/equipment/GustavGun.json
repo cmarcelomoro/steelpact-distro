@@ -1,0 +1,10 @@
+{
+  "itemId": "GustavGun",
+  "fileName": "Gustav Gun.txt",
+  "name": "800mm Railway Gun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "merkavamk1",
+  "fileName": "T3M Merkava mk1.txt",
+  "name": "Merkava Mk I",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

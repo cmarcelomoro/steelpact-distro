@@ -1,0 +1,10 @@
+{
+  "itemId": "RIM67",
+  "fileName": "NS Rim-67.txt",
+  "name": "RIM-67 Standard",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

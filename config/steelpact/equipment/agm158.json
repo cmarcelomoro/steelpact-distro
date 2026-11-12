@@ -1,0 +1,10 @@
+{
+  "itemId": "agm158",
+  "fileName": "ATGM AGM-158.txt",
+  "name": "AGM-158 JASSM",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

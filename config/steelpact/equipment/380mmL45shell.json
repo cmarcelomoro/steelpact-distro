@@ -1,0 +1,10 @@
+{
+  "itemId": "380mmL45shell",
+  "fileName": "NS 380mm frenchy shell.txt",
+  "name": "French 380mm Naval Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

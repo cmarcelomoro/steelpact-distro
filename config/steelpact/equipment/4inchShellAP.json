@@ -1,0 +1,10 @@
+{
+  "itemId": "4inchShellAP",
+  "fileName": "NS 4inchShellAP.txt",
+  "name": "Outdated WW1 4-inch Shell (BL)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

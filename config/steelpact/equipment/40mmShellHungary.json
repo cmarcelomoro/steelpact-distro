@@ -1,0 +1,10 @@
+{
+  "itemId": "40mmShellHungary",
+  "fileName": "TS 40mm turan.txt",
+  "name": "40mm 36M AP Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

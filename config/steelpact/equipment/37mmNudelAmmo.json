@@ -1,0 +1,10 @@
+{
+  "itemId": "37mmNudelAmmo",
+  "fileName": "AAMG 37mmNudelman.txt",
+  "name": "Nudelman 37x155mm x 40 Round Magazine",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

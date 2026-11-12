@@ -1,0 +1,10 @@
+{
+  "itemId": "WerferRocket",
+  "fileName": "TSA WerferRocket.txt",
+  "name": "15 cm Wurfgranate 41 Spreng",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "bombseatRU",
+  "fileName": "Bombseat RU.txt",
+  "name": "Bombadier Seat (Russian Planes)",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

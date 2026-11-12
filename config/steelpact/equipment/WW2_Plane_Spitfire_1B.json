@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Plane_Spitfire_1B",
+  "fileName": "T1F Spitfire.txt",
+  "name": "Supermarine Spitfire Mk I",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

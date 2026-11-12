@@ -1,0 +1,10 @@
+{
+  "itemId": "dshkTripod",
+  "fileName": "T2A DShKM.txt",
+  "name": "DShKM Tripod Mount-Shield",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

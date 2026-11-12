@@ -1,0 +1,10 @@
+{
+  "itemId": "j8m",
+  "fileName": "T1F J8M.txt",
+  "name": "Mitsubishi J8M",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

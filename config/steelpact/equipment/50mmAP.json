@@ -1,0 +1,10 @@
+{
+  "itemId": "50mmAP",
+  "fileName": "TSM 50mmAP.txt",
+  "name": "50mm PzGr 39",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

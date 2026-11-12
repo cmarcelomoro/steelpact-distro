@@ -1,0 +1,10 @@
+{
+  "itemId": "HO3S1",
+  "fileName": "T1p5T HO3S-1.txt",
+  "name": "Sikorsky HO3S-1 Dragonfly",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

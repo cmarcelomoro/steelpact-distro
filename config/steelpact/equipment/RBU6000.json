@@ -1,0 +1,10 @@
+{
+  "itemId": "RBU6000",
+  "fileName": "RBU-6000.txt",
+  "name": "RBU-6000 Smerch-2",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

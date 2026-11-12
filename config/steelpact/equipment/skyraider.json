@@ -1,0 +1,10 @@
+{
+  "itemId": "skyraider",
+  "fileName": "T1F Skyraider.txt",
+  "name": "Douglas A-1 Skyraider",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

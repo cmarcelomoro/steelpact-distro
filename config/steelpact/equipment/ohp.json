@@ -1,0 +1,10 @@
+{
+  "itemId": "ohp",
+  "fileName": "T3SF OHP.txt",
+  "name": "USS Stark FFG-31",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

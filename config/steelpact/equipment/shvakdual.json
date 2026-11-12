@@ -1,0 +1,10 @@
+{
+  "itemId": "shvakdual",
+  "fileName": "VEH 20mm  ShVAK zweiling.txt",
+  "name": "ShVAK 20x99Rmm Cannon x 2",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

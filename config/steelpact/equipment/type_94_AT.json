@@ -1,0 +1,10 @@
+{
+  "itemId": "type_94_AT",
+  "fileName": "T0A Type94ATGun.txt",
+  "name": "type 94 AT",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

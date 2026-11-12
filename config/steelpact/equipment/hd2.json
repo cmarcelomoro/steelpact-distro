@@ -1,0 +1,10 @@
+{
+  "itemId": "hd2",
+  "fileName": "T0F HD2.txt",
+  "name": "Hanriot HD.2",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

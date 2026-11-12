@@ -1,0 +1,10 @@
+{
+  "itemId": "105mmAPDSUS",
+  "fileName": "TSM 105mmAPDSUS.txt",
+  "name": "M735 APFSDS",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

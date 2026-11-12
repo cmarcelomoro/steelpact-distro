@@ -1,0 +1,10 @@
+{
+  "itemId": "battleRifle",
+  "fileName": "SAR 7.62 nato battle rifle.txt",
+  "name": "NATO 7.62x51 M80 20rd Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

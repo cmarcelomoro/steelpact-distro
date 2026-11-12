@@ -1,0 +1,10 @@
+{
+  "itemId": "ADENGun",
+  "fileName": "VEH 30mm ADEN.txt",
+  "name": "Royal Small Arms Factory ADEN Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

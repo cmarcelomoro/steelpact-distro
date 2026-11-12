@@ -1,0 +1,10 @@
+{
+  "itemId": "50mmAPshort",
+  "fileName": "TSM 50mmAP short.txt",
+  "name": "50mm PzGr 39 (Low Velocity)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

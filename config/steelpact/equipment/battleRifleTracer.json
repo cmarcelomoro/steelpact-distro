@@ -1,0 +1,10 @@
+{
+  "itemId": "battleRifleTracer",
+  "fileName": "SAR 7.62 nato battle rifle tracer.txt",
+  "name": "NATO 7.62x51 M62 Tracer 20rd Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "bren",
+  "fileName": "MG Bren.txt",
+  "name": "Bren Mk.2 Machine Gun",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "yak15",
+  "fileName": "T1p5F Yak15.txt",
+  "name": "Yakovlev Yak-15",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

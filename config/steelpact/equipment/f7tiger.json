@@ -1,0 +1,10 @@
+{
+  "itemId": "f7tiger",
+  "fileName": "T1F f7 tigercat.txt",
+  "name": "Grumman F7F Tigercat",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

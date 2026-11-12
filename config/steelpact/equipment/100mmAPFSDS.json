@@ -1,0 +1,10 @@
+{
+  "itemId": "100mmAPFSDS",
+  "fileName": "TSM 100mmAPFSDSy.txt",
+  "name": "100mm 3BM-25 APFSDS-T",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

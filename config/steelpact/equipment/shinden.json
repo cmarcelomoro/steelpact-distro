@@ -1,0 +1,10 @@
+{
+  "itemId": "shinden",
+  "fileName": "T1F J7W.txt",
+  "name": "Kyushu J7W Shinden",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

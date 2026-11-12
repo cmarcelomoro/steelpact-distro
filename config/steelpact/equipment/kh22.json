@@ -1,0 +1,10 @@
+{
+  "itemId": "kh22",
+  "fileName": "ATGM KH-22.txt",
+  "name": "Kh-22 Cruise Missile",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

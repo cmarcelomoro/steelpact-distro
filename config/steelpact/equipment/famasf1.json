@@ -1,0 +1,10 @@
+{
+  "itemId": "famasf1",
+  "fileName": "AR FAMAS G1.txt",
+  "name": "FAMAS F1",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

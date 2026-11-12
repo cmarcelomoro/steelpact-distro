@@ -1,0 +1,10 @@
+{
+  "itemId": "p1Pistol",
+  "fileName": "HG P1.txt",
+  "name": "Walther P1",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

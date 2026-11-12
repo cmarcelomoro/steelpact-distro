@@ -1,0 +1,10 @@
+{
+  "itemId": "kab500",
+  "fileName": "BO KAB 500.txt",
+  "name": "KAB 500L",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

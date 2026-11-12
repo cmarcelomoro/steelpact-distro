@@ -1,0 +1,10 @@
+{
+  "itemId": "HandTorch",
+  "fileName": "HERO weak flamethrower.txt",
+  "name": "Hand Torch",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

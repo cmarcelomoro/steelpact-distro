@@ -1,0 +1,10 @@
+{
+  "itemId": "99mk1",
+  "fileName": "VEH 20mm  type99 mk1.txt",
+  "name": "Type 99 Mk 1 九九式一号機銃",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

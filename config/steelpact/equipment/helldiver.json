@@ -1,0 +1,10 @@
+{
+  "itemId": "helldiver",
+  "fileName": "T1p5T helldiver.txt",
+  "name": "Curtiss SB2C-1C Helldiver",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ouragan",
+  "fileName": "T1p5F Ouragan.txt",
+  "name": "Dassault M.D.450 Ouragan",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

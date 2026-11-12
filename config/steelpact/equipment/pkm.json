@@ -1,0 +1,10 @@
+{
+  "itemId": "pkm",
+  "fileName": "MG PKM.txt",
+  "name": "PKM",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

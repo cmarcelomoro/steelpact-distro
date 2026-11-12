@@ -1,0 +1,10 @@
+{
+  "itemId": "m3GMC",
+  "fileName": "T1A M3 GMC.txt",
+  "name": "M3 Gun Motor Carriage",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

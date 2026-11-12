@@ -1,0 +1,10 @@
+{
+  "itemId": "mp40Ammo",
+  "fileName": "SAS MP40Ammo.txt",
+  "name": "9x19 Luger 32 Round MP40 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

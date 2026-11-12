@@ -1,0 +1,10 @@
+{
+  "itemId": "V55R",
+  "fileName": "NS S300 missile naval variant.txt",
+  "name": "5V55RM Missiles for S-300F",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

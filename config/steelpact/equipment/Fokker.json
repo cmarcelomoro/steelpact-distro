@@ -1,0 +1,10 @@
+{
+  "itemId": "Fokker",
+  "fileName": "T0F FokkerDR1.txt",
+  "name": "Fokker Dr.1",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

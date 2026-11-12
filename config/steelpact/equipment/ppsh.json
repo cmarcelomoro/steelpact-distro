@@ -1,0 +1,10 @@
+{
+  "itemId": "ppsh",
+  "fileName": "SMG PPSH.txt",
+  "name": "PPSH-41",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

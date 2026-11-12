@@ -1,0 +1,10 @@
+{
+  "itemId": "Kirishima",
+  "fileName": "T1S Kirishima.txt",
+  "name": "Fast Battleship Kirishima",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

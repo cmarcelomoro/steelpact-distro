@@ -1,0 +1,10 @@
+{
+  "itemId": "berthierAmmo",
+  "fileName": "SAR Berthier 5rnd.txt",
+  "name": "5 Round 8x50Rmm Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

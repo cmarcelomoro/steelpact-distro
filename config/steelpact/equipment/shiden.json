@@ -1,0 +1,10 @@
+{
+  "itemId": "shiden",
+  "fileName": "T1F Shiden.txt",
+  "name": "Kawanishi N1K-J Shiden",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

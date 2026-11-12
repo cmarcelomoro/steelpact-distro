@@ -1,0 +1,10 @@
+{
+  "itemId": "5in25SingleMount",
+  "fileName": "T0p5A 5inMk11SingleGunMount.txt",
+  "name": "5\"/25 Mk.11 Single Mount Mk.19",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Erebus",
+  "fileName": "T0S Erebus.txt",
+  "name": "HMS Erebus I02 (1916)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "pepperJuice",
+  "fileName": "HERO peppersprayfuel.txt",
+  "name": "Torch Energy",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

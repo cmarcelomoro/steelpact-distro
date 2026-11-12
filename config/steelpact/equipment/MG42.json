@@ -1,0 +1,10 @@
+{
+  "itemId": "MG42",
+  "fileName": "MG MG42.txt",
+  "name": "MG-42",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

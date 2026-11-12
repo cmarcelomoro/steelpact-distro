@@ -1,0 +1,10 @@
+{
+  "itemId": "u14",
+  "fileName": "T1S u-14.txt",
+  "name": "U-14",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

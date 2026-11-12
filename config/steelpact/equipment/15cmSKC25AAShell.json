@@ -1,0 +1,10 @@
+{
+  "itemId": "15cmSKC25AAShell",
+  "fileName": "NS 15cmSKC25AAShell.txt",
+  "name": "15cm SK C/25 AA Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

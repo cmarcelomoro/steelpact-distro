@@ -1,0 +1,10 @@
+{
+  "itemId": "M163VADS",
+  "fileName": "T2.5A M163 vads.txt",
+  "name": "M163 VADS",
+  "folder": "vehicles",
+  "category": "SPAA",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "beaufighter",
+  "fileName": "T1F beaufighter vic.txt",
+  "name": "Bristol Beaufighter Mk VIc",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

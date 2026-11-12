@@ -1,0 +1,10 @@
+{
+  "itemId": "sevenMMmultiple",
+  "fileName": "7.7mm MG double.txt",
+  "name": "Multiple Light Machine Guns",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

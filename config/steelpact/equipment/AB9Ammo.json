@@ -1,0 +1,10 @@
+{
+  "itemId": "AB9Ammo",
+  "fileName": "SAL AB9Ammo.txt",
+  "name": "AB-9 Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

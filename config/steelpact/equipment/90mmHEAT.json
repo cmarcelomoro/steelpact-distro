@@ -1,0 +1,10 @@
+{
+  "itemId": "90mmHEAT",
+  "fileName": "TSM 90mmHEAT.txt",
+  "name": "90mm M431 HEAT shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

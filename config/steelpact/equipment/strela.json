@@ -1,0 +1,10 @@
+{
+  "itemId": "strela",
+  "fileName": "AA Strela.txt",
+  "name": "SA-7 Strela-3",
+  "folder": "guns",
+  "category": "AA",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

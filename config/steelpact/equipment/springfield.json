@@ -1,0 +1,10 @@
+{
+  "itemId": "springfield",
+  "fileName": "SR Springfield.txt",
+  "name": "M1903 Springfield",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

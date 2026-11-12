@@ -1,0 +1,10 @@
+{
+  "itemId": "bombseatUS",
+  "fileName": "Bombseat US.txt",
+  "name": "Bombadier Seat (NATO Planes)",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "megaBuster",
+  "fileName": "HERO arm blaster.txt",
+  "name": "Cyborg Buster",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

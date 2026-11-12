@@ -1,0 +1,10 @@
+{
+  "itemId": "kv2Ammo",
+  "fileName": "TS 152mm KV-2.txt",
+  "name": "152mm G-530 Anti Concrete Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "whitworthAmmo",
+  "fileName": "SAR Whitworth ammo.txt",
+  "name": ".451 Hexagonal Bullets",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

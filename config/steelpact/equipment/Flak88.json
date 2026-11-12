@@ -1,0 +1,10 @@
+{
+  "itemId": "Flak88",
+  "fileName": "T1A Flak88.txt",
+  "name": "8,8 cm Flak 18",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

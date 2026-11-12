@@ -1,0 +1,10 @@
+{
+  "itemId": "flak37Ammo",
+  "fileName": "AA flak37 ammo.txt",
+  "name": "6 Round 37 x 264mmB HE-T Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

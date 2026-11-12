@@ -1,0 +1,10 @@
+{
+  "itemId": "hetzer",
+  "fileName": "T1A Jagdpanzer Hetzer.txt",
+  "name": "Jagdpanzer 38(t)",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

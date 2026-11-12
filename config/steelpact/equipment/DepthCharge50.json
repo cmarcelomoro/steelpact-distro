@@ -1,0 +1,10 @@
+{
+  "itemId": "DepthCharge50",
+  "fileName": "NS Depth Charge 50m.txt",
+  "name": "Generic Depth Charge 50 Meters",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

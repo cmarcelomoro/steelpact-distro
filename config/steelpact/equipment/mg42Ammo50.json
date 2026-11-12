@@ -1,0 +1,10 @@
+{
+  "itemId": "mg42Ammo50",
+  "fileName": "SAR MG42Ammo50ww2.txt",
+  "name": "50 Round 7.92x57mm MG42 Drum",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

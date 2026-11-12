@@ -1,0 +1,10 @@
+{
+  "itemId": "spruance",
+  "fileName": "T3SD Spruance.txt",
+  "name": "Spruance Class Destroyer",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

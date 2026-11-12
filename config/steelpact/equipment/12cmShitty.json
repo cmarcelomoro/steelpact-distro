@@ -1,0 +1,10 @@
+{
+  "itemId": "12cmShitty",
+  "fileName": "NG 12cm.txt",
+  "name": "12.7cm/50 Type 3 naval gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

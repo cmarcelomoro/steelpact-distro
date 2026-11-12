@@ -1,0 +1,10 @@
+{
+  "itemId": "2a82",
+  "fileName": "30mm 2A82.txt",
+  "name": "2a82 Automatic Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "M1116",
+  "fileName": "T3T M1116 HMMWV.txt",
+  "name": "HMMWV M1116 Humvee",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

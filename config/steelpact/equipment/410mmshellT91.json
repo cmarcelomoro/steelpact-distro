@@ -1,0 +1,10 @@
+{
+  "itemId": "410mmshellT91",
+  "fileName": "NS 410mmshellT91.txt",
+  "name": "41cm Type 91 APC Naval Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

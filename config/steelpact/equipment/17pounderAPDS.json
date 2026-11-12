@@ -1,0 +1,10 @@
+{
+  "itemId": "17pounderAPDS",
+  "fileName": "TSM 76mmAPDS UK.txt",
+  "name": "QF 17 pdr Shot APDS",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

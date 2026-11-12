@@ -1,0 +1,10 @@
+{
+  "itemId": "P6nuclear",
+  "fileName": "NS P6 pyatyorka nuclear.txt",
+  "name": "P-6 Pyatyorka (Nuclear Warhead)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

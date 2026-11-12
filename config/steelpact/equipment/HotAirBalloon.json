@@ -1,0 +1,10 @@
+{
+  "itemId": "HotAirBalloon",
+  "fileName": "T-1p5 Balloon.txt",
+  "name": "Hot Air Balloon",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

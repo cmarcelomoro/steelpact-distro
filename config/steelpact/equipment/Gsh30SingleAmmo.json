@@ -1,0 +1,10 @@
+{
+  "itemId": "Gsh30SingleAmmo",
+  "fileName": "MG 30mm gsh single.txt",
+  "name": "30x165mm GSh-30-1 HEI Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

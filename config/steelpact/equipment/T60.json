@@ -1,0 +1,10 @@
+{
+  "itemId": "T60",
+  "fileName": "T0L T-60.txt",
+  "name": "T-60",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

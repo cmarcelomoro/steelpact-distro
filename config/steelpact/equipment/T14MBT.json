@@ -1,0 +1,10 @@
+{
+  "itemId": "T14MBT",
+  "fileName": "T5M T-14 Armata.txt",
+  "name": "T-14 Armata Main Battle Tank",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

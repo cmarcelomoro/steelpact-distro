@@ -1,0 +1,10 @@
+{
+  "itemId": "chauchaut",
+  "fileName": "MG Chauchaut.txt",
+  "name": "Fusil Mitrailleur Modele 1915 CSRG",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

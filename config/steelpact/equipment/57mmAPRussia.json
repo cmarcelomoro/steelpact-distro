@@ -1,0 +1,10 @@
+{
+  "itemId": "57mmAPRussia",
+  "fileName": "TSM 57mmAP Russia.txt",
+  "name": "57mm BR-271M APCBC Shell",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

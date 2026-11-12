@@ -1,0 +1,10 @@
+{
+  "itemId": "LAHAT",
+  "fileName": "ATGM LAHAT.txt",
+  "name": "LAHAT Missile",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

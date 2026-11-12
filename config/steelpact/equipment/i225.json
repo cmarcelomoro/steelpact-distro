@@ -1,0 +1,10 @@
+{
+  "itemId": "i225",
+  "fileName": "T1F mig i225.txt",
+  "name": "Mikoyan-Gurevich I-225",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

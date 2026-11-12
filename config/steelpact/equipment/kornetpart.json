@@ -1,0 +1,10 @@
+{
+  "itemId": "kornetpart",
+  "fileName": "Kornet But on a vehicle.txt",
+  "name": "9M133 Kornet Launcher",
+  "folder": "guns",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

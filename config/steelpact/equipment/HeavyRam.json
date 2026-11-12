@@ -1,0 +1,10 @@
+{
+  "itemId": "HeavyRam",
+  "fileName": "NS Heavy Ram.txt",
+  "name": "Heavy Ram Energy",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

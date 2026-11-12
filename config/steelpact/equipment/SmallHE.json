@@ -1,0 +1,10 @@
+{
+  "itemId": "SmallHE",
+  "fileName": "TSA Generic Small.txt",
+  "name": "Small HE Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

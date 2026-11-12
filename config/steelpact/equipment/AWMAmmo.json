@@ -1,0 +1,10 @@
+{
+  "itemId": "AWMAmmo",
+  "fileName": "SAR AWM Ammo.txt",
+  "name": ".338 Lapua Magnum 5 Round L115A3 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

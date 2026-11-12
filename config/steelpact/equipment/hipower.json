@@ -1,0 +1,10 @@
+{
+  "itemId": "hipower",
+  "fileName": "HG Hipower.txt",
+  "name": "Browning Hi-Power",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

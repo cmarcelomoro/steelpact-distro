@@ -1,0 +1,10 @@
+{
+  "itemId": "44_StuGIV",
+  "fileName": "T1A StugIV.txt",
+  "name": "Sturmgeschütz IV",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

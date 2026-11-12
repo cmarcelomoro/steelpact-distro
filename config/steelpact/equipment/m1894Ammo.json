@@ -1,0 +1,10 @@
+{
+  "itemId": "m1894Ammo",
+  "fileName": "SAP Nagant1894.txt",
+  "name": "7.62x38 Nagant 7 Round Cylinder",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

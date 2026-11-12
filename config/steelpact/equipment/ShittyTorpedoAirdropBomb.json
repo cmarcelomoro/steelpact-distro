@@ -1,0 +1,10 @@
+{
+  "itemId": "ShittyTorpedoAirdropBomb",
+  "fileName": "NS Generic Torpedo Aerial Bomb.txt",
+  "name": "Generic WW2 Aerial Torpedo (Bomb)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

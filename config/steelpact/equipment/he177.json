@@ -1,0 +1,10 @@
+{
+  "itemId": "he177",
+  "fileName": "T1T He177.txt",
+  "name": "Heinkel He 177 Greif",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

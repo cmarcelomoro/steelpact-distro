@@ -1,0 +1,10 @@
+{
+  "itemId": "constellation",
+  "fileName": "T5S Constellation.txt",
+  "name": "USS Chesapeake FFG-64",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

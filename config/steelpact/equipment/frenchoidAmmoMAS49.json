@@ -1,0 +1,10 @@
+{
+  "itemId": "frenchoidAmmoMAS49",
+  "fileName": "SAR 7.5 French 10.txt",
+  "name": "10 Round 7.5x54mm Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "S300F",
+  "fileName": "AA S-300F.txt",
+  "name": "S-300F",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

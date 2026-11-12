@@ -1,0 +1,10 @@
+{
+  "itemId": "5000kg",
+  "fileName": "BO 5000kg.txt",
+  "name": "FAB-5000",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

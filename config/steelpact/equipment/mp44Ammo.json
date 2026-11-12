@@ -1,0 +1,10 @@
+{
+  "itemId": "mp44Ammo",
+  "fileName": "SAR MP44Ammo.txt",
+  "name": "30 Round 7.92x33 STG44 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "F-117A",
+  "fileName": "T3p5T F-117A.txt",
+  "name": "Lockheed F-117A Nighthawk",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

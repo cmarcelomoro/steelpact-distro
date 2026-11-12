@@ -1,0 +1,10 @@
+{
+  "itemId": "PTRDammo",
+  "fileName": "SAAT ptrdAmmo.txt",
+  "name": "PTRD Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

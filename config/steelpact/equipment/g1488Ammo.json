@@ -1,0 +1,10 @@
+{
+  "itemId": "g1488Ammo",
+  "fileName": "SAR gewehr88 ammo.txt",
+  "name": "5 Round Patrone 88 8x57mm Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "m1340carro",
+  "fileName": "T1M Fiat M13.txt",
+  "name": "Carro Armato M13/40",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

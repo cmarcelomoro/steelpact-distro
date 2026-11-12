@@ -1,0 +1,10 @@
+{
+  "itemId": "6inchMkVIIGun",
+  "fileName": "NG 6inMkVIIGun.txt",
+  "name": "6-inch BL Mk.VII Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

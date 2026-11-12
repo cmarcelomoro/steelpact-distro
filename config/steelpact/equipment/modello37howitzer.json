@@ -1,0 +1,10 @@
+{
+  "itemId": "modello37howitzer",
+  "fileName": "T1A modello37.txt",
+  "name": "Obice da 149/19 modello 37",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "114mm",
+  "fileName": "TSM 114mmHEAT.txt",
+  "name": "hkr 42/C 114mm HEAT Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

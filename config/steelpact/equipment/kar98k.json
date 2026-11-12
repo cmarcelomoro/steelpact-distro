@@ -1,0 +1,10 @@
+{
+  "itemId": "kar98k",
+  "fileName": "SR Kar98k.txt",
+  "name": "Kar98k",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

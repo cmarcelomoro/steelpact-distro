@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Plane_Fw190_1C",
+  "fileName": "T1F FW-190A-5.txt",
+  "name": "Focke-Wulf Fw 190 A-5",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

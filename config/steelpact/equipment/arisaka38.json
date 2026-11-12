@@ -1,0 +1,10 @@
+{
+  "itemId": "arisaka38",
+  "fileName": "SR Arisaka Type38.txt",
+  "name": "Arisaka Type 38 Rifle",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "flak37AmmoAP",
+  "fileName": "AA flak37 ammo AP.txt",
+  "name": "6 Round 37 x 264mmB APCR Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

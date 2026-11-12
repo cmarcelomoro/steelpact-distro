@@ -1,0 +1,10 @@
+{
+  "itemId": "K12",
+  "fileName": "MG K12.txt",
+  "name": "K12",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

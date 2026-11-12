@@ -1,0 +1,10 @@
+{
+  "itemId": "GriefingMortar",
+  "fileName": "TS 13Inch Mortar raiding.txt",
+  "name": "197lb Mortar Shell Raiding",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

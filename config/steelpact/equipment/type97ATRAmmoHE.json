@@ -1,0 +1,10 @@
+{
+  "itemId": "type97ATRAmmoHE",
+  "fileName": "SAAT Type97ATRAmmo - HE.txt",
+  "name": "7 Round 20x125mm HE-I Type 97 Magazines",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

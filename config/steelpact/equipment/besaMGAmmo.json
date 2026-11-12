@@ -1,0 +1,10 @@
+{
+  "itemId": "besaMGAmmo",
+  "fileName": "SAR BesaAmmo.txt",
+  "name": "Cartridge S.A. Ball 7.92 m/m Mark Iz 250 Round Besa MG Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

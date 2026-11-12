@@ -1,0 +1,10 @@
+{
+  "itemId": "tornado",
+  "fileName": "T3F TornadoGR1.txt",
+  "name": "Panavia Tornado IRS GR4",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "F-4E",
+  "fileName": "T3F F-4E.txt",
+  "name": "F-4E Phantom II (1972)",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

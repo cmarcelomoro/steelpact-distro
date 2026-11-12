@@ -1,0 +1,10 @@
+{
+  "itemId": "enfieldAmerimutt",
+  "fileName": "SR M1917 Enfield.txt",
+  "name": "M1917 Enfield",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

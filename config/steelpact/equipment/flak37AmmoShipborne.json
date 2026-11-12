@@ -1,0 +1,10 @@
+{
+  "itemId": "flak37AmmoShipborne",
+  "fileName": "AA flak37 ammo naval.txt",
+  "name": "Flak 37mm Ammo (Shipborne)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "S8Pod",
+  "fileName": "S8RocketPod.txt",
+  "name": "B-8V20-A S8 Rocket Pod",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

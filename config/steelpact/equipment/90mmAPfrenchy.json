@@ -1,0 +1,10 @@
+{
+  "itemId": "90mmAPfrenchy",
+  "fileName": "TSM 90mmAP frenchy.txt",
+  "name": "90mm Obus de rupture",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "pps43Ammo",
+  "fileName": "SAS pps-43 ammo.txt",
+  "name": "PPS-43 Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

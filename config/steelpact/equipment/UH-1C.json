@@ -1,0 +1,10 @@
+{
+  "itemId": "UH-1C",
+  "fileName": "T2p5F UH1C.txt",
+  "name": "Bell UH-1C Iroquois",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

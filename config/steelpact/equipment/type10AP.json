@@ -1,0 +1,10 @@
+{
+  "itemId": "type10AP",
+  "fileName": "TSM type10 APFSDS.txt",
+  "name": "Type-10 120mm APFSDS",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "boutefeu",
+  "fileName": "T0S bouclier.txt",
+  "name": "Boutefeu (1911)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

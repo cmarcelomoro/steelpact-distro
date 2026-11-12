@@ -1,0 +1,10 @@
+{
+  "itemId": "KrabCarbine",
+  "fileName": "SR Krag carbine.txt",
+  "name": "M1895 Krag–Jørgensen Carbine",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

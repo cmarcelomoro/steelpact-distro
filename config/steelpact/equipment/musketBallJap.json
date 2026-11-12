@@ -1,0 +1,10 @@
+{
+  "itemId": "musketBallJap",
+  "fileName": "HERO tanegashima ammo.txt",
+  "name": "Heavy Gunpowder, Lead and Match",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

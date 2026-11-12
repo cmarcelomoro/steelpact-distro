@@ -1,0 +1,10 @@
+{
+  "itemId": "sheridan",
+  "fileName": "T3L M551A1.txt",
+  "name": "M551A1 Sheridan",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ussWashington",
+  "fileName": "T1S Washington.txt",
+  "name": "USS Washington BB-56",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

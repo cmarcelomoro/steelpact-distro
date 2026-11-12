@@ -1,0 +1,10 @@
+{
+  "itemId": "ussTang",
+  "fileName": "T1S Tang.txt",
+  "name": "USS Tang SS-306",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

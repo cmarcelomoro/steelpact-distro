@@ -1,0 +1,10 @@
+{
+  "itemId": "compositeBow",
+  "fileName": "HERO composite bow.txt",
+  "name": "Composite Bow",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

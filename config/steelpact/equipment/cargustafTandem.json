@@ -1,0 +1,10 @@
+{
+  "itemId": "cargustafTandem",
+  "fileName": "SAAT Carl Gustaf Evolved Tandem.txt",
+  "name": "FFV751 Tandem HEAT Ammunition",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

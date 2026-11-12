@@ -1,0 +1,10 @@
+{
+  "itemId": "p59",
+  "fileName": "T1p5F P-59A.txt",
+  "name": "Bell P-59A Airacomet",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

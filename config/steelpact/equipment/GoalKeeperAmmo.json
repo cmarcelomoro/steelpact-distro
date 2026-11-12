@@ -1,0 +1,10 @@
+{
+  "itemId": "GoalKeeperAmmo",
+  "fileName": "AA Goal Keeper Ammo.txt",
+  "name": "Goal Keeper Belt",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

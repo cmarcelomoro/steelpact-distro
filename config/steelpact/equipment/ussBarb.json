@@ -1,0 +1,10 @@
+{
+  "itemId": "ussBarb",
+  "fileName": "T1S Barb.txt",
+  "name": "USS Barb SS-220",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

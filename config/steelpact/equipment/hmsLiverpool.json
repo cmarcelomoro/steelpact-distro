@@ -1,0 +1,10 @@
+{
+  "itemId": "hmsLiverpool",
+  "fileName": "T1S Liverpool1940.txt",
+  "name": "HMS Liverpool C11",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

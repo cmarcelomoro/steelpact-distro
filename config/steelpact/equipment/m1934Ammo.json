@@ -1,0 +1,10 @@
+{
+  "itemId": "m1934Ammo",
+  "fileName": "SAP 9mm Corto Ammo.txt",
+  "name": ".380 ACP 8 Round M1934 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

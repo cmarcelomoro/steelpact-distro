@@ -1,0 +1,10 @@
+{
+  "itemId": "BARAmmo",
+  "fileName": "SAR BARAmmo.txt",
+  "name": "20 Round 30-06 BAR Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

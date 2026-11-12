@@ -1,0 +1,10 @@
+{
+  "itemId": "luger",
+  "fileName": "HG Luger.txt",
+  "name": "P08 Luger",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

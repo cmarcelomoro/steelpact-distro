@@ -1,0 +1,10 @@
+{
+  "itemId": "p2640",
+  "fileName": "T1M Carro Armato P40.txt",
+  "name": "Carro Armato P26/40",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "myrsky",
+  "fileName": "T1F Myrsky.txt",
+  "name": "VL Myrsky",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

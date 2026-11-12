@@ -1,0 +1,10 @@
+{
+  "itemId": "14in45ArizonaTurret",
+  "fileName": "T1A 14in45ArizonaTurret.txt",
+  "name": "14\"/45 Mk.12 Triple Gun Turret \"Arizona\"",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

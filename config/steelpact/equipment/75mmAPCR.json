@@ -1,0 +1,10 @@
+{
+  "itemId": "75mmAPCR",
+  "fileName": "TSM 75mmAPCR USA.txt",
+  "name": "75mm T45 shot APCR",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

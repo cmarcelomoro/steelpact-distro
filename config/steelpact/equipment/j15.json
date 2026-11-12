@@ -1,0 +1,10 @@
+{
+  "itemId": "j15",
+  "fileName": "T4F J15.txt",
+  "name": "Shenyang J-15 Flying Shark",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

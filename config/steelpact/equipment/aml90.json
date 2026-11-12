@@ -1,0 +1,10 @@
+{
+  "itemId": "aml90",
+  "fileName": "T2P5T AML90.txt",
+  "name": "AML-90",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "wagon",
+  "fileName": "Wagon.txt",
+  "name": "Transport Wagon",
+  "folder": "vehicles",
+  "category": "APC",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

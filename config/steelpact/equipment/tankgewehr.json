@@ -1,0 +1,10 @@
+{
+  "itemId": "tankgewehr",
+  "fileName": "AT M1918 Tank Gewehr.txt",
+  "name": "Mauser Mod. 1918 13.2 mm Tankgewehr",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

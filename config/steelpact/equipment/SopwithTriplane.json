@@ -1,0 +1,10 @@
+{
+  "itemId": "SopwithTriplane",
+  "fileName": "Tn0p5F SopwithTriplanel.txt",
+  "name": "Sopwith Triplane",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

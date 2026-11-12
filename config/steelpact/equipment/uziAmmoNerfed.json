@@ -1,0 +1,10 @@
+{
+  "itemId": "uziAmmoNerfed",
+  "fileName": "HERO UziAmmo Nerfed.txt",
+  "name": "Uzi Ammo for Hero Shooter",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

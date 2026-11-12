@@ -1,0 +1,10 @@
+{
+  "itemId": "p38Ammo",
+  "fileName": "SAP 9mm 8 Rounds.txt",
+  "name": "8 Round 9x19mm Parabellum",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

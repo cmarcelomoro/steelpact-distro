@@ -1,0 +1,10 @@
+{
+  "itemId": "SU25",
+  "fileName": "T4F  SU-25.txt",
+  "name": "Su-25 Frogfoot",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

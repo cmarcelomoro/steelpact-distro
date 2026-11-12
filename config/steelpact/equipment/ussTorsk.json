@@ -1,0 +1,10 @@
+{
+  "itemId": "ussTorsk",
+  "fileName": "T1S Torsk.txt",
+  "name": "USS Torsk SS-423",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

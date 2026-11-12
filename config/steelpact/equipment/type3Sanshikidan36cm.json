@@ -1,0 +1,10 @@
+{
+  "itemId": "type3Sanshikidan36cm",
+  "fileName": "NS 36cm Type 3 AA Shell.txt",
+  "name": "35.6cm Sanshikidan",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "rh202",
+  "fileName": "T2T RH-202.txt",
+  "name": "Flugabwehrkanone 20 mm Zwilling",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

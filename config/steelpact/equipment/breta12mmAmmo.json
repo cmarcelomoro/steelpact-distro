@@ -1,0 +1,10 @@
+{
+  "itemId": "breta12mmAmmo",
+  "fileName": "AAMG 12mm breda.txt",
+  "name": "350 Round 12.7mmx81 Breda-SAFAT Magazine",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

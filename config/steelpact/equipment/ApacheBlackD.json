@@ -1,0 +1,10 @@
+{
+  "itemId": "ApacheBlackD",
+  "fileName": "T3F Apache Longbow.txt",
+  "name": "AH-64D Apache Longbow",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

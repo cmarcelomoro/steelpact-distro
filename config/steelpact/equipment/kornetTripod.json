@@ -1,0 +1,10 @@
+{
+  "itemId": "kornetTripod",
+  "fileName": "T4A 9K133 Kornet.txt",
+  "name": "9K133 Kornet-M Tripod Launcher",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

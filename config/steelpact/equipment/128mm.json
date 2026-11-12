@@ -1,0 +1,10 @@
+{
+  "itemId": "128mm",
+  "fileName": "TSM 128mm.txt",
+  "name": "128mm PzGr 43 APCBC",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

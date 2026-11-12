@@ -1,0 +1,10 @@
+{
+  "itemId": "vbci",
+  "fileName": "T4T VBCI.txt",
+  "name": "Vehicule Blinde De Combat d\u0027Infanterie",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

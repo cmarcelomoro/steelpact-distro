@@ -1,0 +1,10 @@
+{
+  "itemId": "g17Ammo",
+  "fileName": "SAP GlockAmmo.txt",
+  "name": "17 Round 9x19mm Glock 17 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

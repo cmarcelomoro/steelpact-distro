@@ -1,0 +1,10 @@
+{
+  "itemId": "gevar96Ammo",
+  "fileName": "SAR gevar96Ammo.txt",
+  "name": "5 Round 6.5x55mm Swedish Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

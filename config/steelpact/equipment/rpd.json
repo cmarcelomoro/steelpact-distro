@@ -1,0 +1,10 @@
+{
+  "itemId": "rpd",
+  "fileName": "MG RPD.txt",
+  "name": "RPD",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

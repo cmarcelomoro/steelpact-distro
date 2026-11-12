@@ -1,0 +1,10 @@
+{
+  "itemId": "8mmKrab",
+  "fileName": "SAR 8mm Krag Bullets.txt",
+  "name": "8x58mmR Danish Krag Cartridges",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

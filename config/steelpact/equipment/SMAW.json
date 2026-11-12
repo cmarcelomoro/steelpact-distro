@@ -1,0 +1,10 @@
+{
+  "itemId": "SMAW",
+  "fileName": "AT SMAW.txt",
+  "name": "Mk.153 Shoulder-Launched Multipurpose Assault Weapon",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

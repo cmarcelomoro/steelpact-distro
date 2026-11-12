@@ -1,0 +1,10 @@
+{
+  "itemId": "Uji",
+  "fileName": "T1S Uji.txt",
+  "name": "Uji",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

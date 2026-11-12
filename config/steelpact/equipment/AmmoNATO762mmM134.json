@@ -1,0 +1,10 @@
+{
+  "itemId": "AmmoNATO762mmM134",
+  "fileName": "MG AmmoNATO762mmM134.txt",
+  "name": "NATO 7.62mm Ammo for M134 - 2000 Bullet Box",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

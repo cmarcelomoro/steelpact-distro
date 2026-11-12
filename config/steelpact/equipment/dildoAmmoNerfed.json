@@ -1,0 +1,10 @@
+{
+  "itemId": "dildoAmmoNerfed",
+  "fileName": "HERO dildos nerfed.txt",
+  "name": "Dildo Missile",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

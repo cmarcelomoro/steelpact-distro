@@ -1,0 +1,10 @@
+{
+  "itemId": "manlickerAmmo",
+  "fileName": "SAR ManlickerAmmo.txt",
+  "name": "5 Round 8x50mmR Mannlicher Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

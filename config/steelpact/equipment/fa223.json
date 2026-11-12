@@ -1,0 +1,10 @@
+{
+  "itemId": "fa223",
+  "fileName": "T1p5T fa223 drache.txt",
+  "name": "Focke-Achgelis Fa 223 Drache",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

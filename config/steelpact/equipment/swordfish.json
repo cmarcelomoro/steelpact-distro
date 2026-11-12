@@ -1,0 +1,10 @@
+{
+  "itemId": "swordfish",
+  "fileName": "T0T Swordfish.txt",
+  "name": "Fairey Swordfish",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

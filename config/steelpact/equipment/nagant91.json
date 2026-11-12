@@ -1,0 +1,10 @@
+{
+  "itemId": "nagant91",
+  "fileName": "SR MosinNagant WW1.txt",
+  "name": "M91 Mosin-Nagant",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

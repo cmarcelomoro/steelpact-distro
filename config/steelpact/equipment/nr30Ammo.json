@@ -1,0 +1,10 @@
+{
+  "itemId": "nr30Ammo",
+  "fileName": "AAMG NR30 30mm.txt",
+  "name": "70 Round 30x110mm NR30 Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

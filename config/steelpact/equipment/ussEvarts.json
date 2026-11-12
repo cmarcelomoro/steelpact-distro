@@ -1,0 +1,10 @@
+{
+  "itemId": "ussEvarts",
+  "fileName": "T1S Evarts.txt",
+  "name": "USS Evarts DE-5",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

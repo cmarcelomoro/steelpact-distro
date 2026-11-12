@@ -1,0 +1,10 @@
+{
+  "itemId": "aim7",
+  "fileName": "AAM AIM7.txt",
+  "name": "AIM-7E Sparrow",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

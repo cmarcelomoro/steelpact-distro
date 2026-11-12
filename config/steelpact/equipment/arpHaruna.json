@@ -1,0 +1,10 @@
+{
+  "itemId": "arpHaruna",
+  "fileName": "T6S ARP-Haruna.txt",
+  "name": "Fleet of Fog Ship Haruna",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

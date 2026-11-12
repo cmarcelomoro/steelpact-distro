@@ -1,0 +1,10 @@
+{
+  "itemId": "wallyBomb",
+  "fileName": "ATGM AGM62 Wallye.txt",
+  "name": "AGM-62 Walleye",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

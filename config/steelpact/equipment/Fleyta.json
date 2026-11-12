@@ -1,0 +1,10 @@
+{
+  "itemId": "Fleyta",
+  "fileName": "ATGM 9M17.txt",
+  "name": "9M17M Falanga",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

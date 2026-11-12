@@ -1,0 +1,10 @@
+{
+  "itemId": "SMAWSpotting",
+  "fileName": "SAP SMAW Spotting Rifle.txt",
+  "name": "6 Round 9×51mm Mk 217 SMAW Spotting Rifle Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

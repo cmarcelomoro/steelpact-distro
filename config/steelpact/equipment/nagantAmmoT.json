@@ -1,0 +1,10 @@
+{
+  "itemId": "nagantAmmoT",
+  "fileName": "SAR MosinNagantAmmo - T.txt",
+  "name": "5 Round 7.62x54R Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

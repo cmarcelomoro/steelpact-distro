@@ -1,0 +1,10 @@
+{
+  "itemId": "m1919",
+  "fileName": "MG M1919 Coaxial.txt",
+  "name": "M1919 Machine Gun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

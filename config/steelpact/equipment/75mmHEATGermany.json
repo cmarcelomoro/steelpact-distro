@@ -1,0 +1,10 @@
+{
+  "itemId": "75mmHEATGermany",
+  "fileName": "TSM 75mmHEAT German.txt",
+  "name": "75mm Hl.Gr 38C HEAT shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "HY1",
+  "fileName": "NS HY1 missile.txt",
+  "name": "HY-1 Missile",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

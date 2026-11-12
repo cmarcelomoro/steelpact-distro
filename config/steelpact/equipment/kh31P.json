@@ -1,0 +1,10 @@
+{
+  "itemId": "kh31P",
+  "fileName": "ATGM KH31P antirad.txt",
+  "name": "Kh-31P Anti-Radiation Missile",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

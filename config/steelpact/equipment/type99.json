@@ -1,0 +1,10 @@
+{
+  "itemId": "type99",
+  "fileName": "SR Arisaka Type99.txt",
+  "name": "Arisaka Type 99 Rifle",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

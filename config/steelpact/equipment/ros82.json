@@ -1,0 +1,10 @@
+{
+  "itemId": "ros82",
+  "fileName": "MGH ROS82.txt",
+  "name": "ROS-82 82mm HE Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

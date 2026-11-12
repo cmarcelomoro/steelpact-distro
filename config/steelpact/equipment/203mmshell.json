@@ -1,0 +1,10 @@
+{
+  "itemId": "203mmshell",
+  "fileName": "NS 203mmShellJap.txt",
+  "name": "20.3cm Type 91 APC Naval Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

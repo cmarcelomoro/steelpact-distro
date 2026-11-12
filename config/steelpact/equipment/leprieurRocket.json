@@ -1,0 +1,10 @@
+{
+  "itemId": "leprieurRocket",
+  "fileName": "MGH Le Prieur.txt",
+  "name": "Le Prieur Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

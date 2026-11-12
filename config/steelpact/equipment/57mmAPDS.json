@@ -1,0 +1,10 @@
+{
+  "itemId": "57mmAPDS",
+  "fileName": "TSM 57mmAPDS British.txt",
+  "name": "57mm Shot, APDS, Mk 1T",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "acrAmmo",
+  "fileName": "SAR ACRAmmo.txt",
+  "name": "30 Round 6.8x43mm SPC ACR Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

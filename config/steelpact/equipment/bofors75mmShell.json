@@ -1,0 +1,10 @@
+{
+  "itemId": "bofors75mmShell",
+  "fileName": "NS bofors75mmShell.txt",
+  "name": "Bofors 7.5cm Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "hswmsGotland",
+  "fileName": "T1S Gotland1938.txt",
+  "name": "HSwMS Gotland",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

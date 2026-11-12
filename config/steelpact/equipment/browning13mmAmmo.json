@@ -1,0 +1,10 @@
+{
+  "itemId": "browning13mmAmmo",
+  "fileName": "AAMG 13mm Hotchkiss.txt",
+  "name": "250 Round 13.2mmx99 Hotchkiss Magazine",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "r40",
+  "fileName": "AAM R40.txt",
+  "name": "R-40",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

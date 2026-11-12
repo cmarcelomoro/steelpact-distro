@@ -1,0 +1,10 @@
+{
+  "itemId": "chuck",
+  "fileName": "T1S river paddle boat.txt",
+  "name": "Steam Paddle Boat",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

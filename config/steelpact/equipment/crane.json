@@ -1,0 +1,10 @@
+{
+  "itemId": "crane",
+  "fileName": "T0U Crane.txt",
+  "name": "Utility Crane",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

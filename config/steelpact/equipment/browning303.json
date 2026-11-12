@@ -1,0 +1,10 @@
+{
+  "itemId": "browning303",
+  "fileName": "VEH Browning 303.txt",
+  "name": "Browning .303 Mark II",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

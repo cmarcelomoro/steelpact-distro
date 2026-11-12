@@ -1,0 +1,10 @@
+{
+  "itemId": "MiG-23",
+  "fileName": "T3F MiG-23.txt",
+  "name": "Mikoyan-Gurevich MiG-23 Flogger",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "soc3Seagull",
+  "fileName": "T0S SOCSeagull.txt",
+  "name": "SOC-3 Seagull",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

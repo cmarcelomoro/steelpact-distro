@@ -1,0 +1,10 @@
+{
+  "itemId": "s13rocketFAE",
+  "fileName": "MGH S-13 pod FAE copy.txt",
+  "name": "S-13D 130mm FAE Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

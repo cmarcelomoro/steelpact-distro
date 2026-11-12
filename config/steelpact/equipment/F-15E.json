@@ -1,0 +1,10 @@
+{
+  "itemId": "F-15E",
+  "fileName": "T4F F-15E.txt",
+  "name": "F-15E Strike Eagle",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

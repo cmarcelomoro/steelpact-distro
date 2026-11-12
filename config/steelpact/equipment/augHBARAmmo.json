@@ -1,0 +1,10 @@
+{
+  "itemId": "augHBARAmmo",
+  "fileName": "SAR 5.56x45mm NATO AUG HBAR.txt",
+  "name": "5.56x45mm NATO 42 Rounds",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

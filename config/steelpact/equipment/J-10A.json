@@ -1,0 +1,10 @@
+{
+  "itemId": "J-10A",
+  "fileName": "T4F J-10A.txt",
+  "name": "Chengdu J-10A Vigorous Dragon",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

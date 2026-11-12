@@ -1,0 +1,10 @@
+{
+  "itemId": "anm2",
+  "fileName": "VEH ANM2 50.txt",
+  "name": "AN/M2",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

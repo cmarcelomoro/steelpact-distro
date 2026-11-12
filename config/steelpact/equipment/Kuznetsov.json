@@ -1,0 +1,10 @@
+{
+  "itemId": "Kuznetsov",
+  "fileName": "T4SCV Kuznetsov.txt",
+  "name": "Admiral Flota Sovetskogo Soyuza Kuznetsov (1991)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

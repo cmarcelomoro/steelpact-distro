@@ -1,0 +1,10 @@
+{
+  "itemId": "vb10",
+  "fileName": "T1F VB-10.txt",
+  "name": "Arsenal VB 10",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "20mmPz280rnd",
+  "fileName": "TS 20mm AutoCannon 80 rounds.txt",
+  "name": "PzGr 40 20x138mmB APCR Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

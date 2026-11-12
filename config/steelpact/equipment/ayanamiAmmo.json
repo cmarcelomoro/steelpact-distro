@@ -1,0 +1,10 @@
+{
+  "itemId": "ayanamiAmmo",
+  "fileName": "SAR reibel ammo.txt",
+  "name": "150 Round 7.5x54mm Machinegun Drum",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

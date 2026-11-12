@@ -1,0 +1,10 @@
+{
+  "itemId": "Vickers",
+  "fileName": "T0A Vickers.txt",
+  "name": "Vickers Medium Machine Gun",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Mark46",
+  "fileName": "NS Mark 46 Torpedo.txt",
+  "name": "Mark 46 Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

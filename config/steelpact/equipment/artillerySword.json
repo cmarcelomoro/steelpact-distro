@@ -1,0 +1,10 @@
+{
+  "itemId": "artillerySword",
+  "fileName": "ac artillery sword.txt",
+  "name": "Model 1832 Foot Artillery Sword",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "depthdumperProjector",
+  "fileName": "NG depth charge projector.txt",
+  "name": "Depth Charge Projector",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "leMat",
+  "fileName": "HG LeMat Revolver.txt",
+  "name": "LeMat Revolver",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

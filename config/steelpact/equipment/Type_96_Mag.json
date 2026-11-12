@@ -1,0 +1,10 @@
+{
+  "itemId": "Type_96_Mag",
+  "fileName": "SAR Type96MAgs.txt",
+  "name": "Type 96 Mag - 30 Bullet Box",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

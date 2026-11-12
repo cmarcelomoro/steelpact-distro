@@ -1,0 +1,10 @@
+{
+  "itemId": "M8Greyhound",
+  "fileName": "T1L M8 Greyhound.txt",
+  "name": "M8 Greyhound",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

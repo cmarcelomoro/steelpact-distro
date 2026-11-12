@@ -1,0 +1,10 @@
+{
+  "itemId": "timedcanistersub",
+  "fileName": "TSM timed canister sub.txt",
+  "name": "timed canister submunition",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

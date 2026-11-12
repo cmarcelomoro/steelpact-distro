@@ -1,0 +1,10 @@
+{
+  "itemId": "SH60B",
+  "fileName": "T3p5T SH-60B.txt",
+  "name": "Sikorsky SH-60B Seahawk",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "hurricane40mm",
+  "fileName": "T0F Hurricane Mk2d.txt",
+  "name": "Hawker Hurricane Mk.II D",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

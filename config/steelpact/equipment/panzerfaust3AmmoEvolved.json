@@ -1,0 +1,10 @@
+{
+  "itemId": "panzerfaust3AmmoEvolved",
+  "fileName": "SAAT Panzerfaust3tandem.txt",
+  "name": "DM-22 Panzerfaust 3 Tandem Warhead",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

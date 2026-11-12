@@ -1,0 +1,10 @@
+{
+  "itemId": "winchesterAR",
+  "fileName": "SAR 5.56x45mm NATO mini.txt",
+  "name": "5.56x45mm Winchester 20 Rounds",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

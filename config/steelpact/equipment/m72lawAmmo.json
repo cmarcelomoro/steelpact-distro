@@ -1,0 +1,10 @@
+{
+  "itemId": "m72lawAmmo",
+  "fileName": "SAAT M72LAWAmmo.txt",
+  "name": "M72A1 LAW Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Hanomag",
+  "fileName": "T1T Hanomag.txt",
+  "name": "Sdkfz 251/1 Ausf. C",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

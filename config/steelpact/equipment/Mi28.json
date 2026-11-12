@@ -1,0 +1,10 @@
+{
+  "itemId": "Mi28",
+  "fileName": "T4F Mi28.txt",
+  "name": "Mi-28N",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

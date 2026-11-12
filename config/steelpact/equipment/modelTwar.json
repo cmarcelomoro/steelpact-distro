@@ -1,0 +1,10 @@
+{
+  "itemId": "modelTwar",
+  "fileName": "T-0p5T Model T war.txt",
+  "name": "Model T - Transport",
+  "folder": "vehicles",
+  "category": "APC",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

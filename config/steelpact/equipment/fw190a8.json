@@ -1,0 +1,10 @@
+{
+  "itemId": "fw190a8",
+  "fileName": "T1F FW-190A-8.txt",
+  "name": "Focke-Wulf Fw 190 A-8, II./SG 2",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

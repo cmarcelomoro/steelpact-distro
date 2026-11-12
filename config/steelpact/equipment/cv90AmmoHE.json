@@ -1,0 +1,10 @@
+{
+  "itemId": "cv90AmmoHE",
+  "fileName": "TS 40mm BoforsAmmo CV90.txt",
+  "name": "kulsgr m/90 40x365mm HE-VT Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

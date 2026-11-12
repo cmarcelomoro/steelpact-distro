@@ -1,0 +1,10 @@
+{
+  "itemId": "HQ16",
+  "fileName": "NS HQ16.txt",
+  "name": "海红旗-16 (HQ16) Naval SAM",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ssm700k",
+  "fileName": "NS ssm-700k haeseong.txt",
+  "name": "SSM-700K Haeseong",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

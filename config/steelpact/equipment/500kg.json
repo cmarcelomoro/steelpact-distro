@@ -1,0 +1,10 @@
+{
+  "itemId": "500kg",
+  "fileName": "BO 500kg.txt",
+  "name": "500kg",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

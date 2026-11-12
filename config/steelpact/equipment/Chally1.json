@@ -1,0 +1,10 @@
+{
+  "itemId": "Chally1",
+  "fileName": "T3M ChallengerI.txt",
+  "name": "Challenger mk.1",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

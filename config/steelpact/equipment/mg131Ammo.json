@@ -1,0 +1,10 @@
+{
+  "itemId": "mg131Ammo",
+  "fileName": "AAMG 13nn MG131.txt",
+  "name": "300 Round 13×64mmB SprGr. 40 HE-T/AP-I MG131 Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

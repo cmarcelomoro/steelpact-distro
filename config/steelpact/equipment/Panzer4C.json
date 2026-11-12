@@ -1,0 +1,10 @@
+{
+  "itemId": "Panzer4C",
+  "fileName": "T1M PanzerIVC.txt",
+  "name": "Panzerkampfwagen IV Ausf. D",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

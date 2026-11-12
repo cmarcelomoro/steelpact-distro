@@ -1,0 +1,10 @@
+{
+  "itemId": "mig29russia",
+  "fileName": "T4F MiG-29.txt",
+  "name": "Mikoyan MiG-29A Fulcrum-A",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

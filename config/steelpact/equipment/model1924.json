@@ -1,0 +1,10 @@
+{
+  "itemId": "model1924",
+  "fileName": "NG 75mm m1924.txt",
+  "name": "Canon de 75 mm modèle 1924",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

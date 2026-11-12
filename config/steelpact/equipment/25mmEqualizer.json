@@ -1,0 +1,10 @@
+{
+  "itemId": "25mmEqualizer",
+  "fileName": "25mm Equalizer.txt",
+  "name": "General Electric GAU-12/U Equalizer",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

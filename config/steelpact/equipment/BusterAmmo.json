@@ -1,0 +1,10 @@
+{
+  "itemId": "BusterAmmo",
+  "fileName": "HERO megaman ammo.txt",
+  "name": "Buster Ammo",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

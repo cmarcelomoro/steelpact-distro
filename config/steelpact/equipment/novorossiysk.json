@@ -1,0 +1,10 @@
+{
+  "itemId": "novorossiysk",
+  "fileName": "T1S BB Novorossiysk.txt",
+  "name": "Novorossiysk",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

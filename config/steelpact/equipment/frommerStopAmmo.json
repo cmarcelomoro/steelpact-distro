@@ -1,0 +1,10 @@
+{
+  "itemId": "frommerStopAmmo",
+  "fileName": "SAP frommerStop AMmo.txt",
+  "name": ".32 ACP 7 Round Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

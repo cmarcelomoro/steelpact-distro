@@ -1,0 +1,10 @@
+{
+  "itemId": "ZPT90",
+  "fileName": "ZPT90.txt",
+  "name": "ZPT-90 25mm Cannon",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

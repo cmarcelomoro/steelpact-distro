@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Plane_Hurricane_1A",
+  "fileName": "T0F Hurricane.txt",
+  "name": "Hawker Hurricane Mk.I",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

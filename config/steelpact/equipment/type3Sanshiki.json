@@ -1,0 +1,10 @@
+{
+  "itemId": "type3Sanshiki",
+  "fileName": "NS Type 3 Sanshiki.txt",
+  "name": "Type-3 Sanshikidan Submunition",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

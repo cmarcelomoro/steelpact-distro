@@ -1,0 +1,10 @@
+{
+  "itemId": "karlgerat",
+  "fileName": "T1A Karl Gerat.txt",
+  "name": "Karl-Gerät 040",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

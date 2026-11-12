@@ -1,0 +1,10 @@
+{
+  "itemId": "monitor",
+  "fileName": "T1S USSMonitor.txt",
+  "name": "USS Monitor",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

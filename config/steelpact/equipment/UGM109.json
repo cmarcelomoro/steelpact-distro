@@ -1,0 +1,10 @@
+{
+  "itemId": "UGM109",
+  "fileName": "NS Tomahawk submarine.txt",
+  "name": "UGM-109B Tomahawk Anti-Ship Missile",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

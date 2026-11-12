@@ -1,0 +1,10 @@
+{
+  "itemId": "he112",
+  "fileName": "T1F HE-112.txt",
+  "name": "Heinkel He 112 A-0 V4",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "30mmHEDP",
+  "fileName": "TS 30mmM320.txt",
+  "name": "M789 30mm High Explosive Dual Purpose Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

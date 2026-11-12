@@ -1,0 +1,10 @@
+{
+  "itemId": "s25Rocket",
+  "fileName": "MGH S-25.txt",
+  "name": "S-25OF High Explosive Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

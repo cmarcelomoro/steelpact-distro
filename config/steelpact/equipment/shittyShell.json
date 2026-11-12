@@ -1,0 +1,10 @@
+{
+  "itemId": "shittyShell",
+  "fileName": "NS 12cm navy.txt",
+  "name": "Japanese 12.7cm L/50 Naval Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

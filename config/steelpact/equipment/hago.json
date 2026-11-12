@@ -1,0 +1,10 @@
+{
+  "itemId": "hago",
+  "fileName": "T0M Hago.txt",
+  "name": "Type 95 Ha-Gou",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "SMAWRocket",
+  "fileName": "SAAT SMAWRocket.txt",
+  "name": "Mk 6 Mod 0 Encased High-Explosive, Anti-Armor",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ussWarrington",
+  "fileName": "T1S Warrington.txt",
+  "name": "USS Warrington DD-383",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "citron23",
+  "fileName": "T0T Citroen 23.txt",
+  "name": "Citroen Type 23U",
+  "folder": "vehicles",
+  "category": "APC",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

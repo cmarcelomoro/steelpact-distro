@@ -1,0 +1,10 @@
+{
+  "itemId": "5.25inchShellSAP",
+  "fileName": "NS 5.25inchShellSAP.txt",
+  "name": "5.25inch SAP Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

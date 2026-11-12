@@ -1,0 +1,10 @@
+{
+  "itemId": "at4AmmoHE",
+  "fileName": "SAAT AT4Ammo HE.txt",
+  "name": "AT4 HEDP Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

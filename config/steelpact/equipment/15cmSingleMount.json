@@ -1,0 +1,10 @@
+{
+  "itemId": "15cmSingleMount",
+  "fileName": "T1A 15cm.txt",
+  "name": "15cm TbtsK C/36",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

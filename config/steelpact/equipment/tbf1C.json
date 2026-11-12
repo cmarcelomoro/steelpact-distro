@@ -1,0 +1,10 @@
+{
+  "itemId": "tbf1C",
+  "fileName": "T1T TBF1C.txt",
+  "name": "TBF-1C Avenger Torpedo Boomer",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

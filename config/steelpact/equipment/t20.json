@@ -1,0 +1,10 @@
+{
+  "itemId": "t20",
+  "fileName": "T0A T-20.txt",
+  "name": "Komsomolets T-20",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

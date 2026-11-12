@@ -1,0 +1,10 @@
+{
+  "itemId": "Gsh30SuperGun",
+  "fileName": "30mm Gsh super.txt",
+  "name": "Gryazev-Shipunov GSh-6-30",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

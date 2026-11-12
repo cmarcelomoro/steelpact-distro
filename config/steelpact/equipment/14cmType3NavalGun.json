@@ -1,0 +1,10 @@
+{
+  "itemId": "14cmType3NavalGun",
+  "fileName": "NG 14cm.txt",
+  "name": "14cm/50 Type 3 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

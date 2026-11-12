@@ -1,0 +1,10 @@
+{
+  "itemId": "b40bis",
+  "fileName": "T1M B40.txt",
+  "name": "Char de Bataille B40",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "12.7cmAA",
+  "fileName": "NG 12cmAA.txt",
+  "name": "12.7cm/40 Type 89 naval gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

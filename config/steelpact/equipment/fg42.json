@@ -1,0 +1,10 @@
+{
+  "itemId": "fg42",
+  "fileName": "AR Fg42.txt",
+  "name": "Fallschirmjagergewehr 42",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "B36D",
+  "fileName": "T1P5T B-36.txt",
+  "name": "Convair B-36D \"Peacemaker\"",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

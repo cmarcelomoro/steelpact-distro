@@ -1,0 +1,10 @@
+{
+  "itemId": "p26",
+  "fileName": "T0F P26.txt",
+  "name": "P-26A",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

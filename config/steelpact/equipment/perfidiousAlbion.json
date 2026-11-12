@@ -1,0 +1,10 @@
+{
+  "itemId": "perfidiousAlbion",
+  "fileName": "BON blue danube.txt",
+  "name": "Blue Danube",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

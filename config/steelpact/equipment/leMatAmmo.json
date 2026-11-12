@@ -1,0 +1,10 @@
+{
+  "itemId": "leMatAmmo",
+  "fileName": "SAP LeMat Ammo.txt",
+  "name": "9 Rounds of .42 Ball",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

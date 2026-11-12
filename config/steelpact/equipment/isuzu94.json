@@ -1,0 +1,10 @@
+{
+  "itemId": "isuzu94",
+  "fileName": "T0T Isuzu94.txt",
+  "name": "Isuzu Type 94",
+  "folder": "vehicles",
+  "category": "APC",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "GFS_HumTOW",
+  "fileName": "T3T HumveeTOW.txt",
+  "name": "M1036 HMMWV TOW Missile Carrier",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

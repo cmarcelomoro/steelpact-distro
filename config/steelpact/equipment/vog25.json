@@ -1,0 +1,10 @@
+{
+  "itemId": "vog25",
+  "fileName": "SAAT VOG25.txt",
+  "name": "40mm M381 HE Grenade",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

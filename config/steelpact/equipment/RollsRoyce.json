@@ -1,0 +1,10 @@
+{
+  "itemId": "RollsRoyce",
+  "fileName": "T0T Rolls Royce.txt",
+  "name": "Rolls-Royce Armoured Car",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

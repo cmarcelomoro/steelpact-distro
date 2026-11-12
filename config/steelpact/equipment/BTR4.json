@@ -1,0 +1,10 @@
+{
+  "itemId": "BTR4",
+  "fileName": "T4T BTR4.txt",
+  "name": "BTR-4",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

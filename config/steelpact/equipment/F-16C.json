@@ -1,0 +1,10 @@
+{
+  "itemId": "F-16C",
+  "fileName": "T3p5F F-16C.txt",
+  "name": "General Dynamics F-16C Fighting Falcon",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

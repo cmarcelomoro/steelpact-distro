@@ -1,0 +1,10 @@
+{
+  "itemId": "morane",
+  "fileName": "T0F French Monoplane.txt",
+  "name": "Morane-Saulnier L",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

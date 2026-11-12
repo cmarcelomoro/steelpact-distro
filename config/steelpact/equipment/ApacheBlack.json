@@ -1,0 +1,10 @@
+{
+  "itemId": "ApacheBlack",
+  "fileName": "T3F Apache.txt",
+  "name": "AH-64A Apache",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

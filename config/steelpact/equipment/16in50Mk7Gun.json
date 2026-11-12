@@ -1,0 +1,10 @@
+{
+  "itemId": "16in50Mk7Gun",
+  "fileName": "NG 16in50Mk7.txt",
+  "name": "16\"/50 Mk.7 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "37mmStuart",
+  "fileName": "TS 37mm Stuart.txt",
+  "name": "M51B1 APCBC 37mm",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

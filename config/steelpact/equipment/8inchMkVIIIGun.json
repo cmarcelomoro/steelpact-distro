@@ -1,0 +1,10 @@
+{
+  "itemId": "8inchMkVIIIGun",
+  "fileName": "NG 8inMkVIIIGun.txt",
+  "name": "8-inch Mk.VIII Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

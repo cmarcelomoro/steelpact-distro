@@ -1,0 +1,10 @@
+{
+  "itemId": "su33",
+  "fileName": "T4F SU33.txt",
+  "name": "Sukhoi Su-33",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

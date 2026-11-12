@@ -1,0 +1,10 @@
+{
+  "itemId": "Tu-160",
+  "fileName": "T3T Tu-160.txt",
+  "name": "Tupolev Tu-160 Blackjack",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

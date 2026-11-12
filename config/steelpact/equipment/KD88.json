@@ -1,0 +1,10 @@
+{
+  "itemId": "KD88",
+  "fileName": "ATGM KD88.txt",
+  "name": "KD-88",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

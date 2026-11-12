@@ -1,0 +1,10 @@
+{
+  "itemId": "sneb114",
+  "fileName": "MGH MATRA pod type23.txt",
+  "name": "SNEB Type 23 Rockets x 114",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

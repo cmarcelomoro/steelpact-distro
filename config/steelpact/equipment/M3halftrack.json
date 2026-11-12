@@ -1,0 +1,10 @@
+{
+  "itemId": "M3halftrack",
+  "fileName": "T1T M3 halftrack.txt",
+  "name": "M3 Half-track",
+  "folder": "vehicles",
+  "category": "APC",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "richelieu",
+  "fileName": "T1SBB Richelieu.txt",
+  "name": "Richelieu (1943)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

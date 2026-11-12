@@ -1,0 +1,10 @@
+{
+  "itemId": "IS3",
+  "fileName": "T1p5H IS-3.txt",
+  "name": "IS-3",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

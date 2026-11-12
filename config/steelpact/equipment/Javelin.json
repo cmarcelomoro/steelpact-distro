@@ -1,0 +1,10 @@
+{
+  "itemId": "Javelin",
+  "fileName": "AT Javelin.txt",
+  "name": "FGM-148 Javelin",
+  "folder": "guns",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "genericCLAxis",
+  "fileName": "T0p5S GenericCLAxis.txt",
+  "name": "Generic Axis Light Cruiser",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

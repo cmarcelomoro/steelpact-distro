@@ -1,0 +1,10 @@
+{
+  "itemId": "TorpTube400",
+  "fileName": "soviet 400mm silly torpedo.txt",
+  "name": "400mm Light Torpedo Tubes",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

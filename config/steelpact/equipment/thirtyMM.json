@@ -1,0 +1,10 @@
+{
+  "itemId": "thirtyMM",
+  "fileName": "30mm auto cannon.txt",
+  "name": "30mm Automatic Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

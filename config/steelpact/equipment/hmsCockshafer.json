@@ -1,0 +1,10 @@
+{
+  "itemId": "hmsCockshafer",
+  "fileName": "T0S Cockshafer.txt",
+  "name": "HMS Cockshafer Gunboat",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

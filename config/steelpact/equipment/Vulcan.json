@@ -1,0 +1,10 @@
+{
+  "itemId": "Vulcan",
+  "fileName": "VEHMG 20mm Vulcan.txt",
+  "name": "400 Round 20x102mm M61 Vulcan Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

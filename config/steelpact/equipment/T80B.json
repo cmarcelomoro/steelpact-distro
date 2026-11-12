@@ -1,0 +1,10 @@
+{
+  "itemId": "T80B",
+  "fileName": "T3M T80B.txt",
+  "name": "T-80B (1976)",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

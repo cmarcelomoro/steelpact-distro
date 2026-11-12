@@ -1,0 +1,10 @@
+{
+  "itemId": "MiG-27",
+  "fileName": "T3F MiG-27.txt",
+  "name": "Mikoyan MiG-27 Flogger",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

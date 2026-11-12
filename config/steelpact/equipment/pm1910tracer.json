@@ -1,0 +1,10 @@
+{
+  "itemId": "pm1910tracer",
+  "fileName": "MG PM M1910 Tracer.txt",
+  "name": "7.62x54Rmm 250 Round Tracer Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

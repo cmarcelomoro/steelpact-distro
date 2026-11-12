@@ -1,0 +1,10 @@
+{
+  "itemId": "AK130",
+  "fileName": "ak-130.txt",
+  "name": "130 mm/70 AK-130",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "ostwind",
+  "fileName": "T1A Ostwind.txt",
+  "name": "Flakpanzer IV \"Ostwind\"",
+  "folder": "vehicles",
+  "category": "SPAA",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

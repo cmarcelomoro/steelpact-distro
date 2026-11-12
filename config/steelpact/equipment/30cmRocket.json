@@ -1,0 +1,10 @@
+{
+  "itemId": "30cmRocket",
+  "fileName": "TS 30cm HE Rocket.txt",
+  "name": "30 cm Wurfkörper Spreng 42",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

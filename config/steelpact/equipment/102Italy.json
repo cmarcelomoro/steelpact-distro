@@ -1,0 +1,10 @@
+{
+  "itemId": "102Italy",
+  "fileName": "TSM 102mm Italy.txt",
+  "name": "102mm Artigliere Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

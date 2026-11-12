@@ -1,0 +1,10 @@
+{
+  "itemId": "a36",
+  "fileName": "T1F A36 apache.txt",
+  "name": "North American A-36 Apache",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

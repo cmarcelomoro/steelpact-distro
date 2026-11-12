@@ -1,0 +1,10 @@
+{
+  "itemId": "at4",
+  "fileName": "AT AT4.txt",
+  "name": "AT4",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

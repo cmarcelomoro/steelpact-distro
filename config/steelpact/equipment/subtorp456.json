@@ -1,0 +1,10 @@
+{
+  "itemId": "subtorp456",
+  "fileName": "NS 457mm ww1 submarine torp.txt",
+  "name": "18\" (456 mm) Outdated Submarine Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

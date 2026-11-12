@@ -1,0 +1,10 @@
+{
+  "itemId": "30mmAirburst",
+  "fileName": "TS 30mm AirBurst.txt",
+  "name": "MK30-2/ABM 30mm Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "zara",
+  "fileName": "T1S CA Zara.txt",
+  "name": "Zara",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

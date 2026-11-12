@@ -1,0 +1,10 @@
+{
+  "itemId": "type90",
+  "fileName": "T4M Type90.txt",
+  "name": "KYU-MARU SHIKI",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

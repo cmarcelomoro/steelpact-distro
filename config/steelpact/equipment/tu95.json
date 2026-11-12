@@ -1,0 +1,10 @@
+{
+  "itemId": "tu95",
+  "fileName": "T2T Tu-95.txt",
+  "name": "Tupolev Tu-95",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

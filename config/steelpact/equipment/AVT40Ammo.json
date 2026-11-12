@@ -1,0 +1,10 @@
+{
+  "itemId": "AVT40Ammo",
+  "fileName": "SAR AVT-40.txt",
+  "name": "20 Round 7.62x54R Drum Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

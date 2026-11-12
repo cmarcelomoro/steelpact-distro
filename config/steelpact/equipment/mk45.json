@@ -1,0 +1,10 @@
+{
+  "itemId": "mk45",
+  "fileName": "mk45.txt",
+  "name": "5\"/54 Caliber Mark 45 Gun",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

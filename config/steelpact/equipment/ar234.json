@@ -1,0 +1,10 @@
+{
+  "itemId": "ar234",
+  "fileName": "T1p5F arado 234.txt",
+  "name": "Ar 234",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

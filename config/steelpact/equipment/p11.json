@@ -1,0 +1,10 @@
+{
+  "itemId": "p11",
+  "fileName": "T0F P11.txt",
+  "name": "PZL P.11",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

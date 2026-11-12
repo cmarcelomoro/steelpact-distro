@@ -1,0 +1,10 @@
+{
+  "itemId": "GustavShellCanister",
+  "fileName": "TS 800mmCanister.txt",
+  "name": "800mm Canister Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

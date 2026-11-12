@@ -1,0 +1,10 @@
+{
+  "itemId": "iku",
+  "fileName": "T1S SS I19.txt",
+  "name": "I-19",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

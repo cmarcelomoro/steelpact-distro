@@ -1,0 +1,10 @@
+{
+  "itemId": "scr584",
+  "fileName": "T1T Radar Truck.txt",
+  "name": "SCR 584 Radar Truck",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

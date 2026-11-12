@@ -1,0 +1,10 @@
+{
+  "itemId": "23mm",
+  "fileName": "AA 23mmAP.txt",
+  "name": "23mm ZSU-23 API Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

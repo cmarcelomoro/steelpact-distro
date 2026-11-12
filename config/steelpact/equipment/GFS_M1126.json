@@ -1,0 +1,10 @@
+{
+  "itemId": "GFS_M1126",
+  "fileName": "T4A M1126.txt",
+  "name": "M1126 Stryker ICV",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

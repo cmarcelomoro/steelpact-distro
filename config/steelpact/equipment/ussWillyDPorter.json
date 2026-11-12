@@ -1,0 +1,10 @@
+{
+  "itemId": "ussWillyDPorter",
+  "fileName": "T1S Porter.txt",
+  "name": "USS William D. Porter DD-579",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

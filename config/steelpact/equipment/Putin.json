@@ -1,0 +1,10 @@
+{
+  "itemId": "Putin",
+  "fileName": "T5F PAK-FA.txt",
+  "name": "Sukhoi Su-57",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

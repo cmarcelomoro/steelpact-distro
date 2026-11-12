@@ -1,0 +1,10 @@
+{
+  "itemId": "camelCannon",
+  "fileName": "camel cannon.txt",
+  "name": "Camel-Mount Cannon",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

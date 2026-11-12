@@ -1,0 +1,10 @@
+{
+  "itemId": "Berdan2Ammo",
+  "fileName": "SAR Berdan Ammo.txt",
+  "name": "10.75x58mmR Cartridges",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

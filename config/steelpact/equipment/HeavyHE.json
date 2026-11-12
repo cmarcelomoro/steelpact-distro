@@ -1,0 +1,10 @@
+{
+  "itemId": "HeavyHE",
+  "fileName": "TSA Generic heavy.txt",
+  "name": "Heavy HE Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

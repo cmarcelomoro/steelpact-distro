@@ -1,0 +1,10 @@
+{
+  "itemId": "Type99AA",
+  "fileName": "T1A Type99.txt",
+  "name": "Type 99 88 mm AA gun",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

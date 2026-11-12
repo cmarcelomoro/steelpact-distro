@@ -1,0 +1,10 @@
+{
+  "itemId": "rpgAmmorsub",
+  "fileName": "SAAT RPGAmmo - PG7VR - sub.txt",
+  "name": "PG-7VR (1989)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

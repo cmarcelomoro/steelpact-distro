@@ -1,0 +1,10 @@
+{
+  "itemId": "DEFAammo",
+  "fileName": "AAMG 30mm DEFA.txt",
+  "name": "125 Round 30x113mm DEFA Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

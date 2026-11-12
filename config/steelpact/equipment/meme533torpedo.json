@@ -1,0 +1,10 @@
+{
+  "itemId": "meme533torpedo",
+  "fileName": "NS meme torpedo 533mm britoid ww1.txt",
+  "name": "WW1 533mm Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

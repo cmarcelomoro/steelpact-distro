@@ -1,0 +1,10 @@
+{
+  "itemId": "longSwordEnergy",
+  "fileName": "HERO SEL LongswordEnergy.txt",
+  "name": "Sword Durability",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

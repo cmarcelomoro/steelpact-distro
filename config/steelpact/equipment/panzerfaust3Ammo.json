@@ -1,0 +1,10 @@
+{
+  "itemId": "panzerfaust3Ammo",
+  "fileName": "SAAT Panzerfaust3Ammo.txt",
+  "name": "DM-12 Panzerfaust 3 HEAT Warhead",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

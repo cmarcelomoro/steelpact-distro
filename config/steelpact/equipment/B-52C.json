@@ -1,0 +1,10 @@
+{
+  "itemId": "B-52C",
+  "fileName": "T2T B-52C.txt",
+  "name": "Boeing B-52C Stratofortress (1956)",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

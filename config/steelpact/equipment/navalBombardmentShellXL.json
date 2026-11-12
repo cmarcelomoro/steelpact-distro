@@ -1,0 +1,10 @@
+{
+  "itemId": "navalBombardmentShellXL",
+  "fileName": "NS XL Bombardment.txt",
+  "name": "320mm - 381mm Bombardment Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

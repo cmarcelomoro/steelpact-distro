@@ -1,0 +1,10 @@
+{
+  "itemId": "tinyTim",
+  "fileName": "MGH Tiny Tim.txt",
+  "name": "Tiny Tim",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

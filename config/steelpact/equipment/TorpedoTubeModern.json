@@ -1,0 +1,10 @@
+{
+  "itemId": "TorpedoTubeModern",
+  "fileName": "modern torpedo tube.txt",
+  "name": "324mm Torpedo Tubes",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

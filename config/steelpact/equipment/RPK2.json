@@ -1,0 +1,10 @@
+{
+  "itemId": "RPK2",
+  "fileName": "NS RPK2 nuclear thing.txt",
+  "name": "RPK-2 Vyuga (Nuclear Torpedo Mount)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

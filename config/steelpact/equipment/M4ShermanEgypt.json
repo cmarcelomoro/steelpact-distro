@@ -1,0 +1,10 @@
+{
+  "itemId": "M4ShermanEgypt",
+  "fileName": "T1M M4 Super AMX Sherman.txt",
+  "name": "M4A4 FL-10 Sherman",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

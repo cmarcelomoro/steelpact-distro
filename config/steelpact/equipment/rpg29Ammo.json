@@ -1,0 +1,10 @@
+{
+  "itemId": "rpg29Ammo",
+  "fileName": "SAAT RPG29Ammo.txt",
+  "name": "PG-29V (1989)",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

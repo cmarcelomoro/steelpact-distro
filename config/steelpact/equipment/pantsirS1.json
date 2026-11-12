@@ -1,0 +1,10 @@
+{
+  "itemId": "pantsirS1",
+  "fileName": "T5A Pantsir.txt",
+  "name": "Pantsir-S1",
+  "folder": "vehicles",
+  "category": "SPAA",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "buggyEyedBenz",
+  "fileName": "CIV Buggy Eyed Bens.txt",
+  "name": "1987 Mercedes-Benz 560SEL",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

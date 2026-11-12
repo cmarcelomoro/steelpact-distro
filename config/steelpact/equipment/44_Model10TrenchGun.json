@@ -1,0 +1,10 @@
+{
+  "itemId": "44_Model10TrenchGun",
+  "fileName": "SG Trench Gun.txt",
+  "name": "Model 10 Trench Gun",
+  "folder": "guns",
+  "category": "SG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "SV98Ammo",
+  "fileName": "SAR SV98Ammo.txt",
+  "name": "7.62x54mm 10 Round SV-98 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "BL15inchLandGun",
+  "fileName": "BL15inchLandGun.txt",
+  "name": "BL 15inch Mk1 Land Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

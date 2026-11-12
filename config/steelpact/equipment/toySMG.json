@@ -1,0 +1,10 @@
+{
+  "itemId": "toySMG",
+  "fileName": "TOY SMG.txt",
+  "name": "Toy Submachine Gun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

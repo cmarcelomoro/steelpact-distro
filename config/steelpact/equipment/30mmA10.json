@@ -1,0 +1,10 @@
+{
+  "itemId": "30mmA10",
+  "fileName": "MGH 30mmDepletedUranium.txt",
+  "name": "30x173 GAU-8 PGU-14/B PGU-13/B Mixed Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

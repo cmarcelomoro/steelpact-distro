@@ -1,0 +1,10 @@
+{
+  "itemId": "T74",
+  "fileName": "T2M Type-74.txt",
+  "name": "Type-74",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

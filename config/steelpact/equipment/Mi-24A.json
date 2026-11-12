@@ -1,0 +1,10 @@
+{
+  "itemId": "Mi-24A",
+  "fileName": "T3p5F Mi-24A.txt",
+  "name": "Mil Mi-24A Hind-A",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

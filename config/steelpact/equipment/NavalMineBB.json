@@ -1,0 +1,10 @@
+{
+  "itemId": "NavalMineBB",
+  "fileName": "NS Shitty Naval Mine for battleships.txt",
+  "name": "Generic Naval Mine",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

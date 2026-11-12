@@ -1,0 +1,10 @@
+{
+  "itemId": "ks23shells",
+  "fileName": "SAS KS23 Shell.txt",
+  "name": "23x75mmR KS23 Buck Shot Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "140mmDeckGun",
+  "fileName": "NG 14cm Deck Gun.txt",
+  "name": "14 cm/40 11th Year: Type naval gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

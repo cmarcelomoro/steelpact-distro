@@ -1,0 +1,10 @@
+{
+  "itemId": "cheonma2",
+  "fileName": "T5M Cheonma2.txt",
+  "name": "Chonma-2",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

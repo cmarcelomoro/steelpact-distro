@@ -1,0 +1,10 @@
+{
+  "itemId": "breda30",
+  "fileName": "MG Breda 30.txt",
+  "name": "Fucile Mitragliatore Breda modello 30",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

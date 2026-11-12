@@ -1,0 +1,10 @@
+{
+  "itemId": "AKMSport",
+  "fileName": "AR AKMS vehicle mount.txt",
+  "name": "AKMS",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

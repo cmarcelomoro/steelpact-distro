@@ -1,0 +1,10 @@
+{
+  "itemId": "23AmmoShort",
+  "fileName": "AAMG 23 short.txt",
+  "name": "150 Round 23x115mmB NS23 Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

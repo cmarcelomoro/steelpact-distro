@@ -1,0 +1,10 @@
+{
+  "itemId": "75mmTsar",
+  "fileName": "75mmTsar.txt",
+  "name": "75 mm Tsar Tank Gun",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

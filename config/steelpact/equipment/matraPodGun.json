@@ -1,0 +1,10 @@
+{
+  "itemId": "matraPodGun",
+  "fileName": "Matra Pod.txt",
+  "name": "Matra Pods",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

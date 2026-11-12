@@ -1,0 +1,10 @@
+{
+  "itemId": "LargeRomanian",
+  "fileName": "TSA Romanian Large.txt",
+  "name": "10.5 cm Feldhaubitze M.12 Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

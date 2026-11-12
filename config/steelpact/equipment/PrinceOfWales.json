@@ -1,0 +1,10 @@
+{
+  "itemId": "PrinceOfWales",
+  "fileName": "T1S Prince of Wales.txt",
+  "name": "HMS Prince of Wales 53",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

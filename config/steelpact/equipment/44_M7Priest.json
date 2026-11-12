@@ -1,0 +1,10 @@
+{
+  "itemId": "44_M7Priest",
+  "fileName": "T1A M7Priest.txt",
+  "name": "M7 Priest [75mm]",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

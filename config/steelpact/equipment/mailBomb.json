@@ -1,0 +1,10 @@
+{
+  "itemId": "mailBomb",
+  "fileName": "HERO mailbomb.txt",
+  "name": "Mail Bombs",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

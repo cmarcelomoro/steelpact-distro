@@ -1,0 +1,10 @@
+{
+  "itemId": "280obice",
+  "fileName": "NG 280mm mortar italy.txt",
+  "name": "Obice da 280",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_WW2_Plane_B17G_1D",
+  "fileName": "T1T B-17G.txt",
+  "name": "Boeing B-17G",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

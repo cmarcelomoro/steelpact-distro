@@ -1,0 +1,10 @@
+{
+  "itemId": "128mmNavalShell",
+  "fileName": "NS 128mmNavalShell.txt",
+  "name": "12.8cm Naval Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

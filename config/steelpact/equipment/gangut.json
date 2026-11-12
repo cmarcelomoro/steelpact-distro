@@ -1,0 +1,10 @@
+{
+  "itemId": "gangut",
+  "fileName": "T0S gangut.txt",
+  "name": "Gangut (1915)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

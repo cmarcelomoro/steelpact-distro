@@ -1,0 +1,10 @@
+{
+  "itemId": "anm27mm",
+  "fileName": "VEH Browning ANM2.txt",
+  "name": ".30 AN/M2",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "katyushaLauncher",
+  "fileName": "VEH Katyusha.txt",
+  "name": "16-M-8 \"Katyusha\" Launcher",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

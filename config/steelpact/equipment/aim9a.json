@@ -1,0 +1,10 @@
+{
+  "itemId": "aim9a",
+  "fileName": "AAM AIM9A.txt",
+  "name": "AIM-9B Sidewinder",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

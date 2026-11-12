@@ -1,0 +1,10 @@
+{
+  "itemId": "MG34Tank",
+  "fileName": "MG MG34 Tank.txt",
+  "name": "MG-34 Tank Version",
+  "folder": "guns",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

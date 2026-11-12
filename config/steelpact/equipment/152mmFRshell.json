@@ -1,0 +1,10 @@
+{
+  "itemId": "152mmFRshell",
+  "fileName": "NS 152mmShell frenchy.txt",
+  "name": "152mm French SAPC Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

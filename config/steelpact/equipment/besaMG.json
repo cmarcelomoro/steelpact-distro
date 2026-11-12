@@ -1,0 +1,10 @@
+{
+  "itemId": "besaMG",
+  "fileName": "MG Besa MG.txt",
+  "name": "Besa Machinegun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "PanzerFaust",
+  "fileName": "AT Panzerfaust.txt",
+  "name": "PanzerFaust",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

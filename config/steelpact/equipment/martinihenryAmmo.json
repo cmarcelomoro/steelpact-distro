@@ -1,0 +1,10 @@
+{
+  "itemId": "martinihenryAmmo",
+  "fileName": "SAR gmartininiharny.txt",
+  "name": ".577 Boxer-Henry Cartridges",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

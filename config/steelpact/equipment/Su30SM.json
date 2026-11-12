@@ -1,0 +1,10 @@
+{
+  "itemId": "Su30SM",
+  "fileName": "T4F SU30 - Russia.txt",
+  "name": "SU-30SM (2015)",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

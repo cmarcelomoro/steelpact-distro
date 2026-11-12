@@ -1,0 +1,10 @@
+{
+  "itemId": "jeanbart2",
+  "fileName": "T1S Richelieu.txt",
+  "name": "Jean Bart",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "128mmGun",
+  "fileName": "128mm passenger gun.txt",
+  "name": "12.8 cm Pak 44",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

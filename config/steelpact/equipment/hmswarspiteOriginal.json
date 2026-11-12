@@ -1,0 +1,10 @@
+{
+  "itemId": "hmswarspiteOriginal",
+  "fileName": "T0S HMSWarspite original.txt",
+  "name": "HMS Warspite 03",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

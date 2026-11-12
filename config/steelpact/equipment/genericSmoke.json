@@ -1,0 +1,10 @@
+{
+  "itemId": "genericSmoke",
+  "fileName": "TSA Generic Smoke.txt",
+  "name": "Smoke Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

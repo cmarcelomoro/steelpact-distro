@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Vehicle_HigginsBoat_1A",
+  "fileName": "T1S HigginsBoat.txt",
+  "name": "Landing Craft",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

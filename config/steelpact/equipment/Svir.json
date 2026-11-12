@@ -1,0 +1,10 @@
+{
+  "itemId": "Svir",
+  "fileName": "ATGM 125mm Svir.txt",
+  "name": "9M119 Svir",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "s5rocketCanister",
+  "fileName": "MGH S-5 pod shrapnel.txt",
+  "name": "UB-16-57 Rocket Pod (Flechettes)",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

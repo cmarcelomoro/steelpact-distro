@@ -1,0 +1,10 @@
+{
+  "itemId": "Puma",
+  "fileName": "T2p5T SA330.txt",
+  "name": "Aerospatiale SA 330 Puma",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

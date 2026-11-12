@@ -1,0 +1,10 @@
+{
+  "itemId": "canberra",
+  "fileName": "T2T B-57B.txt",
+  "name": "English Elecric Canberra",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

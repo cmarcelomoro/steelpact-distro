@@ -1,0 +1,10 @@
+{
+  "itemId": "hispanoAmmo",
+  "fileName": "AAMG 20mmHispano.txt",
+  "name": "60 Round 20x110mm Hispano Magazine",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "subTorpWW2",
+  "fileName": "NS ww2 generi 533 torp non passengergun.txt",
+  "name": "Generic 533mm Submarine Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

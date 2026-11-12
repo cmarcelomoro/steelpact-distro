@@ -1,0 +1,10 @@
+{
+  "itemId": "B-1B",
+  "fileName": "T4T B-1B.txt",
+  "name": "Rockwell B-1B Lancer",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

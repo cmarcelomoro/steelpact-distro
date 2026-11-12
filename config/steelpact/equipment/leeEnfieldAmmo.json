@@ -1,0 +1,10 @@
+{
+  "itemId": "leeEnfieldAmmo",
+  "fileName": "SAR LeeEnfieldAmmo.txt",
+  "name": "x2 5 Round .303 British Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

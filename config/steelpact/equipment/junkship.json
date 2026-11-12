@@ -1,0 +1,10 @@
+{
+  "itemId": "junkship",
+  "fileName": "T0S JunkShip.txt",
+  "name": "Junk Ship",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "75MMlee",
+  "fileName": "75mm Lee.txt",
+  "name": "75mm M3 Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

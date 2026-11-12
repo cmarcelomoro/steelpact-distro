@@ -1,0 +1,10 @@
+{
+  "itemId": "460mmFLEET",
+  "fileName": "NG 460mm.txt",
+  "name": "46cm Type 94 Triple Mount",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

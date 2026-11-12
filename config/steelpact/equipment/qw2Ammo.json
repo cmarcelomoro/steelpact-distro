@@ -1,0 +1,10 @@
+{
+  "itemId": "qw2Ammo",
+  "fileName": "SAAA QW2.txt",
+  "name": "QW-2 Vanguard Missile Case (1990s)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

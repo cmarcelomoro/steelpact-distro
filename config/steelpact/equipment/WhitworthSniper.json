@@ -1,0 +1,10 @@
+{
+  "itemId": "WhitworthSniper",
+  "fileName": "SR Whitworth Sniper.txt",
+  "name": "Whitworth Rifle",
+  "folder": "guns",
+  "category": "SR",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

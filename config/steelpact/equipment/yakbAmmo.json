@@ -1,0 +1,10 @@
+{
+  "itemId": "yakbAmmo",
+  "fileName": "MG 12mm OPFOR - yak.txt",
+  "name": "12.7mm Yak B Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

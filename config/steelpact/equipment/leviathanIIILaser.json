@@ -1,0 +1,10 @@
+{
+  "itemId": "leviathanIIILaser",
+  "fileName": "T6M LeviathanIIILaser.txt",
+  "name": "ILL-11 Weishaupt III L",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

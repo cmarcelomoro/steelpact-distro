@@ -1,0 +1,10 @@
+{
+  "itemId": "carlgustafHEAmmo",
+  "fileName": "SAAT Carl Gustaf Nuke.txt",
+  "name": "FFV502 HEDP Ammunition",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

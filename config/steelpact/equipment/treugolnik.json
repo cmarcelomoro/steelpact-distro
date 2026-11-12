@@ -1,0 +1,10 @@
+{
+  "itemId": "treugolnik",
+  "fileName": "AA treugolnik.txt",
+  "name": "9M311 Treugolnik",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

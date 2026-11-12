@@ -1,0 +1,10 @@
+{
+  "itemId": "lav3",
+  "fileName": "T4T LAV-3.txt",
+  "name": "LAV-III",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

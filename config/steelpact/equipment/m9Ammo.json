@@ -1,0 +1,10 @@
+{
+  "itemId": "m9Ammo",
+  "fileName": "SAP M9Ammo.txt",
+  "name": "15 Round 9x19mm Parabellum Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

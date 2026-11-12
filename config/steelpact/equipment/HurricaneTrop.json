@@ -1,0 +1,10 @@
+{
+  "itemId": "HurricaneTrop",
+  "fileName": "T0F Hurricane trop.txt",
+  "name": "Hawker Hurricane Mk.IIB/Trop",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

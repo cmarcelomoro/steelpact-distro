@@ -1,0 +1,10 @@
+{
+  "itemId": "panzer3f",
+  "fileName": "T0p5M Pz3F.txt",
+  "name": "Panzerkampfwagen IV Ausf. F",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

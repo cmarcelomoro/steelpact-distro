@@ -1,0 +1,10 @@
+{
+  "itemId": "vmrfMurmansk",
+  "fileName": "T0S Murmansk.txt",
+  "name": "Murmansk",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

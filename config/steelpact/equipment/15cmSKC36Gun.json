@@ -1,0 +1,10 @@
+{
+  "itemId": "15cmSKC36Gun",
+  "fileName": "NG 15cmSKC36.txt",
+  "name": "15cm TBts KC/36 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

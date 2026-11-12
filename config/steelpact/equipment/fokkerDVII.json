@@ -1,0 +1,10 @@
+{
+  "itemId": "fokkerDVII",
+  "fileName": "T0F Fokker D7.txt",
+  "name": "Fokker D.VII",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

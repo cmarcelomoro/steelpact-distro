@@ -1,0 +1,10 @@
+{
+  "itemId": "SeaSparrowLauncher",
+  "fileName": "AA Sea Sparrow Launcher.txt",
+  "name": "Mark 29 Missile Launcher for RIM-7 Sea Sparrow",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

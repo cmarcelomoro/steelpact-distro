@@ -1,0 +1,10 @@
+{
+  "itemId": "navalBombardmentShellMedium",
+  "fileName": "NS Med Bombardment.txt",
+  "name": "134mm - 165mm Bombardment Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

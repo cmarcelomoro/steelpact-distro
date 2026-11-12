@@ -1,0 +1,10 @@
+{
+  "itemId": "SKSammo",
+  "fileName": "SAR SKS Ammo.txt",
+  "name": "7.62x39mm WARSAW 10 Rounds",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

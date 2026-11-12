@@ -1,0 +1,10 @@
+{
+  "itemId": "Stalin1944",
+  "fileName": "T1H IS-2.txt",
+  "name": "IS-2 Mod. 1944",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

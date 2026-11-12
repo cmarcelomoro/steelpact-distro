@@ -1,0 +1,10 @@
+{
+  "itemId": "5in38Mk30Gun",
+  "fileName": "5in38Mk30Gun.txt",
+  "name": "5\"/38 Mk.30 Single Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

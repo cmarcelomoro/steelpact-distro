@@ -1,0 +1,10 @@
+{
+  "itemId": "SenkanYamato",
+  "fileName": "T1p5S Yamato.txt",
+  "name": "Battleship Yamato",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

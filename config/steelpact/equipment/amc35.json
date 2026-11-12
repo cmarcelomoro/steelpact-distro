@@ -1,0 +1,10 @@
+{
+  "itemId": "amc35",
+  "fileName": "T1L AMC35.txt",
+  "name": "Automitrailleuse de Combat Renault modèle 1935",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

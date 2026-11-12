@@ -1,0 +1,10 @@
+{
+  "itemId": "rh202Gun",
+  "fileName": "20mm RH202.txt",
+  "name": "Rheinmetall Mk 20 Rh-202",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

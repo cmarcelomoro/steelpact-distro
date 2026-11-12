@@ -1,0 +1,10 @@
+{
+  "itemId": "ho155ammo",
+  "fileName": "AAMG 30mm ho155.txt",
+  "name": "60 Round 20x94mm Ho-05 Magazine",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

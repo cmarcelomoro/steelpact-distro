@@ -1,0 +1,10 @@
+{
+  "itemId": "chinaRocketAmmo",
+  "fileName": "NS Decoy Rockets.txt",
+  "name": "Decoy Rockets",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

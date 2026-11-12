@@ -1,0 +1,10 @@
+{
+  "itemId": "75mmAPFrance",
+  "fileName": "TSM 75mmAP French.txt",
+  "name": "75mm Mle1910M APHE",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

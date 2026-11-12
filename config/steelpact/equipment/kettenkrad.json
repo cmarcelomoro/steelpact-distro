@@ -1,0 +1,10 @@
+{
+  "itemId": "kettenkrad",
+  "fileName": "T0T Kettenkrad.txt",
+  "name": "Sd.Kfz.2 Kettenkrad HK 101",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

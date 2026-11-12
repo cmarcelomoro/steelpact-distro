@@ -1,0 +1,10 @@
+{
+  "itemId": "bergmannMG15",
+  "fileName": "MG Bergmann MG15.txt",
+  "name": "Bergmann Maschinengewehr 15nA",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

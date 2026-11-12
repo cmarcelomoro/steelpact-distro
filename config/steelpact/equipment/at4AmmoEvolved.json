@@ -1,0 +1,10 @@
+{
+  "itemId": "at4AmmoEvolved",
+  "fileName": "SAAT AT4Ammo high pen.txt",
+  "name": "AT4 CS HP Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

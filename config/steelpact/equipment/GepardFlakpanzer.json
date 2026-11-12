@@ -1,0 +1,10 @@
+{
+  "itemId": "GepardFlakpanzer",
+  "fileName": "T3A Gepard.txt",
+  "name": "Flugabwehrkanonenpanzer Gepard",
+  "folder": "vehicles",
+  "category": "SPAA",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

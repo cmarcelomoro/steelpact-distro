@@ -1,0 +1,10 @@
+{
+  "itemId": "m240box2000",
+  "fileName": "SAR M240C Box.txt",
+  "name": "NATO 7.62x51mm 2000rd Box",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

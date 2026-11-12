@@ -1,0 +1,10 @@
+{
+  "itemId": "gayFrigate",
+  "fileName": "T1S gay frigate.txt",
+  "name": "Generic Steam Frigate",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

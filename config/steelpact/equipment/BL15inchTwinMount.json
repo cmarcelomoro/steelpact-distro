@@ -1,0 +1,10 @@
+{
+  "itemId": "BL15inchTwinMount",
+  "fileName": "T2A BL15inchMk1.txt",
+  "name": "BL 15inch Twin-Gun Turret Mk.1",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

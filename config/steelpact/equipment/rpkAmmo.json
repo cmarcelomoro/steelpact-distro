@@ -1,0 +1,10 @@
+{
+  "itemId": "rpkAmmo",
+  "fileName": "SAR RPKAmmo.txt",
+  "name": "40rnd RPK Steel Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

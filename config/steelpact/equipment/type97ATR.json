@@ -1,0 +1,10 @@
+{
+  "itemId": "type97ATR",
+  "fileName": "AT Type97 ATR.txt",
+  "name": "Type 97 九七式自動砲",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

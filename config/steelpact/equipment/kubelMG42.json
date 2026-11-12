@@ -1,0 +1,10 @@
+{
+  "itemId": "kubelMG42",
+  "fileName": "T0T Kubelwagon.txt",
+  "name": "Type 82 Kübelwagen (MG-42)",
+  "folder": "vehicles",
+  "category": "APC",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "willaimsGun",
+  "fileName": "T-1A Williams gun.txt",
+  "name": "Williams Gun",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "webleyAmmo",
+  "fileName": "SAP WebleyAmmo.txt",
+  "name": "6 Round .455 Webley Mk II Cylinder",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

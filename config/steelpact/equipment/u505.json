@@ -1,0 +1,10 @@
+{
+  "itemId": "u505",
+  "fileName": "T1S u-505.txt",
+  "name": "U-505",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "410mmshellBomb",
+  "fileName": "NS 410mmshellBomb.txt",
+  "name": "Type 99 No.80 Kai 5 AP Bomb",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

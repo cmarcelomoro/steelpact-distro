@@ -1,0 +1,10 @@
+{
+  "itemId": "Type89Smokei",
+  "fileName": "Type 89 Smoke.txt",
+  "name": "Type89Smoke",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

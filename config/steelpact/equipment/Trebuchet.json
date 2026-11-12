@@ -1,0 +1,10 @@
+{
+  "itemId": "Trebuchet",
+  "fileName": "T-3A Trebuchet.txt",
+  "name": "Trebuchet",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

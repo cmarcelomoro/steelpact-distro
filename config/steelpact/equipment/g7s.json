@@ -1,0 +1,10 @@
+{
+  "itemId": "g7s",
+  "fileName": "NS guided torpedo german.txt",
+  "name": "g7s",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

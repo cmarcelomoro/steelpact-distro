@@ -1,0 +1,10 @@
+{
+  "itemId": "wz35AmmoAT",
+  "fileName": "SAAT WZ35Ammo.txt",
+  "name": "7.92×94mm Patronen PzB-39 Cartridges",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

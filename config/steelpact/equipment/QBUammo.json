@@ -1,0 +1,10 @@
+{
+  "itemId": "QBUammo",
+  "fileName": "SAR QBU88Ammo.txt",
+  "name": "5.8x42 DBP88 10 Round QBU-88 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

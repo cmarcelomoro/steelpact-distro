@@ -1,0 +1,10 @@
+{
+  "itemId": "m1892revolver",
+  "fileName": "HG M1892 Revolver.txt",
+  "name": "Modele 1892 revolver",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

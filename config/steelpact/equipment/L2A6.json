@@ -1,0 +1,10 @@
+{
+  "itemId": "L2A6",
+  "fileName": "T4M Leopard2A6.txt",
+  "name": "Leopard 2A6 (2001)",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

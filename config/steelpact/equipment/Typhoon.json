@@ -1,0 +1,10 @@
+{
+  "itemId": "Typhoon",
+  "fileName": "T4F EurofighterTyphoon.txt",
+  "name": "Eurofighter Typhoon",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

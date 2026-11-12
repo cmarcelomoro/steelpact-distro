@@ -1,0 +1,10 @@
+{
+  "itemId": "BMP2APDS",
+  "fileName": "TS 30mmAPDS.txt",
+  "name": "3UBR8 30mm APDS-T Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

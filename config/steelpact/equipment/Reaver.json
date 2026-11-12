@@ -1,0 +1,10 @@
+{
+  "itemId": "Reaver",
+  "fileName": "T6F Reaver.txt",
+  "name": "SF-2B Reaver",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "m240box",
+  "fileName": "SAR M240Box.txt",
+  "name": "NATO 7.62x51mm 100rd Box",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

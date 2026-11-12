@@ -1,0 +1,10 @@
+{
+  "itemId": "LaserRifle",
+  "fileName": "AR LaserRifle.txt",
+  "name": "AB24",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

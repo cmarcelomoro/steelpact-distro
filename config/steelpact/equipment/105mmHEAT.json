@@ -1,0 +1,10 @@
+{
+  "itemId": "105mmHEAT",
+  "fileName": "TSM 105mmHEAT royal ordnance.txt",
+  "name": "105mm M456 HEAT",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

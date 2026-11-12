@@ -1,0 +1,10 @@
+{
+  "itemId": "QBB",
+  "fileName": "SAR QBB Ammo.txt",
+  "name": "5.8x42mm DBP87 ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

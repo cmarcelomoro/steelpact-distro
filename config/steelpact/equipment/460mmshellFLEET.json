@@ -1,0 +1,10 @@
+{
+  "itemId": "460mmshellFLEET",
+  "fileName": "NS 460mmShell.txt",
+  "name": "46cm Naval Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

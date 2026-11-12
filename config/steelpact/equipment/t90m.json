@@ -1,0 +1,10 @@
+{
+  "itemId": "t90m",
+  "fileName": "T5M T90M.txt",
+  "name": "T-90M",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

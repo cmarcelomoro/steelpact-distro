@@ -1,0 +1,10 @@
+{
+  "itemId": "trenchWhistle",
+  "fileName": "AT Trench Whistle.txt",
+  "name": "Trench Whistle",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

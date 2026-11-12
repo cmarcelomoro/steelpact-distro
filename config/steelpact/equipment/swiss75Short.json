@@ -1,0 +1,10 @@
+{
+  "itemId": "swiss75Short",
+  "fileName": "TSM 75mmAP swiss howitzer.txt",
+  "name": "75mm slpgr m/39 Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

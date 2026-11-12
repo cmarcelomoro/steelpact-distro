@@ -1,0 +1,10 @@
+{
+  "itemId": "AK726",
+  "fileName": "76mm AK726.txt",
+  "name": "76.2mm/59 AK-726",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

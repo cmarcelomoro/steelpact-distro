@@ -1,0 +1,10 @@
+{
+  "itemId": "SAFAT12",
+  "fileName": "VEH 12mm Breda SAFAT heavy.txt",
+  "name": "Breda-SAFAT Heavy Machine Gun",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

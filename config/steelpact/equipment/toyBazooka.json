@@ -1,0 +1,10 @@
+{
+  "itemId": "toyBazooka",
+  "fileName": "Toy Bazooka.txt",
+  "name": "Toy Bazooka",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

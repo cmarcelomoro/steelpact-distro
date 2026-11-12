@@ -1,0 +1,10 @@
+{
+  "itemId": "genericDDAllied",
+  "fileName": "T0p5S GenericDDAllied.txt",
+  "name": "Generic Allied Destroyer",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

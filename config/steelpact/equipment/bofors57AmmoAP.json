@@ -1,0 +1,10 @@
+{
+  "itemId": "bofors57AmmoAP",
+  "fileName": "Bofors57AmmoAP.txt",
+  "name": "Bofors 57mm Ammo SAP",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

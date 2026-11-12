@@ -1,0 +1,10 @@
+{
+  "itemId": "Bremerton",
+  "fileName": "T3SS Bremerton.txt",
+  "name": "Los Angeles Class Submarine (1976)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

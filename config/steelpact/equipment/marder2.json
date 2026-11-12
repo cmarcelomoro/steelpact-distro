@@ -1,0 +1,10 @@
+{
+  "itemId": "marder2",
+  "fileName": "T1T MarderII.txt",
+  "name": "SdKfz 131/132 Marder II",
+  "folder": "vehicles",
+  "category": "IFV",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

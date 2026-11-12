@@ -1,0 +1,10 @@
+{
+  "itemId": "M60tankERA",
+  "fileName": "T3M M60 rise.txt",
+  "name": "M60A3 Rise (P)",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

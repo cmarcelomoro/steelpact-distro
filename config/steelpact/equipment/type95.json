@@ -1,0 +1,10 @@
+{
+  "itemId": "type95",
+  "fileName": "NS japan 533 torp sub.txt",
+  "name": "53.3cm Type 95 Submarine Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

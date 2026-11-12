@@ -1,0 +1,10 @@
+{
+  "itemId": "m47",
+  "fileName": "AT M47.txt",
+  "name": "M47 Dragon",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

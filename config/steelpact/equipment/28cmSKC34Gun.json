@@ -1,0 +1,10 @@
+{
+  "itemId": "28cmSKC34Gun",
+  "fileName": "NG 28cmSKC34.txt",
+  "name": "28cm SK C/34 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

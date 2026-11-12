@@ -1,0 +1,10 @@
+{
+  "itemId": "RobertLee",
+  "fileName": "T2SS Robert E Lee.txt",
+  "name": "USS Robert E. Lee SSBN-601",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

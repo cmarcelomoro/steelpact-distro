@@ -1,0 +1,10 @@
+{
+  "itemId": "BMP2M",
+  "fileName": "T4p5T BMP-2M.txt",
+  "name": "BMP-2M Berezhok",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

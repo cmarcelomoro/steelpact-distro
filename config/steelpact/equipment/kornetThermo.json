@@ -1,0 +1,10 @@
+{
+  "itemId": "kornetThermo",
+  "fileName": "ATGM Kornet thermobaric.txt",
+  "name": "9M133FM-1 Kornet 152mm Thermobaric Anti-Tank Guided Missile",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

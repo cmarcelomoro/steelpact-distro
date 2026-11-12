@@ -1,0 +1,10 @@
+{
+  "itemId": "HimarsCanister",
+  "fileName": "TSA 227mm Cluster.txt",
+  "name": "227mm M30 Cluster Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

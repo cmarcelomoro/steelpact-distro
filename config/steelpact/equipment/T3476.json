@@ -1,0 +1,10 @@
+{
+  "itemId": "T3476",
+  "fileName": "T1M T-34-76.txt",
+  "name": "T-34/76 Mod. 1942",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

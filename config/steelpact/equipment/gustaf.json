@@ -1,0 +1,10 @@
+{
+  "itemId": "gustaf",
+  "fileName": "AT Carl Gustaf.txt",
+  "name": "Carl-Gustaf M2",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

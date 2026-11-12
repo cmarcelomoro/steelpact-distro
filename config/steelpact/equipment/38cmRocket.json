@@ -1,0 +1,10 @@
+{
+  "itemId": "38cmRocket",
+  "fileName": "TS 38cm Death Rocket.txt",
+  "name": "38 cm R Spgr.4581",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

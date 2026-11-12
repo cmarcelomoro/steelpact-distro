@@ -1,0 +1,10 @@
+{
+  "itemId": "J-11B",
+  "fileName": "T4F J-11B.txt",
+  "name": "Shenyang J-11B Flanker-L",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

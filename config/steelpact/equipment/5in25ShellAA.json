@@ -1,0 +1,10 @@
+{
+  "itemId": "5in25ShellAA",
+  "fileName": "NS 5in25ShellAA.txt",
+  "name": "5\" Shell AAC",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

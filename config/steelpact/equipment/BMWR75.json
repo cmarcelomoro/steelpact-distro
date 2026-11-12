@@ -1,0 +1,10 @@
+{
+  "itemId": "BMWR75",
+  "fileName": "T0T BMWR75.txt",
+  "name": "BMW R75",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

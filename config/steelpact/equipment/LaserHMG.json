@@ -1,0 +1,10 @@
+{
+  "itemId": "LaserHMG",
+  "fileName": "VEH Laser HMG.txt",
+  "name": "MGB-36",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

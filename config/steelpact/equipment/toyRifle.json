@@ -1,0 +1,10 @@
+{
+  "itemId": "toyRifle",
+  "fileName": "TOY M16.txt",
+  "name": "Toy Assault Rifle",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

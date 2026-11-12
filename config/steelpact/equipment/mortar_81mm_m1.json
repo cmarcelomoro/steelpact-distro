@@ -1,0 +1,10 @@
+{
+  "itemId": "mortar_81mm_m1",
+  "fileName": "T1A 81mm Generic Mortar.txt",
+  "name": "Generic 81mm Mortar",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "4inchMkIXGun",
+  "fileName": "NG 4inMkIXGun.txt",
+  "name": "4\"/45 BL Mk.IX Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

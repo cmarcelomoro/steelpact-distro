@@ -1,0 +1,10 @@
+{
+  "itemId": "AGM114KLaser",
+  "fileName": "ATGM AGM114K - Laser Guided.txt",
+  "name": "AGM-114K Hellfire II (Semi-Active Laser-Guidance)",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

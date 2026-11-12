@@ -1,0 +1,10 @@
+{
+  "itemId": "piaggio",
+  "fileName": "T1T Piaggio.txt",
+  "name": "Piaggio P.108 Bombardiere",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

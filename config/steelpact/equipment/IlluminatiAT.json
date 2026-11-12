@@ -1,0 +1,10 @@
+{
+  "itemId": "IlluminatiAT",
+  "fileName": "AT Illuminati Rifle.txt",
+  "name": "ILLAT",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

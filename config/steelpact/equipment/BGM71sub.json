@@ -1,0 +1,10 @@
+{
+  "itemId": "BGM71sub",
+  "fileName": "ATGM BGM71E submunition.txt",
+  "name": "BGM-71E submunition",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

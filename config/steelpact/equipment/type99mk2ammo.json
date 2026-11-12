@@ -1,0 +1,10 @@
+{
+  "itemId": "type99mk2ammo",
+  "fileName": "AAMG 20mm type99mk2 l107.txt",
+  "name": "200 Round 20x101mm Type 99 Mk2 Magazine",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

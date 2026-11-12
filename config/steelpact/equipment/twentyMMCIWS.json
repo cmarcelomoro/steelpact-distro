@@ -1,0 +1,10 @@
+{
+  "itemId": "twentyMMCIWS",
+  "fileName": "VEH 20mm Vulcan.txt",
+  "name": "General Electric M61 Vulcan",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "rpg28RocketSub",
+  "fileName": "SAAT PG28 - Sub.txt",
+  "name": "PG-28 Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

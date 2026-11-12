@@ -1,0 +1,10 @@
+{
+  "itemId": "battleRifleTracer50",
+  "fileName": "SAR 7.62 g3 drum tracer.txt",
+  "name": "NATO 7.62x51 M62 Tracer 50rd Drum Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "cr32",
+  "fileName": "T0F CR32.txt",
+  "name": "Fiat CR.32bis",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "356mmshell",
+  "fileName": "NS 356mmshell.txt",
+  "name": "35.6cm Naval Shells",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

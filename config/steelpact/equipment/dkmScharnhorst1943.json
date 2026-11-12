@@ -1,0 +1,10 @@
+{
+  "itemId": "dkmScharnhorst1943",
+  "fileName": "T1S Scharnhorst1943.txt",
+  "name": "DKM Scharnhorst",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

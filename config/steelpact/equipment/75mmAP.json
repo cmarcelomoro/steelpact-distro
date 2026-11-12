@@ -1,0 +1,10 @@
+{
+  "itemId": "75mmAP",
+  "fileName": "TSM 75mmAP.txt",
+  "name": "75mm M61 shot APBC/HE-T",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

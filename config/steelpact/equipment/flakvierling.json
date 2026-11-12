@@ -1,0 +1,10 @@
+{
+  "itemId": "flakvierling",
+  "fileName": "T1A Flakvierling.txt",
+  "name": "2 cm Flakvierling 38",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

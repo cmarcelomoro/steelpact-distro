@@ -1,0 +1,10 @@
+{
+  "itemId": "vickerItaly37",
+  "fileName": "37mm Italy Fiat.txt",
+  "name": "Vickers-Terni 37/40 mod.18",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

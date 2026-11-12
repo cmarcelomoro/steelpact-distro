@@ -1,0 +1,10 @@
+{
+  "itemId": "reppu",
+  "fileName": "T1F A7M2.txt",
+  "name": "Mitsubishi A7M2 烈風",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

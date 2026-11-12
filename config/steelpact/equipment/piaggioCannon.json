@@ -1,0 +1,10 @@
+{
+  "itemId": "piaggioCannon",
+  "fileName": "T1T PiaggioCannon.txt",
+  "name": "Piaggio P.108A Artigliere",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

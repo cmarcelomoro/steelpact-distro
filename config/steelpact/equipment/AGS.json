@@ -1,0 +1,10 @@
+{
+  "itemId": "AGS",
+  "fileName": "155mm ags.txt",
+  "name": "155mm \"Advanced\" Gun System",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "8in45Mk6Gun",
+  "fileName": "NG 8in45Mk6.txt",
+  "name": "8\"/45 Mk.6 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

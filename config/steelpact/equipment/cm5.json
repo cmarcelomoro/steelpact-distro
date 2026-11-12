@@ -1,0 +1,10 @@
+{
+  "itemId": "cm5",
+  "fileName": "100mm CM5.txt",
+  "name": "100mm/70 CM-5",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

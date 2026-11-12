@@ -1,0 +1,10 @@
+{
+  "itemId": "twelveCalRU",
+  "fileName": "MG 12mm OPFOR.txt",
+  "name": "12.7mm BZT NSV/DSHK/KORD Ammo Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

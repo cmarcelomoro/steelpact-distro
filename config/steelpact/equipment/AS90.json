@@ -1,0 +1,10 @@
+{
+  "itemId": "AS90",
+  "fileName": "T4A AS-90.txt",
+  "name": "AS-90",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

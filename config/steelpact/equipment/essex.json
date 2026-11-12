@@ -1,0 +1,10 @@
+{
+  "itemId": "essex",
+  "fileName": "T1S Eh Sex.txt",
+  "name": "USS Essex",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "springfieldAmmo6",
+  "fileName": "SAR  M1917 Enfield Ammo.txt",
+  "name": "6 Round 30-06 Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

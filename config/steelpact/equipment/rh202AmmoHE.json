@@ -1,0 +1,10 @@
+{
+  "itemId": "rh202AmmoHE",
+  "fileName": "TS 20mm HE RH202.txt",
+  "name": "DM81 20x139mm HEI-T Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

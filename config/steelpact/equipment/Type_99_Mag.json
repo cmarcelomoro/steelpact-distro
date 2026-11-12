@@ -1,0 +1,10 @@
+{
+  "itemId": "Type_99_Mag",
+  "fileName": "SAR Type99Mag.txt",
+  "name": "7.7x58 Arisaka x30 for Type 99",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

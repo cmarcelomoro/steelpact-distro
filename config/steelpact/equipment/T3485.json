@@ -1,0 +1,10 @@
+{
+  "itemId": "T3485",
+  "fileName": "T1M T-34-85.txt",
+  "name": "T-34/85",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "Prinz",
+  "fileName": "T1S Prinz Eugen.txt",
+  "name": "Prinz Eugen",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

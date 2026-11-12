@@ -1,0 +1,10 @@
+{
+  "itemId": "mpp12gaugeSlug",
+  "fileName": "SAS 12gauge modern Slug.txt",
+  "name": "12 Gauge Slug Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

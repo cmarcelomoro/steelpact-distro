@@ -1,0 +1,10 @@
+{
+  "itemId": "m79",
+  "fileName": "AT M79.txt",
+  "name": "M79 Grenade Launcher",
+  "folder": "guns",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

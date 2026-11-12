@@ -1,0 +1,10 @@
+{
+  "itemId": "kikka",
+  "fileName": "T1F Kikka.txt",
+  "name": "Nakajima 橘花",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

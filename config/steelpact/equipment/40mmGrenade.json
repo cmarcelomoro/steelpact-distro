@@ -1,0 +1,10 @@
+{
+  "itemId": "40mmGrenade",
+  "fileName": "MG AmmoNATO40mm.txt",
+  "name": "40mm M430A1 HEDP Granade Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

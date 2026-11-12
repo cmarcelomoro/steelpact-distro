@@ -1,0 +1,10 @@
+{
+  "itemId": "RPK3missile",
+  "fileName": "NS metel anti sub missiles.txt",
+  "name": "RPK-3 Metel ASW missiles",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

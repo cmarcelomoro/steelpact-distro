@@ -1,0 +1,10 @@
+{
+  "itemId": "PrinceOfWalesEvil",
+  "fileName": "EVIL T1S Modern Battleship.txt",
+  "name": "HMS Prince of Wales (Evil AI)",
+  "folder": "vehicles",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

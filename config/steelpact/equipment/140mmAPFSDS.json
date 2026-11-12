@@ -1,0 +1,10 @@
+{
+  "itemId": "140mmAPFSDS",
+  "fileName": "TS 140mm XM964.txt",
+  "name": "XM964 140mm APFSDS 2-Round Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

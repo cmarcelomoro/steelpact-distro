@@ -1,0 +1,10 @@
+{
+  "itemId": "mk103Ammo",
+  "fileName": "AAMG 30mm long mk103.txt",
+  "name": "70 Round 30x184mm Mk 103 Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

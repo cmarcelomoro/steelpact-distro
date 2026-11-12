@@ -1,0 +1,10 @@
+{
+  "itemId": "127mmVulcano",
+  "fileName": "NS 127mm vulcano.txt",
+  "name": "127mm Vulcano Guided Munition",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

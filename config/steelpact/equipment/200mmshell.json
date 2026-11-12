@@ -1,0 +1,10 @@
+{
+  "itemId": "200mmshell",
+  "fileName": "NS 203mmShell.txt",
+  "name": "20.3cm APC L/4,4 Naval Shell",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "bastionTandem",
+  "fileName": "ATGM 100mmBastionArkan.txt",
+  "name": "9M117M1 Arkan",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

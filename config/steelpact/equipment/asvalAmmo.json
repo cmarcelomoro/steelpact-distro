@@ -1,0 +1,10 @@
+{
+  "itemId": "asvalAmmo",
+  "fileName": "SAR ASVal Ammo.txt",
+  "name": "asval ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

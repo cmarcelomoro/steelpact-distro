@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Vehicle_GMCTruck_1A",
+  "fileName": "T0T GMCTruck.txt",
+  "name": "GMC Truck",
+  "folder": "vehicles",
+  "category": "APC",
+  "tier": 1,
+  "influence": 35,
+  "enabled": true
+}

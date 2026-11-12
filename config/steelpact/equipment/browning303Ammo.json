@@ -1,0 +1,10 @@
+{
+  "itemId": "browning303Ammo",
+  "fileName": "AAMG Browning 303.txt",
+  "name": "350 Round .303 British Browning Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

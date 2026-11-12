@@ -1,0 +1,10 @@
+{
+  "itemId": "BoysRifle",
+  "fileName": "AT Boys Rifle.txt",
+  "name": "Boys Rifle",
+  "folder": "guns",
+  "category": "AT",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

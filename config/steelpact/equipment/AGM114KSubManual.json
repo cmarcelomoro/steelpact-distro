@@ -1,0 +1,10 @@
+{
+  "itemId": "AGM114KSubManual",
+  "fileName": "ATGM AGM114K - Sub 2.txt",
+  "name": "sub",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

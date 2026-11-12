@@ -1,0 +1,10 @@
+{
+  "itemId": "ak725",
+  "fileName": "naval gun ak 725.txt",
+  "name": "AK-725 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

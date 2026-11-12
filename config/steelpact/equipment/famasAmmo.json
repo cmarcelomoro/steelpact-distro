@@ -1,0 +1,10 @@
+{
+  "itemId": "famasAmmo",
+  "fileName": "SAR 5.56x45mm NATO FAMAS 25ROUND.txt",
+  "name": "5.56x45mm NATO 25 Rounds",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

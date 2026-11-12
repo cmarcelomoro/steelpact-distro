@@ -1,0 +1,10 @@
+{
+  "itemId": "M18",
+  "fileName": "T1A M18.txt",
+  "name": "M18 Hellcat",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

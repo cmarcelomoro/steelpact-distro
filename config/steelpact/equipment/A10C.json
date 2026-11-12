@@ -1,0 +1,10 @@
+{
+  "itemId": "A10C",
+  "fileName": "T3T A-10C.txt",
+  "name": "Fairchild Republic A-10A Thunderbolt II",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

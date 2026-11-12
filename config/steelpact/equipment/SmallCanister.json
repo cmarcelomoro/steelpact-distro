@@ -1,0 +1,10 @@
+{
+  "itemId": "SmallCanister",
+  "fileName": "TSM Small Canister .txt",
+  "name": "Small Canister Shot",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

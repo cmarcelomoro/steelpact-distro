@@ -1,0 +1,10 @@
+{
+  "itemId": "P500",
+  "fileName": "NS P500 Bazalt.txt",
+  "name": "P-500 Bazalt",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

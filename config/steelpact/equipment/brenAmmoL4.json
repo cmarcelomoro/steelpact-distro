@@ -1,0 +1,10 @@
+{
+  "itemId": "brenAmmoL4",
+  "fileName": "SAR Bren L4 Ammo.txt",
+  "name": "Bren L4 30rd 7.62x51 M62 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "BM30Rocket",
+  "fileName": "TSA BM30 Rockets.txt",
+  "name": "9M55F 300mm Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

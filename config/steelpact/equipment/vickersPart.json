@@ -1,0 +1,10 @@
+{
+  "itemId": "vickersPart",
+  "fileName": "MG Vickers.txt",
+  "name": "Vickers - Vehicle Part",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

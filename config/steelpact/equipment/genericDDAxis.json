@@ -1,0 +1,10 @@
+{
+  "itemId": "genericDDAxis",
+  "fileName": "T0p5S GenericDDAxis.txt",
+  "name": "Generic Axis Destroyer",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

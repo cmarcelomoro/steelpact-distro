@@ -1,0 +1,10 @@
+{
+  "itemId": "203frenchy",
+  "fileName": "NG 20.3cm frenchy.txt",
+  "name": "203mm/50 Modèle 1929 gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

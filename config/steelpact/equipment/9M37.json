@@ -1,0 +1,10 @@
+{
+  "itemId": "9M37",
+  "fileName": "AA Strela10 SAM.txt",
+  "name": "9M37 Strela-10 Surface To Air Missile",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

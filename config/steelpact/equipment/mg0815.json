@@ -1,0 +1,10 @@
+{
+  "itemId": "mg0815",
+  "fileName": "MG MG0815.txt",
+  "name": "Maschinengewehr 08/15",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

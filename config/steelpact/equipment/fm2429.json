@@ -1,0 +1,10 @@
+{
+  "itemId": "fm2429",
+  "fileName": "MG FM24-29.txt",
+  "name": "Fusil-mitrailleur Modèle 1924 M29",
+  "folder": "guns",
+  "category": "MG",
+  "tier": 1,
+  "influence": 10,
+  "enabled": true
+}

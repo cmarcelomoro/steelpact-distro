@@ -1,0 +1,10 @@
+{
+  "itemId": "nusret",
+  "fileName": "T0S nusret.txt",
+  "name": "Nusret",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

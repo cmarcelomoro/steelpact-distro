@@ -1,0 +1,10 @@
+{
+  "itemId": "panzerClassic",
+  "fileName": "panpanzer.txt",
+  "name": "Classic Panzer",
+  "folder": "vehicles",
+  "category": "VEHICLE",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

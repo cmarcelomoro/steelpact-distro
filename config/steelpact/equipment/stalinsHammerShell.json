@@ -1,0 +1,10 @@
+{
+  "itemId": "stalinsHammerShell",
+  "fileName": "TS 203mmStalinDeath.txt",
+  "name": "F-625D 203mm High Explosive Death Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

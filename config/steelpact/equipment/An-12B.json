@@ -1,0 +1,10 @@
+{
+  "itemId": "An-12B",
+  "fileName": "T2T AN-12.txt",
+  "name": "Antonov An-12B Cub",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

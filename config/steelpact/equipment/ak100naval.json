@@ -1,0 +1,10 @@
+{
+  "itemId": "ak100naval",
+  "fileName": "naval gun ak 100.txt",
+  "name": "AK-100 Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

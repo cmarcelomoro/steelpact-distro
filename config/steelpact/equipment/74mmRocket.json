@@ -1,0 +1,10 @@
+{
+  "itemId": "74mmRocket",
+  "fileName": "Type 4 74mm Rocket.txt",
+  "name": "74x359mm AT Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

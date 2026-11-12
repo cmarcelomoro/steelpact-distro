@@ -1,0 +1,10 @@
+{
+  "itemId": "85mmAP",
+  "fileName": "TSM 85mmAP.txt",
+  "name": "85mm BR-365K APHE",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

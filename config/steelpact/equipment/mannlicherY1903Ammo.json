@@ -1,0 +1,10 @@
+{
+  "itemId": "mannlicherY1903Ammo",
+  "fileName": "SAR MannlicherY1903Ammo.txt",
+  "name": "5 Round 6.5x54mm Greek Stripper Clip",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

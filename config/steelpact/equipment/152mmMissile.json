@@ -1,0 +1,10 @@
+{
+  "itemId": "152mmMissile",
+  "fileName": "ATGM 152mmMissile.txt",
+  "name": "MGM-51 Shillelagh",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

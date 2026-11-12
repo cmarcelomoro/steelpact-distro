@@ -1,0 +1,10 @@
+{
+  "itemId": "mnBretagne",
+  "fileName": "T0S Bretagne.txt",
+  "name": "Bretagne (1916)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "hedgehogAmmo",
+  "fileName": "NS HedgehogAmmo.txt",
+  "name": "Hedgehog ASW Munitions",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

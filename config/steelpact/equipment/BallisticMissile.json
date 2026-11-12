@@ -1,0 +1,10 @@
+{
+  "itemId": "BallisticMissile",
+  "fileName": "TSA ScudConventionalMissile.txt",
+  "name": "R-17 Elbrus (Conventional Payload)",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

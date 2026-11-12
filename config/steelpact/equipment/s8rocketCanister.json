@@ -1,0 +1,10 @@
+{
+  "itemId": "s8rocketCanister",
+  "fileName": "MGH S-8 pod shrapnel.txt",
+  "name": "S-8S 80mm Flechette Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

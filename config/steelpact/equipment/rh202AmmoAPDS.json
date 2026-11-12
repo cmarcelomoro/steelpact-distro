@@ -1,0 +1,10 @@
+{
+  "itemId": "rh202AmmoAPDS",
+  "fileName": "TS 20mm APDS  RH202.txt",
+  "name": "DM63 20x139mm APDS-T Shells",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

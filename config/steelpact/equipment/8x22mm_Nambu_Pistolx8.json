@@ -1,0 +1,10 @@
+{
+  "itemId": "8x22mm_Nambu_Pistolx8",
+  "fileName": "SAP 8x22mm_Nambu_Pistol 8 round.txt",
+  "name": "8x22mm Nambu x 8 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

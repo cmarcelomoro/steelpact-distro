@@ -1,0 +1,10 @@
+{
+  "itemId": "madsenAmmo",
+  "fileName": "SAR madsenAmmo.txt",
+  "name": "30 Round 7.92x57mm Mauser Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

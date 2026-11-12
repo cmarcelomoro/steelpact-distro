@@ -1,0 +1,10 @@
+{
+  "itemId": "s75Ammo",
+  "fileName": "AA dvina.txt",
+  "name": "S-75 Dvina Missile",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

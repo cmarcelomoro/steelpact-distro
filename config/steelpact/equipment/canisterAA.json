@@ -1,0 +1,10 @@
+{
+  "itemId": "canisterAA",
+  "fileName": "NS AACanister.txt",
+  "name": "AA Canister Submunition",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

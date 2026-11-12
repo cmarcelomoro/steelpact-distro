@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Plane_ME262A_1B",
+  "fileName": "T1F Me-262.txt",
+  "name": "Messerschmidt Me 262A-1a Schwalbe",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

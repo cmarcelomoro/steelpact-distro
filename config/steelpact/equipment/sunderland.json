@@ -1,0 +1,10 @@
+{
+  "itemId": "sunderland",
+  "fileName": "T1T Sunderland.txt",
+  "name": "Short S.25 Sunderland",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

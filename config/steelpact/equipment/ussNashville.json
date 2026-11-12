@@ -1,0 +1,10 @@
+{
+  "itemId": "ussNashville",
+  "fileName": "T1S Nashville1941.txt",
+  "name": "USS Nashville CL-43",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

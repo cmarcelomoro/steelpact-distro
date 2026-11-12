@@ -1,0 +1,10 @@
+{
+  "itemId": "Mossberg590",
+  "fileName": "SG Mossberg 590.txt",
+  "name": "Mossberg 590",
+  "folder": "guns",
+  "category": "SG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

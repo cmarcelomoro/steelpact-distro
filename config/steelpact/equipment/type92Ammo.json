@@ -1,0 +1,10 @@
+{
+  "itemId": "type92Ammo",
+  "fileName": "SAR Type92Clips.txt",
+  "name": "30 Round 7.7x58mm Arisaka Machinegun Type 92 Clips",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "rpgAmmoHero",
+  "fileName": "HERO rpg ammo arcade balance.txt",
+  "name": "Arcadey RPG Ammo",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "120mmHEATleclerc",
+  "fileName": "TS 120mm heat leclerc.txt",
+  "name": "OCC 120 G1 120mm HEAT Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

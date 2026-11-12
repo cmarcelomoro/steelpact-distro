@@ -1,0 +1,10 @@
+{
+  "itemId": "MauserCannon",
+  "fileName": "27mm mauser.txt",
+  "name": "Mauser Bordkanone-27 Revolver Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

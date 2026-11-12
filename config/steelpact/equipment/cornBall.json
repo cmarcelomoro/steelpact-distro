@@ -1,0 +1,10 @@
+{
+  "itemId": "cornBall",
+  "fileName": "15cG Corned Ball and Match.txt",
+  "name": "Corned Gunpowder, Lead and Match",
+  "folder": "bullets",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

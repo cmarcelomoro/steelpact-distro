@@ -1,0 +1,10 @@
+{
+  "itemId": "5in25Gun",
+  "fileName": "NG 5in25Mk19Gun.txt",
+  "name": "5\"/25 Mk.40 Wet Single Mount",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

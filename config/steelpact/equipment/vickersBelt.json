@@ -1,0 +1,10 @@
+{
+  "itemId": "vickersBelt",
+  "fileName": "MG Vickers .303 api 250 Round Belt.txt",
+  "name": ".303 British 250 Round Machinegun Belt",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "HQ9",
+  "fileName": "NS HQ9.txt",
+  "name": "海红旗-9 (HQ9) Naval SAM",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

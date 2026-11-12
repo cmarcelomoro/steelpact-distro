@@ -1,0 +1,10 @@
+{
+  "itemId": "b38",
+  "fileName": "152mm B38.txt",
+  "name": "152mm/57 B-38 Pattern 1938",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

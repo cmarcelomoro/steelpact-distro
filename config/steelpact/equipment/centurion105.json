@@ -1,0 +1,10 @@
+{
+  "itemId": "centurion105",
+  "fileName": "T2M centurion 105.txt",
+  "name": "Centurion Mk.10 (1959)",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

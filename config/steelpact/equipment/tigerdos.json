@@ -1,0 +1,10 @@
+{
+  "itemId": "tigerdos",
+  "fileName": "T1H Tiger II.txt",
+  "name": "Panzerkampfwagen Tiger Ausf. B \"Königstiger\"",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

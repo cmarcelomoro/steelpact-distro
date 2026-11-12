@@ -1,0 +1,10 @@
+{
+  "itemId": "ho5",
+  "fileName": "VEH 20mm  Ho5 Cannon.txt",
+  "name": "Ho-05 Cannon",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

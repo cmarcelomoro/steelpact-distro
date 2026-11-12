@@ -1,0 +1,10 @@
+{
+  "itemId": "panther",
+  "fileName": "T1M Panther.txt",
+  "name": "Panzerkampfwagen V Panther Ausf. D",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

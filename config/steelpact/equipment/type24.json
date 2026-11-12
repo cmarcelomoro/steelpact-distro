@@ -1,0 +1,10 @@
+{
+  "itemId": "type24",
+  "fileName": "SR Type24China.txt",
+  "name": "Type Chiang Kai-shek rifle",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

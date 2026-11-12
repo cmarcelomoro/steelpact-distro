@@ -1,0 +1,10 @@
+{
+  "itemId": "bofors152mmGun",
+  "fileName": "NG 152mmBoforsGun.txt",
+  "name": "Bofors 152mm (6\") Gun M1930",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

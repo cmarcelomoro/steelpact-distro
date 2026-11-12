@@ -1,0 +1,10 @@
+{
+  "itemId": "5p5inchGunMkI",
+  "fileName": "NG 5.5inMkIGun.txt",
+  "name": "5.5-inch Mk.I Naval Gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

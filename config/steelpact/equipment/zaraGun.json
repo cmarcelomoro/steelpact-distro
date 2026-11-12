@@ -1,0 +1,10 @@
+{
+  "itemId": "zaraGun",
+  "fileName": "NG 20.3cmAnsaldo.txt",
+  "name": "Cannone da 203/53 Ansaldo",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

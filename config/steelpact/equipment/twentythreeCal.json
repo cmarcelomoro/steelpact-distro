@@ -1,0 +1,10 @@
+{
+  "itemId": "twentythreeCal",
+  "fileName": "AAMG 23mm gsh.txt",
+  "name": "23x115mm 500 Round Belt",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

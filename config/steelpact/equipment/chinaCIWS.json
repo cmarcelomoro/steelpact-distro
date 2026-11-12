@@ -1,0 +1,10 @@
+{
+  "itemId": "chinaCIWS",
+  "fileName": "china ciws.txt",
+  "name": "Type 730",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

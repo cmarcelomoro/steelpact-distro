@@ -1,0 +1,10 @@
+{
+  "itemId": "47mmType1",
+  "fileName": "VEH 47mm jap.txt",
+  "name": "47mm Type 1",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "m1Carbine",
+  "fileName": "BR M1Carbine.txt",
+  "name": "M1 Carbine",
+  "folder": "guns",
+  "category": "BR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "is7shell",
+  "fileName": "TSM 130mmAPCBC.txt",
+  "name": "130mm BR-482B APCBC",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "WW2_Plane_P51_1C",
+  "fileName": "T1F P-51.txt",
+  "name": "North American P-51D Mustang",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "57mmAPCR",
+  "fileName": "TSM 57mmAPCR British.txt",
+  "name": "57mm Shot, APCR, Mk 1T",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

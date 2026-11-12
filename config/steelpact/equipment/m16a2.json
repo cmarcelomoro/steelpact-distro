@@ -1,0 +1,10 @@
+{
+  "itemId": "m16a2",
+  "fileName": "AR M16A2.txt",
+  "name": "M16A2",
+  "folder": "guns",
+  "category": "AR",
+  "tier": 1,
+  "influence": 8,
+  "enabled": true
+}

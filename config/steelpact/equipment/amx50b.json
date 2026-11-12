@@ -1,0 +1,10 @@
+{
+  "itemId": "amx50b",
+  "fileName": "T2H AMX-50.txt",
+  "name": "AMX-50",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

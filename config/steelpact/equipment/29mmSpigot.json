@@ -1,0 +1,10 @@
+{
+  "itemId": "29mmSpigot",
+  "fileName": "TSA 290mm Spigot.txt",
+  "name": "Bomb, Demolition Number 1",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

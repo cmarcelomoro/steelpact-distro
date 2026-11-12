@@ -1,0 +1,10 @@
+{
+  "itemId": "ArtilleryNU",
+  "fileName": "TSA Generic Nuclear Artillery and trident submunition.txt",
+  "name": "Generic Nuclear Artillery Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

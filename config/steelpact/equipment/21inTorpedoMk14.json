@@ -1,0 +1,10 @@
+{
+  "itemId": "21inTorpedoMk14",
+  "fileName": "NS 21inTorpedoMk14.txt",
+  "name": "21\" Mk.14 Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

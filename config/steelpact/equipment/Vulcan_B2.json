@@ -1,0 +1,10 @@
+{
+  "itemId": "Vulcan_B2",
+  "fileName": "T2T Avro Vulcan.txt",
+  "name": "Avro Vulcan B2",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "M1A1abramsExport",
+  "fileName": "T4M M1A1 export.txt",
+  "name": "M1A1 Export",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "nlawAmmoSub",
+  "fileName": "ATGM NLAWAmmoSub.txt",
+  "name": "NLAW Missile SUb",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

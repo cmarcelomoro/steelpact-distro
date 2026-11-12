@@ -1,0 +1,10 @@
+{
+  "itemId": "BHPammo",
+  "fileName": "SAP 9mm 13 rounds.txt",
+  "name": "Browning HP ammo Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

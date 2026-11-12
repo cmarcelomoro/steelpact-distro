@@ -1,0 +1,10 @@
+{
+  "itemId": "TosRocket",
+  "fileName": "TSA TosRocket.txt",
+  "name": "220mm Thermobaric Rocket",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

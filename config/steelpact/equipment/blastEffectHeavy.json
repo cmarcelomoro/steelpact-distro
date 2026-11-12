@@ -1,0 +1,10 @@
+{
+  "itemId": "blastEffectHeavy",
+  "fileName": "TSA Generic heavy -Blast Effects.txt",
+  "name": "notAmmo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

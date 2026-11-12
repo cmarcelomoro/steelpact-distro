@@ -1,0 +1,10 @@
+{
+  "itemId": "61cmTorpShip",
+  "fileName": "NG 61cmTorpShip.txt",
+  "name": "61cm Torpedo Launcher",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

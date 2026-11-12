@@ -1,0 +1,10 @@
+{
+  "itemId": "5358Nuke",
+  "fileName": "NS 53 58 533 sub torp nuclear.txt",
+  "name": "533 mm 53-58 Nuclear Torpedo (1968)",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "twentyCal",
+  "fileName": "MG 20mm.txt",
+  "name": "20mm Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

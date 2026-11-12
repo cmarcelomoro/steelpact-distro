@@ -1,0 +1,10 @@
+{
+  "itemId": "valentinemk2",
+  "fileName": "T1L Valentine.txt",
+  "name": "Valentine Mk. I",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "MediumHEleig",
+  "fileName": "TSA leig18 bad ballistics.txt",
+  "name": "7.5 cm le.GebIG 18 Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

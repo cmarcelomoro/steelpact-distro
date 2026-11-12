@@ -1,0 +1,10 @@
+{
+  "itemId": "Hs293",
+  "fileName": "ATGM HS293.txt",
+  "name": "Hs 293A-1 Glide Bomb",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

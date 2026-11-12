@@ -1,0 +1,10 @@
+{
+  "itemId": "NH90",
+  "fileName": "T4T NH90.txt",
+  "name": "NHIndustries NH90",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

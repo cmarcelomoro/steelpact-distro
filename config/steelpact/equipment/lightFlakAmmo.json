@@ -1,0 +1,10 @@
+{
+  "itemId": "lightFlakAmmo",
+  "fileName": "AA light flak.txt",
+  "name": "Light Flak Ammo",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

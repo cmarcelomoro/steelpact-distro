@@ -1,0 +1,10 @@
+{
+  "itemId": "170mm",
+  "fileName": "TSA 170mm.txt",
+  "name": "170mm Death Howitzer Shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

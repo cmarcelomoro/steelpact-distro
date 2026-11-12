@@ -1,0 +1,10 @@
+{
+  "itemId": "Dixie",
+  "fileName": "Horn vehicle guns.txt",
+  "name": "Sound Generator",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

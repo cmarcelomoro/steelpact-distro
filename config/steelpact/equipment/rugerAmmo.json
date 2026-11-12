@@ -1,0 +1,10 @@
+{
+  "itemId": "rugerAmmo",
+  "fileName": "SAR Ruger22.txt",
+  "name": "15 Round .22 LR Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

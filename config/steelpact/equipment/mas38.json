@@ -1,0 +1,10 @@
+{
+  "itemId": "mas38",
+  "fileName": "SMG MAS38.txt",
+  "name": "Pistolet Mitrailleur de 7,65mm MAS modèle 38",
+  "folder": "guns",
+  "category": "SMG",
+  "tier": 1,
+  "influence": 6,
+  "enabled": true
+}

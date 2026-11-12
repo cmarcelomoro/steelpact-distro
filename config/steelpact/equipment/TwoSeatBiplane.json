@@ -1,0 +1,10 @@
+{
+  "itemId": "TwoSeatBiplane",
+  "fileName": "TwoSeatBiplane.txt",
+  "name": "Sukcum-25P",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

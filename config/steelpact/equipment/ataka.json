@@ -1,0 +1,10 @@
+{
+  "itemId": "ataka",
+  "fileName": "ATGM 9K120Ataka.txt",
+  "name": "9M120 Ataka",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

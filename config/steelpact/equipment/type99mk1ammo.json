@@ -1,0 +1,10 @@
+{
+  "itemId": "type99mk1ammo",
+  "fileName": "AAMG 20mm type99mk1 l72.txt",
+  "name": "150 Round 20x72mm Type 99 Mk1 Magazine",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

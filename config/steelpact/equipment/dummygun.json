@@ -1,0 +1,10 @@
+{
+  "itemId": "dummygun",
+  "fileName": "ac dummy gun.txt",
+  "name": "Dummy Gun",
+  "folder": "guns",
+  "category": "UNCLASSIFIED",
+  "tier": 1,
+  "influence": 5,
+  "enabled": false
+}

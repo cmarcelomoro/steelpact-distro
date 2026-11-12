@@ -1,0 +1,10 @@
+{
+  "itemId": "Romeo",
+  "fileName": "T2SS Romeo.txt",
+  "name": "Project 633 Class Submarine",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

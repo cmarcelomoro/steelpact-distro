@@ -1,0 +1,10 @@
+{
+  "itemId": "flak20",
+  "fileName": "T1A Flak20mm.txt",
+  "name": "2 cm Flugzeugabwehrkanone 30/38",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "rpgAmmo",
+  "fileName": "SAAT RPGAmmo.txt",
+  "name": "PG-7V (1961)",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

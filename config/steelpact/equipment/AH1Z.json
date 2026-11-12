@@ -1,0 +1,10 @@
+{
+  "itemId": "AH1Z",
+  "fileName": "T5F AH-1Z.txt",
+  "name": "Bell AH-1Z Viper (2010)",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

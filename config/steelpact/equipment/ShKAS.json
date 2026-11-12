@@ -1,0 +1,10 @@
+{
+  "itemId": "ShKAS",
+  "fileName": "VEH ShKAS MG.txt",
+  "name": "ShKAS Machinegun",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "rp3",
+  "fileName": "MGH RP-3.txt",
+  "name": "RP-3 Rockets",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

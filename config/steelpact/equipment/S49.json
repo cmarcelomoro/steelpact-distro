@@ -1,0 +1,10 @@
+{
+  "itemId": "S49",
+  "fileName": "T1F S49.txt",
+  "name": "Ikarus S-49C",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

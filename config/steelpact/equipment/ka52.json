@@ -1,0 +1,10 @@
+{
+  "itemId": "ka52",
+  "fileName": "T4F Ka-52.txt",
+  "name": "Kamov Ka-52 \"Alligator\"",
+  "folder": "planes",
+  "category": "HELICOPTER",
+  "tier": 1,
+  "influence": 45,
+  "enabled": true
+}

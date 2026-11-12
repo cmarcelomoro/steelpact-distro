@@ -1,0 +1,10 @@
+{
+  "itemId": "C-130E",
+  "fileName": "T4T C-130H.txt",
+  "name": "Lockheed C-130E Hercules",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

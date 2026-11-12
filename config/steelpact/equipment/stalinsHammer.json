@@ -1,0 +1,10 @@
+{
+  "itemId": "stalinsHammer",
+  "fileName": "T1A Stalins Hammer.txt",
+  "name": "203 mm howitzer M1931 B-4 \"Stalins Hammer\"",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

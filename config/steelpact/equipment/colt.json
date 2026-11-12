@@ -1,0 +1,10 @@
+{
+  "itemId": "colt",
+  "fileName": "HG Colt.txt",
+  "name": "M1911",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "30mmFN24",
+  "fileName": "TS 30mmFN24.txt",
+  "name": "FN24 30mm High Explosive",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

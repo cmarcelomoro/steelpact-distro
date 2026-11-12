@@ -1,0 +1,10 @@
+{
+  "itemId": "10cmAA",
+  "fileName": "NG 10cm aa.txt",
+  "name": "10cm/L65 Type 98 naval gun",
+  "folder": "guns",
+  "category": "NAVAL_GUN",
+  "tier": 1,
+  "influence": 30,
+  "enabled": true
+}

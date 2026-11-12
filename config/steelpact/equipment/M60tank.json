@@ -1,0 +1,10 @@
+{
+  "itemId": "M60tank",
+  "fileName": "T2p5M M60.txt",
+  "name": "M60A1",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

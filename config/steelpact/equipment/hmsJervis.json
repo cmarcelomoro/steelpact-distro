@@ -1,0 +1,10 @@
+{
+  "itemId": "hmsJervis",
+  "fileName": "T1S Jervis.txt",
+  "name": "HMS Jervis G00",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

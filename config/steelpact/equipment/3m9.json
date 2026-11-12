@@ -1,0 +1,10 @@
+{
+  "itemId": "3m9",
+  "fileName": "AA kub 3m9 missile.txt",
+  "name": "3M9 Missile",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "itemId": "hornet",
+  "fileName": "AAM Illuminati Missile.txt",
+  "name": "Pyramid missile",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

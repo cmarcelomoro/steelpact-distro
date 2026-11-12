@@ -1,0 +1,10 @@
+{
+  "itemId": "SparTorpedo",
+  "fileName": "NS Spar Torpedo.txt",
+  "name": "Spar Torpedo",
+  "folder": "bullets",
+  "category": "NAVAL_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

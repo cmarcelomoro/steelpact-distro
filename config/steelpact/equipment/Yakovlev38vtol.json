@@ -1,0 +1,10 @@
+{
+  "itemId": "Yakovlev38vtol",
+  "fileName": "T3F Yak 38.txt",
+  "name": "Yak-38",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

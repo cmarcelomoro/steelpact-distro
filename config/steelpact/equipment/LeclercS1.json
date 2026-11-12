@@ -1,0 +1,10 @@
+{
+  "itemId": "LeclercS1",
+  "fileName": "T4M Leclerc.txt",
+  "name": "Leclerc Séries 1",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

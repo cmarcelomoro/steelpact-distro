@@ -1,0 +1,10 @@
+{
+  "itemId": "genericBB",
+  "fileName": "T0S GenericBB.txt",
+  "name": "Generic Battleship",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

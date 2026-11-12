@@ -1,0 +1,10 @@
+{
+  "itemId": "sparviero",
+  "fileName": "T1T Sparviero.txt",
+  "name": "SM.79 Sparviero",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

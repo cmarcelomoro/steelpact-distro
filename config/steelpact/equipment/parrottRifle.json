@@ -1,0 +1,10 @@
+{
+  "itemId": "parrottRifle",
+  "fileName": "T-1A Parrott Gun 20lbs.txt",
+  "name": "10-pounder Parrott rifle, Model 1861",
+  "folder": "vehicles",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

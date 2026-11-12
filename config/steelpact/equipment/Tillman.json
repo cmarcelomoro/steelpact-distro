@@ -1,0 +1,10 @@
+{
+  "itemId": "Tillman",
+  "fileName": "T5S Tillman.txt",
+  "name": "Tillman IV Ultimate Battleship",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

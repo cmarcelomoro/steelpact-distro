@@ -1,0 +1,10 @@
+{
+  "itemId": "coinMinerVirusTrojan",
+  "fileName": "ac_dummy_gun_mark_2.txt",
+  "name": "Crash Preventer",
+  "folder": "guns",
+  "category": "MOUNTED_GUN",
+  "tier": 1,
+  "influence": 20,
+  "enabled": true
+}

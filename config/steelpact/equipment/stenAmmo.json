@@ -1,0 +1,10 @@
+{
+  "itemId": "stenAmmo",
+  "fileName": "SAS StenAmmo.txt",
+  "name": "30 Round 9x19mm Sten Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

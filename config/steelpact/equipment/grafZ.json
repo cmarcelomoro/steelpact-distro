@@ -1,0 +1,10 @@
+{
+  "itemId": "grafZ",
+  "fileName": "T1p5S CV Graf.txt",
+  "name": "Graf Zeppelin",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

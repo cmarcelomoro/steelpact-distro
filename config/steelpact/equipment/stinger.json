@@ -1,0 +1,10 @@
+{
+  "itemId": "stinger",
+  "fileName": "AA Stinger.txt",
+  "name": "FIM-92 Stinger",
+  "folder": "guns",
+  "category": "AA",
+  "tier": 1,
+  "influence": 15,
+  "enabled": true
+}

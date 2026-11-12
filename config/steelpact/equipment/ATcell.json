@@ -1,0 +1,10 @@
+{
+  "itemId": "ATcell",
+  "fileName": "SAAT Illuminati AT cell.txt",
+  "name": "AT Cell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

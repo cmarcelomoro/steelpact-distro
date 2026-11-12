@@ -1,0 +1,10 @@
+{
+  "itemId": "jugoslavija",
+  "fileName": "T0S viribus Unitis.txt",
+  "name": "Jugoslavija (1918)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

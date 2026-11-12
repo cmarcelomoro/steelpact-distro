@@ -1,0 +1,10 @@
+{
+  "itemId": "AGS30bmp",
+  "fileName": "30mm ASG30.txt",
+  "name": "ASG-30 30mm Grenade Launcher",
+  "folder": "guns",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

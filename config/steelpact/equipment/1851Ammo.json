@@ -1,0 +1,10 @@
+{
+  "itemId": "1851Ammo",
+  "fileName": "SAP colt 1851 ammo.txt",
+  "name": "6 Rounds of .36 Cal Lead Ball",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

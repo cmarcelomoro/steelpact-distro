@@ -1,0 +1,10 @@
+{
+  "itemId": "ruby",
+  "fileName": "HG Ruby.txt",
+  "name": "Ruby",
+  "folder": "guns",
+  "category": "HG",
+  "tier": 1,
+  "influence": 4,
+  "enabled": true
+}

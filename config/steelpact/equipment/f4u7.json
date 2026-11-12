@@ -1,0 +1,10 @@
+{
+  "itemId": "f4u7",
+  "fileName": "T1p5F F4u france.txt",
+  "name": "Vought F4U-7 Corsaire",
+  "folder": "planes",
+  "category": "AIRCRAFT",
+  "tier": 1,
+  "influence": 50,
+  "enabled": true
+}

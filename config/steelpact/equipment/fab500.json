@@ -1,0 +1,10 @@
+{
+  "itemId": "fab500",
+  "fileName": "BO FAB 500.txt",
+  "name": "FAB-500 500kg Bomb",
+  "folder": "bullets",
+  "category": "AIR_AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

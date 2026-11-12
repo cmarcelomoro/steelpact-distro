@@ -1,0 +1,10 @@
+{
+  "itemId": "75mmHEATItaly",
+  "fileName": "TSM 75mmHEAT Italian.txt",
+  "name": "EPS M42 75mm HEAT shell",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

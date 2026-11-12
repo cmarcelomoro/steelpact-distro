@@ -1,0 +1,10 @@
+{
+  "itemId": "149mmAP",
+  "fileName": "TSM 149mmAP.txt",
+  "name": "149mm AP Shell \"Spear of Longinus\"",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

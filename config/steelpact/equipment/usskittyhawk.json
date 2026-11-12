@@ -1,0 +1,10 @@
+{
+  "itemId": "usskittyhawk",
+  "fileName": "T2p5SCV Kittyhawk.txt",
+  "name": "USS Kitty Hawk (CV-63)",
+  "folder": "vehicles",
+  "category": "SHIP",
+  "tier": 1,
+  "influence": 75,
+  "enabled": true
+}

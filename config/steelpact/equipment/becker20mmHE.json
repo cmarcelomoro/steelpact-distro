@@ -1,0 +1,10 @@
+{
+  "itemId": "becker20mmHE",
+  "fileName": "TS 20mm Becker HE.txt",
+  "name": "Sprenggeschoß Modell 1 20x70mm HE-T Becker M.II Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

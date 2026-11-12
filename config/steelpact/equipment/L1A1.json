@@ -1,0 +1,10 @@
+{
+  "itemId": "L1A1",
+  "fileName": "T2M Leopard1A1.txt",
+  "name": "Leopard A1A1",
+  "folder": "vehicles",
+  "category": "MBT",
+  "tier": 1,
+  "influence": 60,
+  "enabled": true
+}

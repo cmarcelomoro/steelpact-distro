@@ -1,0 +1,10 @@
+{
+  "itemId": "rpg7",
+  "fileName": "AT RPG7 original.txt",
+  "name": "RPG-7",
+  "folder": "guns",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}

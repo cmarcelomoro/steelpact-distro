@@ -1,0 +1,10 @@
+{
+  "itemId": "umpAmmo",
+  "fileName": "SAS UMP45Ammo.txt",
+  "name": "25 Round .45 ACP UMP-45 Magazine",
+  "folder": "bullets",
+  "category": "AMMO",
+  "tier": 1,
+  "influence": 5,
+  "enabled": true
+}
