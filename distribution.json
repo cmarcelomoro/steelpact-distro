@@ -168,16 +168,6 @@
             "MD5": "1f48b894ee8533ee24d56e25fbfaa9a3",
             "path": "Flan/Flans-Ye-Olde-Pack-1.7.10.jar"
           }
-        },
-        {
-          "id": "Tyrants and Plebeians Hero Shooter Update.zip",
-          "name": "Tyrants and Plebeians Hero Shooter Update.zip",
-          "type": "File",
-          "artifact": {
-            "size": 396808510,
-            "url": "https://github.com/cmarcelomoro/steelpact-distro/releases/download/v1.0.0/Tyrants_and_Plebeians_Hero_Shooter_Update.zip",
-            "path": "Flan/Tyrants and Plebeians Hero Shooter Update.zip"
-          }
         }
       ],
       "icon": "https://cmarcelomoro.github.io/steelpact-distro/icon.png"
