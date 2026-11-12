@@ -20,10 +20,12 @@
         {
           "id": "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10:universal",
           "name": "Minecraft Forge 10.13.4.1614",
-          "type": "File",
+          "type": "ForgeHosted",
           "artifact": {
-            "size": 3971917,
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+            "size": 3018833,
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar",
+            "MD5": "add0fba161c4652a96efb4264ec2d9ec",
+            "path": "net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
           }
         },
         {
