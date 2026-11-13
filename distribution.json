@@ -367,17 +367,17 @@
           }
         },
         {
-          "id": "mods-SteelPact-main-12-11-2026.jar",
-          "name": "SteelPact-main-12-11-2026.jar",
+          "id": "mods-SteelPact-feature-battle-system-30-09-2026.jar",
+          "name": "SteelPact-feature-battle-system-30-09-2026.jar",
           "type": "File",
           "required": {
             "value": true
           },
           "artifact": {
-            "size": 2974378,
-            "MD5": "ac55a828600562a7c64bfaed29f9dda9",
-            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/SteelPact-main-12-11-2026.jar",
-            "path": "mods/SteelPact-main-12-11-2026.jar"
+            "size": 1481357,
+            "MD5": "aaa13512c0036ec531d14472aca4acc4",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/SteelPact-feature-battle-system-30-09-2026.jar",
+            "path": "mods/SteelPact-feature-battle-system-30-09-2026.jar"
           }
         },
         {
