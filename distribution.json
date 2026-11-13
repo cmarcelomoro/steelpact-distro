@@ -367,17 +367,17 @@
           }
         },
         {
-          "id": "mods-SteelPact-feature-industrial-stock-13-11-2026.jar",
-          "name": "SteelPact-feature-industrial-stock-13-11-2026.jar",
+          "id": "mods-SteelPact-feature-tab-player-list-13-11-2026.jar",
+          "name": "SteelPact-feature-tab-player-list-13-11-2026.jar",
           "type": "File",
           "required": {
             "value": true
           },
           "artifact": {
-            "size": 1564362,
-            "MD5": "8c1ac38f1935fbdfd10939f1946280d1",
-            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/SteelPact-feature-industrial-stock-13-11-2026.jar",
-            "path": "mods/SteelPact-feature-industrial-stock-13-11-2026.jar"
+            "size": 1569544,
+            "MD5": "6fab35e622917be94712fc4ebf816355",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/SteelPact-feature-tab-player-list-13-11-2026.jar",
+            "path": "mods/SteelPact-feature-tab-player-list-13-11-2026.jar"
           }
         },
         {
