@@ -584,6 +584,20 @@
             "url": "https://github.com/cmarcelomoro/steelpact-distro/releases/download/v1.20.1-1.0.0/SteelPact-Flans-Ganesha-1.20.1-1.0.0.jar",
             "path": "mods/SteelPact-Flans-Ganesha-1.20.1-1.0.0.jar"
           }
+        },
+        {
+          "id": "mods-hbm_m-0.2.1-alpha+1.20.1-forge.jar",
+          "name": "hbm_m-0.2.1-alpha+1.20.1-forge.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 44959947,
+            "MD5": "2e00a7e491ecc90514d6df59279fa085",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/hbm_m-0.2.1-alpha+1.20.1-forge.jar",
+            "path": "mods/hbm_m-0.2.1-alpha+1.20.1-forge.jar"
+          }
         }
       ]
     }
