@@ -579,8 +579,8 @@
             "value": true
           },
           "artifact": {
-            "size": 124110933,
-            "MD5": "06ccd9b65391ac723010ebbd154daaa9",
+            "size": 124118324,
+            "MD5": "606c62238b5e41701960fde02a641b91",
             "url": "https://github.com/cmarcelomoro/steelpact-distro/releases/download/v1.20.1-1.0.0/SteelPact-Flans-Ganesha-1.20.1-1.0.0.jar",
             "path": "mods/SteelPact-Flans-Ganesha-1.20.1-1.0.0.jar"
           }
