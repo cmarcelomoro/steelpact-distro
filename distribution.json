@@ -586,6 +586,34 @@
           }
         },
         {
+          "id": "mods-superbwarfare-0.8.10-snapshot-mc1.20.1-804d21e.jar",
+          "name": "superbwarfare-0.8.10-snapshot-mc1.20.1-804d21e.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 90412442,
+            "MD5": "5afb232a6472455643ed46befac52e38",
+            "url": "https://github.com/cmarcelomoro/steelpact-distro/releases/download/v1.20.1-1.0.0/superbwarfare-0.8.10-snapshot-mc1.20.1-804d21e.jar",
+            "path": "mods/superbwarfare-0.8.10-snapshot-mc1.20.1-804d21e.jar"
+          }
+        },
+        {
+          "id": "mods-geckolib-forge-1.20.1-4.7.4.jar",
+          "name": "geckolib-forge-1.20.1-4.7.4.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 1013210,
+            "MD5": "13892e4f925b758498e7db2f2235da08",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/geckolib-forge-1.20.1-4.7.4.jar",
+            "path": "mods/geckolib-forge-1.20.1-4.7.4.jar"
+          }
+        },
+        {
           "id": "mods-hbm_m-0.2.1-alpha+1.20.1-forge.jar",
           "name": "hbm_m-0.2.1-alpha+1.20.1-forge.jar",
           "type": "File",
@@ -597,6 +625,20 @@
             "MD5": "2e00a7e491ecc90514d6df59279fa085",
             "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/hbm_m-0.2.1-alpha+1.20.1-forge.jar",
             "path": "mods/hbm_m-0.2.1-alpha+1.20.1-forge.jar"
+          }
+        },
+        {
+          "id": "mods-kotlinforforge-4.12.0-all.jar",
+          "name": "kotlinforforge-4.12.0-all.jar",
+          "type": "File",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "size": 7442998,
+            "MD5": "d6a40dede74edbe646b34a1bafd53b4d",
+            "url": "https://cmarcelomoro.github.io/steelpact-distro/mods/kotlinforforge-4.12.0-all.jar",
+            "path": "mods/kotlinforforge-4.12.0-all.jar"
           }
         }
       ]
