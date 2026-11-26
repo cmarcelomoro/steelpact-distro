@@ -572,20 +572,6 @@
           ]
         },
         {
-          "id": "mods-SteelPact-Flans-Ganesha-1.20.1-1.0.0.jar",
-          "name": "SteelPact-Flans-Ganesha-1.20.1-1.0.0.jar",
-          "type": "File",
-          "required": {
-            "value": true
-          },
-          "artifact": {
-            "size": 124131637,
-            "MD5": "622d0f36206f3a8c575a3f6a9a423a69",
-            "url": "https://github.com/cmarcelomoro/steelpact-distro/releases/download/v1.20.1-1.0.0/SteelPact-Flans-Ganesha-1.20.1-1.0.0.jar",
-            "path": "mods/SteelPact-Flans-Ganesha-1.20.1-1.0.0.jar"
-          }
-        },
-        {
           "id": "mods-superbwarfare-0.8.10-snapshot-mc1.20.1-804d21e.jar",
           "name": "superbwarfare-0.8.10-snapshot-mc1.20.1-804d21e.jar",
           "type": "File",
