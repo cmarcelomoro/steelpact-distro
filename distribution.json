@@ -579,8 +579,8 @@
             "value": true
           },
           "artifact": {
-            "size": 90512431,
-            "MD5": "cfe053be92a23011619862f984075850",
+            "size": 90512732,
+            "MD5": "1eab4836ea902df16cd3366eb83b351d",
             "url": "https://github.com/cmarcelomoro/steelpact-distro/releases/download/v1.20.1-1.0.0/superbwarfare-0.8.10-snapshot-mc1.20.1-804d21e.jar",
             "path": "mods/superbwarfare-0.8.10-snapshot-mc1.20.1-804d21e.jar"
           }
